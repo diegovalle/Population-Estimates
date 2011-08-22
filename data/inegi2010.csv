@@ -1,0 +1,2490 @@
+"ENTIDAD","NOM_ENT","MUN","NOM_MUN","P_TOTAL","POBMAS","POBFEM"
+0,"Total nacional",0,"Total nacional",112336538,54855231,57481307
+1,"Aguascalientes",0,"Total de la entidad Aguascalientes",1184996,576638,608358
+1,"Aguascalientes",1,"Aguascalientes",797010,386429,410581
+1,"Aguascalientes",2,"Asientos",45492,22512,22980
+1,"Aguascalientes",3,"Calvillo",54136,26250,27886
+1,"Aguascalientes",4,"Cosío",15042,7326,7716
+1,"Aguascalientes",5,"Jesús María",99590,49090,50500
+1,"Aguascalientes",6,"Pabellón de Arteaga",41862,20170,21692
+1,"Aguascalientes",7,"Rincón de Romos",49156,24067,25089
+1,"Aguascalientes",8,"San José de Gracia",8443,4043,4400
+1,"Aguascalientes",9,"Tepezalá",19668,9600,10068
+1,"Aguascalientes",10,"El Llano",18828,9573,9255
+1,"Aguascalientes",11,"San Francisco de los Romo",35769,17578,18191
+2,"Baja California",0,"Total de la entidad Baja California",3155070,1591610,1563460
+2,"Baja California",1,"Ensenada",466814,235130,231684
+2,"Baja California",2,"Mexicali",936826,473203,463623
+2,"Baja California",3,"Tecate",101079,53323,47756
+2,"Baja California",4,"Tijuana",1559683,783653,776030
+2,"Baja California",5,"Playas de Rosarito",90668,46301,44367
+3,"Baja California Sur",0,"Total de la entidad Baja California Sur",637026,325433,311593
+3,"Baja California Sur",1,"Comondú",70816,36436,34380
+3,"Baja California Sur",2,"Mulegé",59114,30617,28497
+3,"Baja California Sur",3,"La Paz",251871,126397,125474
+3,"Baja California Sur",8,"Los Cabos",238487,123101,115386
+3,"Baja California Sur",9,"Loreto",16738,8882,7856
+4,"Campeche",0,"Total de la entidad Campeche",822441,407721,414720
+4,"Campeche",1,"Calkiní",52890,26072,26818
+4,"Campeche",2,"Campeche",259005,125561,133444
+4,"Campeche",3,"Carmen",221094,110317,110777
+4,"Campeche",4,"Champotón",83021,41760,41261
+4,"Campeche",5,"Hecelchakán",28306,14093,14213
+4,"Campeche",6,"Hopelchén",37777,19306,18471
+4,"Campeche",7,"Palizada",8352,4230,4122
+4,"Campeche",8,"Tenabo",9736,5002,4734
+4,"Campeche",9,"Escárcega",54184,26809,27375
+4,"Campeche",10,"Calakmul",26882,13647,13235
+4,"Campeche",11,"Candelaria",41194,20924,20270
+5,"Coahuila de Zaragoza",0,"Total de la entidad Coahuila de Zaragoza",2748391,1364197,1384194
+5,"Coahuila de Zaragoza",1,"Abasolo",1070,531,539
+5,"Coahuila de Zaragoza",2,"Acuña",136755,68350,68405
+5,"Coahuila de Zaragoza",3,"Allende",22675,11114,11561
+5,"Coahuila de Zaragoza",4,"Arteaga",22544,11540,11004
+5,"Coahuila de Zaragoza",5,"Candela",1808,939,869
+5,"Coahuila de Zaragoza",6,"Castaños",25892,12945,12947
+5,"Coahuila de Zaragoza",7,"Cuatro Ciénegas",13013,6565,6448
+5,"Coahuila de Zaragoza",8,"Escobedo",2901,1475,1426
+5,"Coahuila de Zaragoza",9,"Francisco I. Madero",55676,27739,27937
+5,"Coahuila de Zaragoza",10,"Frontera",75215,37561,37654
+5,"Coahuila de Zaragoza",11,"General Cepeda",11682,6071,5611
+5,"Coahuila de Zaragoza",12,"Guerrero",2091,1115,976
+5,"Coahuila de Zaragoza",13,"Hidalgo",1852,955,897
+5,"Coahuila de Zaragoza",14,"Jiménez",9935,5041,4894
+5,"Coahuila de Zaragoza",15,"Juárez",1599,827,772
+5,"Coahuila de Zaragoza",16,"Lamadrid",1835,941,894
+5,"Coahuila de Zaragoza",17,"Matamoros",107160,53353,53807
+5,"Coahuila de Zaragoza",18,"Monclova",216206,107401,108805
+5,"Coahuila de Zaragoza",19,"Morelos",8207,4095,4112
+5,"Coahuila de Zaragoza",20,"Múzquiz",66834,33465,33369
+5,"Coahuila de Zaragoza",21,"Nadadores",6335,3186,3149
+5,"Coahuila de Zaragoza",22,"Nava",27928,14237,13691
+5,"Coahuila de Zaragoza",23,"Ocampo",10991,5652,5339
+5,"Coahuila de Zaragoza",24,"Parras",45401,23062,22339
+5,"Coahuila de Zaragoza",25,"Piedras Negras",152806,76404,76402
+5,"Coahuila de Zaragoza",26,"Progreso",3473,1774,1699
+5,"Coahuila de Zaragoza",27,"Ramos Arizpe",75461,38302,37159
+5,"Coahuila de Zaragoza",28,"Sabinas",60847,30247,30600
+5,"Coahuila de Zaragoza",29,"Sacramento",2314,1175,1139
+5,"Coahuila de Zaragoza",30,"Saltillo",725123,359366,365757
+5,"Coahuila de Zaragoza",31,"San Buenaventura",22149,11044,11105
+5,"Coahuila de Zaragoza",32,"San Juan de Sabinas",41649,20502,21147
+5,"Coahuila de Zaragoza",33,"San Pedro",102650,51393,51257
+5,"Coahuila de Zaragoza",34,"Sierra Mojada",6375,3306,3069
+5,"Coahuila de Zaragoza",35,"Torreón",639629,312135,327494
+5,"Coahuila de Zaragoza",36,"Viesca",21319,10762,10557
+5,"Coahuila de Zaragoza",37,"Villa Unión",6289,3217,3072
+5,"Coahuila de Zaragoza",38,"Zaragoza",12702,6410,6292
+6,"Colima",0,"Total de la entidad Colima",650555,322790,327765
+6,"Colima",1,"Armería",28695,14456,14239
+6,"Colima",2,"Colima",146904,71556,75348
+6,"Colima",3,"Comala",20888,10543,10345
+6,"Colima",4,"Coquimatlán",19385,9709,9676
+6,"Colima",5,"Cuauhtémoc",27107,13483,13624
+6,"Colima",6,"Ixtlahuacán",5300,2679,2621
+6,"Colima",7,"Manzanillo",161420,81007,80413
+6,"Colima",8,"Minatitlán",8174,4196,3978
+6,"Colima",9,"Tecomán",112726,56804,55922
+6,"Colima",10,"Villa de Álvarez",119956,58357,61599
+7,"Chiapas",0,"Total de la entidad Chiapas",4796580,2352807,2443773
+7,"Chiapas",1,"Acacoyagua",16814,8436,8378
+7,"Chiapas",2,"Acala",28947,14473,14474
+7,"Chiapas",3,"Acapetahua",27580,13891,13689
+7,"Chiapas",4,"Altamirano",29865,15019,14846
+7,"Chiapas",5,"Amatán",21275,10791,10484
+7,"Chiapas",6,"Amatenango de la Frontera",29547,14447,15100
+7,"Chiapas",7,"Amatenango del Valle",8728,4183,4545
+7,"Chiapas",8,"Angel Albino Corzo",26628,13359,13269
+7,"Chiapas",9,"Arriaga",40042,19534,20508
+7,"Chiapas",10,"Bejucal de Ocampo",7623,3856,3767
+7,"Chiapas",11,"Bella Vista",19281,9522,9759
+7,"Chiapas",12,"Berriozábal",43179,21562,21617
+7,"Chiapas",13,"Bochil",30642,15219,15423
+7,"Chiapas",14,"El Bosque",18559,9090,9469
+7,"Chiapas",15,"Cacahoatán",43811,21417,22394
+7,"Chiapas",16,"Catazajá",17140,8747,8393
+7,"Chiapas",17,"Cintalapa",78114,39239,38875
+7,"Chiapas",18,"Coapilla",8444,4200,4244
+7,"Chiapas",19,"Comitán de Domínguez",141013,67691,73322
+7,"Chiapas",20,"La Concordia",44082,22120,21962
+7,"Chiapas",21,"Copainalá",21050,10375,10675
+7,"Chiapas",22,"Chalchihuitán",14027,6919,7108
+7,"Chiapas",23,"Chamula",76941,35555,41386
+7,"Chiapas",24,"Chanal",10817,5376,5441
+7,"Chiapas",25,"Chapultenango",7332,3660,3672
+7,"Chiapas",26,"Chenalhó",36111,17820,18291
+7,"Chiapas",27,"Chiapa de Corzo",87603,43301,44302
+7,"Chiapas",28,"Chiapilla",5405,2781,2624
+7,"Chiapas",29,"Chicoasén",5018,2516,2502
+7,"Chiapas",30,"Chicomuselo",31515,15715,15800
+7,"Chiapas",31,"Chilón",111554,55205,56349
+7,"Chiapas",32,"Escuintla",30068,14786,15282
+7,"Chiapas",33,"Francisco León",7000,3540,3460
+7,"Chiapas",34,"Frontera Comalapa",67012,32631,34381
+7,"Chiapas",35,"Frontera Hidalgo",12665,6229,6436
+7,"Chiapas",36,"La Grandeza",7272,3649,3623
+7,"Chiapas",37,"Huehuetán",33444,16355,17089
+7,"Chiapas",38,"Huixtán",21507,10599,10908
+7,"Chiapas",39,"Huitiupán",22536,11368,11168
+7,"Chiapas",40,"Huixtla",51359,24914,26445
+7,"Chiapas",41,"La Independencia",41266,20256,21010
+7,"Chiapas",42,"Ixhuatán",10239,5070,5169
+7,"Chiapas",43,"Ixtacomitán",10176,5077,5099
+7,"Chiapas",44,"Ixtapa",24517,12121,12396
+7,"Chiapas",45,"Ixtapangajoya",5478,2775,2703
+7,"Chiapas",46,"Jiquipilas",37818,18758,19060
+7,"Chiapas",47,"Jitotol",18683,9448,9235
+7,"Chiapas",48,"Juárez",21084,10481,10603
+7,"Chiapas",49,"Larráinzar",20349,10035,10314
+7,"Chiapas",50,"La Libertad",4974,2441,2533
+7,"Chiapas",51,"Mapastepec",43913,21680,22233
+7,"Chiapas",52,"Las Margaritas",111484,54787,56697
+7,"Chiapas",53,"Mazapa de Madero",7793,3868,3925
+7,"Chiapas",54,"Mazatán",26573,13165,13408
+7,"Chiapas",55,"Metapa",5033,2432,2601
+7,"Chiapas",56,"Mitontic",11157,5497,5660
+7,"Chiapas",57,"Motozintla",69119,34033,35086
+7,"Chiapas",58,"Nicolás Ruíz",4317,2226,2091
+7,"Chiapas",59,"Ocosingo",198877,99113,99764
+7,"Chiapas",60,"Ocotepec",11878,5893,5985
+7,"Chiapas",61,"Ocozocoautla de Espinosa",82059,40580,41479
+7,"Chiapas",62,"Ostuacán",17067,8614,8453
+7,"Chiapas",63,"Osumacinta",3792,1894,1898
+7,"Chiapas",64,"Oxchuc",43350,21844,21506
+7,"Chiapas",65,"Palenque",110918,54786,56132
+7,"Chiapas",66,"Pantelhó",20589,10226,10363
+7,"Chiapas",67,"Pantepec",10870,5399,5471
+7,"Chiapas",68,"Pichucalco",29813,14820,14993
+7,"Chiapas",69,"Pijijiapan",50079,24803,25276
+7,"Chiapas",70,"El Porvenir",13201,6586,6615
+7,"Chiapas",71,"Villa Comaltitlán",27899,13850,14049
+7,"Chiapas",72,"Pueblo Nuevo Solistahuacán",31075,15104,15971
+7,"Chiapas",73,"Rayón",9002,4482,4520
+7,"Chiapas",74,"Reforma",40711,20004,20707
+7,"Chiapas",75,"Las Rosas",25530,12659,12871
+7,"Chiapas",76,"Sabanilla",25187,12606,12581
+7,"Chiapas",77,"Salto de Agua",57253,28433,28820
+7,"Chiapas",78,"San Cristóbal de las Casas",185917,88996,96921
+7,"Chiapas",79,"San Fernando",33060,16685,16375
+7,"Chiapas",80,"Siltepec",38143,19349,18794
+7,"Chiapas",81,"Simojovel",40297,19875,20422
+7,"Chiapas",82,"Sitalá",12269,6113,6156
+7,"Chiapas",83,"Socoltenango",17125,8527,8598
+7,"Chiapas",84,"Solosuchiapa",8065,4054,4011
+7,"Chiapas",85,"Soyaló",9740,4887,4853
+7,"Chiapas",86,"Suchiapa",21045,10551,10494
+7,"Chiapas",87,"Suchiate",35056,17171,17885
+7,"Chiapas",88,"Sunuapa",2235,1143,1092
+7,"Chiapas",89,"Tapachula",320451,154221,166230
+7,"Chiapas",90,"Tapalapa",4121,2002,2119
+7,"Chiapas",91,"Tapilula",12170,6009,6161
+7,"Chiapas",92,"Tecpatán",41045,20420,20625
+7,"Chiapas",93,"Tenejapa",40268,19761,20507
+7,"Chiapas",94,"Teopisca",37607,18230,19377
+7,"Chiapas",96,"Tila",71432,35704,35728
+7,"Chiapas",97,"Tonalá",84594,41927,42667
+7,"Chiapas",98,"Totolapa",6375,3189,3186
+7,"Chiapas",99,"La Trinitaria",72769,35593,37176
+7,"Chiapas",100,"Tumbalá",31723,15591,16132
+7,"Chiapas",101,"Tuxtla Gutiérrez",553374,263941,289433
+7,"Chiapas",102,"Tuxtla Chico",37737,18487,19250
+7,"Chiapas",103,"Tuzantán",28137,13896,14241
+7,"Chiapas",104,"Tzimol",14009,6884,7125
+7,"Chiapas",105,"Unión Juárez",14089,6883,7206
+7,"Chiapas",106,"Venustiano Carranza",61341,30774,30567
+7,"Chiapas",107,"Villa Corzo",74477,36798,37679
+7,"Chiapas",108,"Villaflores",98618,48595,50023
+7,"Chiapas",109,"Yajalón",34028,16644,17384
+7,"Chiapas",110,"San Lucas",6734,3404,3330
+7,"Chiapas",111,"Zinacantán",36489,17176,19313
+7,"Chiapas",112,"San Juan Cancuc",29016,14154,14862
+7,"Chiapas",113,"Aldama",5072,2438,2634
+7,"Chiapas",114,"Benemérito de las Américas",17282,8695,8587
+7,"Chiapas",115,"Maravilla Tenejapa",11451,5835,5616
+7,"Chiapas",116,"Marqués de Comillas",9856,4993,4863
+7,"Chiapas",117,"Montecristo de Guerrero",6900,3474,3426
+7,"Chiapas",118,"San Andrés Duraznal",4545,2195,2350
+7,"Chiapas",119,"Santiago el Pinar",3245,1607,1638
+8,"Chihuahua",0,"Total de la entidad chihuahua",3406465,1692545,1713920
+8,"Chihuahua",1,"Ahumada",11457,5852,5605
+8,"Chihuahua",2,"Aldama",22302,11099,11203
+8,"Chihuahua",3,"Allende",8409,4258,4151
+8,"Chihuahua",4,"Aquiles Serdán",10688,6272,4416
+8,"Chihuahua",5,"Ascensión",23975,12207,11768
+8,"Chihuahua",6,"Bachíniva",6011,3074,2937
+8,"Chihuahua",7,"Balleza",17672,8980,8692
+8,"Chihuahua",8,"Batopilas",14362,7297,7065
+8,"Chihuahua",9,"Bocoyna",28766,14147,14619
+8,"Chihuahua",10,"Buenaventura",22378,11287,11091
+8,"Chihuahua",11,"Camargo",48748,24032,24716
+8,"Chihuahua",12,"Carichí",8795,4403,4392
+8,"Chihuahua",13,"Casas Grandes",10587,5380,5207
+8,"Chihuahua",14,"Coronado",2284,1184,1100
+8,"Chihuahua",15,"Coyame del Sotol",1681,917,764
+8,"Chihuahua",16,"La Cruz",3982,2043,1939
+8,"Chihuahua",17,"Cuauhtémoc",154639,75936,78703
+8,"Chihuahua",18,"Cusihuiriachi",5414,2812,2602
+8,"Chihuahua",19,"Chihuahua",819543,399495,420048
+8,"Chihuahua",20,"Chínipas",8441,4448,3993
+8,"Chihuahua",21,"Delicias",137935,68013,69922
+8,"Chihuahua",22,"Dr. Belisario Domínguez",2911,1478,1433
+8,"Chihuahua",23,"Galeana",5892,2941,2951
+8,"Chihuahua",24,"Santa Isabel",3937,1979,1958
+8,"Chihuahua",25,"Gómez Farías",8624,4295,4329
+8,"Chihuahua",26,"Gran Morelos",3209,1655,1554
+8,"Chihuahua",27,"Guachochi",49689,24624,25065
+8,"Chihuahua",28,"Guadalupe",6458,3243,3215
+8,"Chihuahua",29,"Guadalupe y Calvo",53499,27053,26446
+8,"Chihuahua",30,"Guazapares",8998,4600,4398
+8,"Chihuahua",31,"Guerrero",39626,19912,19714
+8,"Chihuahua",32,"Hidalgo del Parral",107061,51883,55178
+8,"Chihuahua",33,"Huejotitán",1049,522,527
+8,"Chihuahua",34,"Ignacio Zaragoza",6934,3534,3400
+8,"Chihuahua",35,"Janos",10953,5727,5226
+8,"Chihuahua",36,"Jiménez",41265,20564,20701
+8,"Chihuahua",37,"Juárez",1332131,665691,666440
+8,"Chihuahua",38,"Julimes",4953,2553,2400
+8,"Chihuahua",39,"López",4025,2101,1924
+8,"Chihuahua",40,"Madera",29611,14969,14642
+8,"Chihuahua",41,"Maguarichi",1921,994,927
+8,"Chihuahua",42,"Manuel Benavides",1601,871,730
+8,"Chihuahua",43,"Matachí",3104,1578,1526
+8,"Chihuahua",44,"Matamoros",4499,2293,2206
+8,"Chihuahua",45,"Meoqui",43833,21930,21903
+8,"Chihuahua",46,"Morelos",8343,4285,4058
+8,"Chihuahua",47,"Moris",5312,2775,2537
+8,"Chihuahua",48,"Namiquipa",22880,11630,11250
+8,"Chihuahua",49,"Nonoava",2849,1479,1370
+8,"Chihuahua",50,"Nuevo Casas Grandes",59337,29058,30279
+8,"Chihuahua",51,"Ocampo",7546,3935,3611
+8,"Chihuahua",52,"Ojinaga",26304,13290,13014
+8,"Chihuahua",53,"Praxedis G. Guerrero",4799,2433,2366
+8,"Chihuahua",54,"Riva Palacio",8012,4076,3936
+8,"Chihuahua",55,"Rosales",16785,8526,8259
+8,"Chihuahua",56,"Rosario",2235,1131,1104
+8,"Chihuahua",57,"San Francisco de Borja",2290,1183,1107
+8,"Chihuahua",58,"San Francisco de Conchos",2983,1549,1434
+8,"Chihuahua",59,"San Francisco del Oro",4753,2399,2354
+8,"Chihuahua",60,"Santa Bárbara",10427,5183,5244
+8,"Chihuahua",61,"Satevó",3662,1908,1754
+8,"Chihuahua",62,"Saucillo",32325,16275,16050
+8,"Chihuahua",63,"TEMÓSACHIC",6211,3216,2995
+8,"Chihuahua",64,"El Tule",1869,960,909
+8,"Chihuahua",65,"Urique",20386,10342,10044
+8,"Chihuahua",66,"Uruachi",8200,4150,4050
+8,"Chihuahua",67,"Valle de Zaragoza",5105,2636,2469
+9,"Distrito Federal",0,"Total del Distrito Federal",8851080,4233783,4617297
+9,"Distrito Federal",2,"Azcapotzalco",414711,196053,218658
+9,"Distrito Federal",3,"Coyoacán",620416,292491,327925
+9,"Distrito Federal",4,"Cuajimalpa de Morelos",186391,88642,97749
+9,"Distrito Federal",5,"Gustavo A. Madero",1185772,571233,614539
+9,"Distrito Federal",6,"Iztacalco",384326,182534,201792
+9,"Distrito Federal",7,"Iztapalapa",1815786,880998,934788
+9,"Distrito Federal",8,"La Magdalena Contreras",239086,114492,124594
+9,"Distrito Federal",9,"Milpa Alta",130582,64192,66390
+9,"Distrito Federal",10,"Álvaro Obregón",727034,346041,380993
+9,"Distrito Federal",11,"Tláhuac",360265,175210,185055
+9,"Distrito Federal",12,"Tlalpan",650567,312139,338428
+9,"Distrito Federal",13,"Xochimilco",415007,205305,209702
+9,"Distrito Federal",14,"Benito Juárez",385439,176410,209029
+9,"Distrito Federal",15,"Cuauhtémoc",531831,251725,280106
+9,"Distrito Federal",16,"Miguel Hidalgo",372889,172667,200222
+9,"Distrito Federal",17,"Venustiano Carranza",430978,203651,227327
+10,"Durango",0,"Total de la entidad Durango",1632934,803890,829044
+10,"Durango",1,"Canatlán",31401,15633,15768
+10,"Durango",2,"Canelas",4122,2165,1957
+10,"Durango",3,"Coneto de Comonfort",4530,2244,2286
+10,"Durango",4,"Cuencamé",33664,16961,16703
+10,"Durango",5,"Durango",582267,281702,300565
+10,"Durango",6,"General Simón Bolívar",10629,5290,5339
+10,"Durango",7,"Gómez Palacio",327985,161736,166249
+10,"Durango",8,"Guadalupe Victoria",34052,16987,17065
+10,"Durango",9,"Guanaceví",10149,5203,4946
+10,"Durango",10,"Hidalgo",4265,2180,2085
+10,"Durango",11,"Indé",5280,2635,2645
+10,"Durango",12,"Lerdo",141043,69737,71306
+10,"Durango",13,"Mapimí",25137,12549,12588
+10,"Durango",14,"Mezquital",33396,16514,16882
+10,"Durango",15,"Nazas",12411,6162,6249
+10,"Durango",16,"Nombre de Dios",18488,9180,9308
+10,"Durango",17,"Ocampo",9626,4955,4671
+10,"Durango",18,"El Oro",11320,5668,5652
+10,"Durango",19,"Otáez",5208,2682,2526
+10,"Durango",20,"Pánuco de Coronado",11927,5905,6022
+10,"Durango",21,"Peñón Blanco",10473,5309,5164
+10,"Durango",22,"Poanas",24918,12266,12652
+10,"Durango",23,"Pueblo Nuevo",49162,24407,24755
+10,"Durango",24,"Rodeo",12788,6402,6386
+10,"Durango",25,"San Bernardo",3433,1805,1628
+10,"Durango",26,"San Dimas",19691,10039,9652
+10,"Durango",27,"San Juan de Guadalupe",5947,2930,3017
+10,"Durango",28,"San Juan del Río",11855,5851,6004
+10,"Durango",29,"San Luis del Cordero",2181,1112,1069
+10,"Durango",30,"San Pedro del Gallo",1709,875,834
+10,"Durango",31,"Santa Clara",7003,3500,3503
+10,"Durango",32,"Santiago Papasquiaro",44966,22382,22584
+10,"Durango",33,"Súchil",6761,3240,3521
+10,"Durango",34,"Tamazula",26368,13702,12666
+10,"Durango",35,"Tepehuanes",10745,5282,5463
+10,"Durango",36,"Tlahualilo",22244,11137,11107
+10,"Durango",37,"Topia",8581,4395,4186
+10,"Durango",38,"Vicente Guerrero",21117,10206,10911
+10,"Durango",39,"Nuevo Ideal",26092,12962,13130
+11,"Guanajuato",0,"Total de la entidad Guanajuato",5486372,2639425,2846947
+11,"Guanajuato",1,"Abasolo",84332,40281,44051
+11,"Guanajuato",2,"Acámbaro",109030,51803,57227
+11,"Guanajuato",3,"San Miguel de Allende",160383,75878,84505
+11,"Guanajuato",4,"Apaseo el Alto",64433,31177,33256
+11,"Guanajuato",5,"Apaseo el Grande",85319,41038,44281
+11,"Guanajuato",6,"Atarjea",5610,2748,2862
+11,"Guanajuato",7,"Celaya",468469,225024,243445
+11,"Guanajuato",8,"Manuel Doblado",37145,17546,19599
+11,"Guanajuato",9,"Comonfort",77794,36430,41364
+11,"Guanajuato",10,"Coroneo",11691,5462,6229
+11,"Guanajuato",11,"Cortazar",88397,42650,45747
+11,"Guanajuato",12,"Cuerámaro",27308,13071,14237
+11,"Guanajuato",13,"Doctor Mora",23324,11129,12195
+11,"Guanajuato",14,"DOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL",148173,69891,78282
+11,"Guanajuato",15,"Guanajuato",171709,82830,88879
+11,"Guanajuato",16,"Huanímaro",20117,9421,10696
+11,"Guanajuato",17,"Irapuato",529440,254784,274656
+11,"Guanajuato",18,"Jaral del Progreso",36584,17661,18923
+11,"Guanajuato",19,"Jerécuaro",50832,23555,27277
+11,"Guanajuato",20,"León",1436480,701781,734699
+11,"Guanajuato",21,"Moroleón",49364,23282,26082
+11,"Guanajuato",22,"Ocampo",22683,10870,11813
+11,"Guanajuato",23,"Pénjamo",149936,70551,79385
+11,"Guanajuato",24,"Pueblo Nuevo",11169,5201,5968
+11,"Guanajuato",25,"Purísima del Rincón",68795,33782,35013
+11,"Guanajuato",26,"Romita",56655,27274,29381
+11,"Guanajuato",27,"Salamanca",260732,126354,134378
+11,"Guanajuato",28,"Salvatierra",97054,45885,51169
+11,"Guanajuato",29,"San Diego de la Unión",37103,17286,19817
+11,"Guanajuato",30,"San Felipe",106952,51340,55612
+11,"Guanajuato",31,"San Francisco del Rincón",113570,55026,58544
+11,"Guanajuato",32,"San José Iturbide",72411,34637,37774
+11,"Guanajuato",33,"San Luis de la Paz",115656,54726,60930
+11,"Guanajuato",34,"Santa Catarina",5120,2401,2719
+11,"Guanajuato",35,"Santa Cruz de Juventino Rosas",79214,37921,41293
+11,"Guanajuato",36,"Santiago Maravatío",6670,3111,3559
+11,"Guanajuato",37,"Silao",173024,83948,89076
+11,"Guanajuato",38,"Tarandacuao",11641,5511,6130
+11,"Guanajuato",39,"Tarimoro",35571,16975,18596
+11,"Guanajuato",40,"Tierra Blanca",18175,8765,9410
+11,"Guanajuato",41,"Uriangato",59305,28331,30974
+11,"Guanajuato",42,"Valle de Santiago",141058,66846,74212
+11,"Guanajuato",43,"Victoria",19820,9365,10455
+11,"Guanajuato",44,"Villagrán",55782,26905,28877
+11,"Guanajuato",45,"Xichú",11560,5534,6026
+11,"Guanajuato",46,"Yuriria",70782,33438,37344
+12,"Guerrero",0,"Total de la entidad Guerrero",3388768,1645561,1743207
+12,"Guerrero",1,"Acapulco de Juárez",789971,382276,407695
+12,"Guerrero",2,"Ahuacuotzingo",25027,11748,13279
+12,"Guerrero",3,"Ajuchitlán del Progreso",38203,18342,19861
+12,"Guerrero",4,"Alcozauca de Guerrero",18971,8917,10054
+12,"Guerrero",5,"Alpoyeca",6637,3114,3523
+12,"Guerrero",6,"Apaxtla",12389,5949,6440
+12,"Guerrero",7,"Arcelia",32181,15644,16537
+12,"Guerrero",8,"Atenango del Río",8390,4015,4375
+12,"Guerrero",9,"Atlamajalcingo del Monte",5706,2728,2978
+12,"Guerrero",10,"Atlixtac",26341,12674,13667
+12,"Guerrero",11,"Atoyac de Álvarez",61316,30113,31203
+12,"Guerrero",12,"Ayutla de los Libres",62690,30706,31984
+12,"Guerrero",13,"Azoyú",14429,7102,7327
+12,"Guerrero",14,"Benito Juárez",15019,7363,7656
+12,"Guerrero",15,"Buenavista de Cuéllar",12688,6192,6496
+12,"Guerrero",16,"Coahuayutla de José María Izazaga",13025,6632,6393
+12,"Guerrero",17,"Cocula",14707,7060,7647
+12,"Guerrero",18,"Copala",13636,6717,6919
+12,"Guerrero",19,"Copalillo",14456,6860,7596
+12,"Guerrero",20,"Copanatoyac",18855,9049,9806
+12,"Guerrero",21,"Coyuca de Benítez",73460,35960,37500
+12,"Guerrero",22,"Coyuca de Catalán",42069,21849,20220
+12,"Guerrero",23,"Cuajinicuilapa",25922,12944,12978
+12,"Guerrero",24,"Cualác",7007,3344,3663
+12,"Guerrero",25,"Cuautepec",15115,7554,7561
+12,"Guerrero",26,"Cuetzala del Progreso",9166,4443,4723
+12,"Guerrero",27,"Cutzamala de Pinzón",21388,10528,10860
+12,"Guerrero",28,"Chilapa de Álvarez",120790,57940,62850
+12,"Guerrero",29,"Chilpancingo de los Bravo",241717,115443,126274
+12,"Guerrero",30,"Florencio Villarreal",20175,9967,10208
+12,"Guerrero",31,"General Canuto A. Neri",6301,3042,3259
+12,"Guerrero",32,"General Heliodoro Castillo",36586,18348,18238
+12,"Guerrero",33,"Huamuxtitlán",14393,6823,7570
+12,"Guerrero",34,"Huitzuco de los Figueroa",37364,17935,19429
+12,"Guerrero",35,"Iguala de la Independencia",140363,67611,72752
+12,"Guerrero",36,"Igualapa",10815,5290,5525
+12,"Guerrero",37,"Ixcateopan de Cuauhtémoc",6603,3148,3455
+12,"Guerrero",38,"ZIHUATANEJO DE AZUETA",118211,58314,59897
+12,"Guerrero",39,"Juan R. Escudero",24364,11949,12415
+12,"Guerrero",40,"Leonardo Bravo",24720,12231,12489
+12,"Guerrero",41,"Malinaltepec",29599,14110,15489
+12,"Guerrero",42,"Mártir de Cuilapan",17702,8504,9198
+12,"Guerrero",43,"Metlatónoc",18976,9014,9962
+12,"Guerrero",44,"Mochitlán",11376,5617,5759
+12,"Guerrero",45,"OLINALÁ",24723,11878,12845
+12,"Guerrero",46,"Ometepec",61306,29891,31415
+12,"Guerrero",47,"Pedro Ascencio Alquisiras",6978,3215,3763
+12,"Guerrero",48,"Petatlán",44979,22397,22582
+12,"Guerrero",49,"Pilcaya",11558,5597,5961
+12,"Guerrero",50,"Pungarabato",37035,17921,19114
+12,"Guerrero",51,"Quechultenango",34728,16855,17873
+12,"Guerrero",52,"San Luis Acatlán",42360,20867,21493
+12,"Guerrero",53,"San Marcos",48501,23896,24605
+12,"Guerrero",54,"San Miguel Totolapan",28009,13755,14254
+12,"Guerrero",55,"Taxco de Alarcón",104053,50432,53621
+12,"Guerrero",56,"Tecoanapa",44079,21733,22346
+12,"Guerrero",57,"Técpan de Galeana",62071,30871,31200
+12,"Guerrero",58,"Teloloapan",53769,25442,28327
+12,"Guerrero",59,"Tepecoacuilco de Trujano",30470,14612,15858
+12,"Guerrero",60,"Tetipac",13128,6356,6772
+12,"Guerrero",61,"Tixtla de Guerrero",40058,19369,20689
+12,"Guerrero",62,"Tlacoachistlahuaca",21306,10191,11115
+12,"Guerrero",63,"Tlacoapa",9967,4734,5233
+12,"Guerrero",64,"Tlalchapa",11495,5737,5758
+12,"Guerrero",65,"Tlalixtaquilla de Maldonado",7096,3396,3700
+12,"Guerrero",66,"Tlapa de Comonfort",81419,38983,42436
+12,"Guerrero",67,"Tlapehuala",21819,10558,11261
+12,"Guerrero",68,"La Unión de Isidoro Montes de Oca",25712,13087,12625
+12,"Guerrero",69,"Xalpatláhuac",12240,5690,6550
+12,"Guerrero",70,"Xochihuehuetlán",7079,3289,3790
+12,"Guerrero",71,"Xochistlahuaca",28089,13646,14443
+12,"Guerrero",72,"Zapotitlán Tablas",10516,5037,5479
+12,"Guerrero",73,"Zirándaro",18813,9799,9014
+12,"Guerrero",74,"Zitlala",22587,10750,11837
+12,"Guerrero",75,"Eduardo Neri",46158,22634,23524
+12,"Guerrero",76,"Acatepec",32792,16070,16722
+12,"Guerrero",77,"Marquelia",12912,6396,6516
+12,"Guerrero",78,"Cochoapa el Grande",18778,8945,9833
+12,"Guerrero",79,"JOSÉ JOAQUIN DE HERRERA",15678,7743,7935
+12,"Guerrero",80,"Juchitán",7166,3605,3561
+12,"Guerrero",81,"Iliatenco",10522,5075,5447
+13,"Hidalgo",0,"Total de la entidad Hidalgo",2665018,1285222,1379796
+13,"Hidalgo",1,"Acatlán",20077,9669,10408
+13,"Hidalgo",2,"Acaxochitlán",40583,19390,21193
+13,"Hidalgo",3,"Actopan",54299,25741,28558
+13,"Hidalgo",4,"Agua Blanca de Iturbide",8994,4294,4700
+13,"Hidalgo",5,"Ajacuba",17055,8375,8680
+13,"Hidalgo",6,"Alfajayucan",18879,9208,9671
+13,"Hidalgo",7,"Almoloya",11294,5593,5701
+13,"Hidalgo",8,"Apan",42563,20359,22204
+13,"Hidalgo",9,"El Arenal",17374,8267,9107
+13,"Hidalgo",10,"Atitalaquia",26904,13253,13651
+13,"Hidalgo",11,"Atlapexco",19452,9370,10082
+13,"Hidalgo",12,"Atotonilco el Grande",26940,12776,14164
+13,"Hidalgo",13,"Atotonilco de Tula",31078,15193,15885
+13,"Hidalgo",14,"Calnali",16962,8195,8767
+13,"Hidalgo",15,"Cardonal",18427,8919,9508
+13,"Hidalgo",16,"Cuautepec de Hinojosa",54500,25893,28607
+13,"Hidalgo",17,"Chapantongo",12271,6044,6227
+13,"Hidalgo",18,"Chapulhuacán",22402,11328,11074
+13,"Hidalgo",19,"Chilcuautla",17436,8491,8945
+13,"Hidalgo",20,"Eloxochitlán",2800,1321,1479
+13,"Hidalgo",21,"Emiliano Zapata",13357,6322,7035
+13,"Hidalgo",22,"Epazoyucan",13830,6739,7091
+13,"Hidalgo",23,"Francisco I. Madero",33901,16202,17699
+13,"Hidalgo",24,"Huasca de Ocampo",17182,8261,8921
+13,"Hidalgo",25,"Huautla",22621,10930,11691
+13,"Hidalgo",26,"Huazalingo",12779,6295,6484
+13,"Hidalgo",27,"Huehuetla",23563,11427,12136
+13,"Hidalgo",28,"Huejutla de Reyes",122905,60254,62651
+13,"Hidalgo",29,"Huichapan",44253,21176,23077
+13,"Hidalgo",30,"Ixmiquilpan",86363,40740,45623
+13,"Hidalgo",31,"Jacala de Ledezma",12804,6098,6706
+13,"Hidalgo",32,"Jaltocán",10933,5416,5517
+13,"Hidalgo",33,"Juárez Hidalgo",3193,1546,1647
+13,"Hidalgo",34,"Lolotla",9843,4831,5012
+13,"Hidalgo",35,"Metepec",11429,5339,6090
+13,"Hidalgo",36,"San Agustín Metzquititlán",9364,4480,4884
+13,"Hidalgo",37,"Metztitlán",21623,10255,11368
+13,"Hidalgo",38,"Mineral del Chico",7980,3875,4105
+13,"Hidalgo",39,"Mineral del Monte",13864,6599,7265
+13,"Hidalgo",40,"La Misión",10452,5147,5305
+13,"Hidalgo",41,"Mixquiahuala de Juárez",42834,20483,22351
+13,"Hidalgo",42,"Molango de Escamilla",11209,5519,5690
+13,"Hidalgo",43,"Nicolás Flores",6614,3177,3437
+13,"Hidalgo",44,"Nopala de Villagrán",15666,7689,7977
+13,"Hidalgo",45,"Omitlán de Juárez",8963,4299,4664
+13,"Hidalgo",46,"San Felipe Orizatlán",39181,19406,19775
+13,"Hidalgo",47,"Pacula",5049,2354,2695
+13,"Hidalgo",48,"Pachuca de Soto",267862,127236,140626
+13,"Hidalgo",49,"Pisaflores",18244,9115,9129
+13,"Hidalgo",50,"Progreso de Obregón",22217,10536,11681
+13,"Hidalgo",51,"Mineral de la Reforma",127404,60921,66483
+13,"Hidalgo",52,"San Agustín Tlaxiaca",32057,15597,16460
+13,"Hidalgo",53,"San Bartolo Tutotepec",18137,9006,9131
+13,"Hidalgo",54,"San Salvador",32773,15794,16979
+13,"Hidalgo",55,"Santiago de Anaya",16014,7763,8251
+13,"Hidalgo",56,"Santiago Tulantepec de Lugo Guerrero",33495,15938,17557
+13,"Hidalgo",57,"Singuilucan",14851,7252,7599
+13,"Hidalgo",58,"Tasquillo",16865,7744,9121
+13,"Hidalgo",59,"Tecozautla",35067,16658,18409
+13,"Hidalgo",60,"Tenango de Doria",17206,8307,8899
+13,"Hidalgo",61,"Tepeapulco",51664,24741,26923
+13,"Hidalgo",62,"Tepehuacán de Guerrero",29125,14788,14337
+13,"Hidalgo",63,"Tepeji del Río de Ocampo",80612,39569,41043
+13,"Hidalgo",64,"Tepetitlán",9940,4830,5110
+13,"Hidalgo",65,"Tetepango",11112,5465,5647
+13,"Hidalgo",66,"Villa de Tezontepec",11654,5732,5922
+13,"Hidalgo",67,"Tezontepec de Aldama",48025,23622,24403
+13,"Hidalgo",68,"Tianguistengo",14037,6853,7184
+13,"Hidalgo",69,"Tizayuca",97461,48102,49359
+13,"Hidalgo",70,"Tlahuelilpan",17153,8401,8752
+13,"Hidalgo",71,"Tlahuiltepa",9753,4821,4932
+13,"Hidalgo",72,"Tlanalapa",10248,4944,5304
+13,"Hidalgo",73,"Tlanchinol",36382,17975,18407
+13,"Hidalgo",74,"Tlaxcoapan",26758,13076,13682
+13,"Hidalgo",75,"Tolcayuca",13228,6454,6774
+13,"Hidalgo",76,"Tula de Allende",103919,50490,53429
+13,"Hidalgo",77,"Tulancingo de Bravo",151584,71287,80297
+13,"Hidalgo",78,"Xochiatipan",19067,9364,9703
+13,"Hidalgo",79,"Xochicoatlán",7320,3618,3702
+13,"Hidalgo",80,"Yahualica",23607,11574,12033
+13,"Hidalgo",81,"Zacualtipán de Ángeles",32437,15416,17021
+13,"Hidalgo",82,"Zapotlán de Juárez",18036,8678,9358
+13,"Hidalgo",83,"Zempoala",39143,19069,20074
+13,"Hidalgo",84,"Zimapán",38516,17948,20568
+14,"Jalisco",0,"Total de la entidad Jalisco",7350682,3600641,3750041
+14,"Jalisco",1,"Acatic",21206,10348,10858
+14,"Jalisco",2,"Acatlán de Juárez",23241,12220,11021
+14,"Jalisco",3,"Ahualulco de Mercado",21714,10677,11037
+14,"Jalisco",4,"Amacueca",5545,2674,2871
+14,"Jalisco",5,"Amatitán",14648,7273,7375
+14,"Jalisco",6,"Ameca",57340,28013,29327
+14,"Jalisco",7,"San Juanito de Escobedo",8896,4461,4435
+14,"Jalisco",8,"Arandas",72812,35135,37677
+14,"Jalisco",9,"El Arenal",17545,8631,8914
+14,"Jalisco",10,"Atemajac de Brizuela",6655,3303,3352
+14,"Jalisco",11,"Atengo",5400,2797,2603
+14,"Jalisco",12,"Atenguillo",4115,2014,2101
+14,"Jalisco",13,"Atotonilco el Alto",57717,28217,29500
+14,"Jalisco",14,"Atoyac",8276,3962,4314
+14,"Jalisco",15,"Autlán de Navarro",57559,28210,29349
+14,"Jalisco",16,"Ayotlán",38291,18603,19688
+14,"Jalisco",17,"Ayutla",12664,6308,6356
+14,"Jalisco",18,"La Barca",64269,30920,33349
+14,"Jalisco",19,"Bolaños",6820,3384,3436
+14,"Jalisco",20,"Cabo Corrientes",10029,5176,4853
+14,"Jalisco",21,"Casimiro Castillo",21475,10667,10808
+14,"Jalisco",22,"Cihuatlán",39020,19694,19326
+14,"Jalisco",23,"Zapotlán el Grande",100534,48661,51873
+14,"Jalisco",24,"Cocula",26174,12721,13453
+14,"Jalisco",25,"Colotlán",18091,8711,9380
+14,"Jalisco",26,"Concepción de Buenos Aires",5933,3011,2922
+14,"Jalisco",27,"Cuautitlán de García Barragán",17322,8763,8559
+14,"Jalisco",28,"Cuautla",2171,1045,1126
+14,"Jalisco",29,"Cuquío",17795,8488,9307
+14,"Jalisco",30,"Chapala",48839,23902,24937
+14,"Jalisco",31,"Chimaltitán",3771,1869,1902
+14,"Jalisco",32,"Chiquilistlán",5814,2896,2918
+14,"Jalisco",33,"Degollado",21132,10119,11013
+14,"Jalisco",34,"Ejutla",2082,1072,1010
+14,"Jalisco",35,"Encarnación de Díaz",51396,24692,26704
+14,"Jalisco",36,"Etzatlán",18632,9157,9475
+14,"Jalisco",37,"El Grullo",23845,11622,12223
+14,"Jalisco",38,"Guachinango",4323,2178,2145
+14,"Jalisco",39,"Guadalajara",1495189,717404,777785
+14,"Jalisco",40,"Hostotipaquillo",10284,5501,4783
+14,"Jalisco",41,"Huejúcar",6084,2905,3179
+14,"Jalisco",42,"Huejuquilla el Alto",8781,4237,4544
+14,"Jalisco",43,"La Huerta",23428,11845,11583
+14,"Jalisco",44,"Ixtlahuacán de los Membrillos",41060,20419,20641
+14,"Jalisco",45,"Ixtlahuacán del Río",19005,9175,9830
+14,"Jalisco",46,"Jalostotitlán",31948,15598,16350
+14,"Jalisco",47,"Jamay",22881,11337,11544
+14,"Jalisco",48,"Jesús María",18634,8571,10063
+14,"Jalisco",49,"Jilotlán de los Dolores",9545,4905,4640
+14,"Jalisco",50,"Jocotepec",42164,20839,21325
+14,"Jalisco",51,"Juanacatlán",13218,6675,6543
+14,"Jalisco",52,"Juchitlán",5515,2637,2878
+14,"Jalisco",53,"Lagos de Moreno",153817,74472,79345
+14,"Jalisco",54,"El Limón",5499,2752,2747
+14,"Jalisco",55,"Magdalena",21321,10583,10738
+14,"Jalisco",56,"Santa María del Oro",2517,1273,1244
+14,"Jalisco",57,"La Manzanilla de la Paz",3755,1790,1965
+14,"Jalisco",58,"Mascota",14245,7010,7235
+14,"Jalisco",59,"Mazamitla",13225,6288,6937
+14,"Jalisco",60,"Mexticacán",6034,2777,3257
+14,"Jalisco",61,"Mezquitic",18084,8745,9339
+14,"Jalisco",62,"Mixtlán",3574,1800,1774
+14,"Jalisco",63,"Ocotlán",92967,45453,47514
+14,"Jalisco",64,"Ojuelos de Jalisco",30097,14636,15461
+14,"Jalisco",65,"Pihuamo",12119,6045,6074
+14,"Jalisco",66,"Poncitlán",48408,23721,24687
+14,"Jalisco",67,"Puerto Vallarta",255681,128577,127104
+14,"Jalisco",68,"Villa Purificación",11623,5933,5690
+14,"Jalisco",69,"Quitupan",8691,4066,4625
+14,"Jalisco",70,"El Salto",138226,69006,69220
+14,"Jalisco",71,"San Cristóbal de la Barranca",3176,1583,1593
+14,"Jalisco",72,"San Diego de Alejandría",6647,3172,3475
+14,"Jalisco",73,"San Juan de los Lagos",65219,32066,33153
+14,"Jalisco",74,"San Julián",15454,7296,8158
+14,"Jalisco",75,"San Marcos",3762,1918,1844
+14,"Jalisco",76,"San Martín de Bolaños",3405,1704,1701
+14,"Jalisco",77,"San Martín Hidalgo",26306,12785,13521
+14,"Jalisco",78,"San Miguel el Alto",31166,14999,16167
+14,"Jalisco",79,"Gómez Farías",14011,6778,7233
+14,"Jalisco",80,"San Sebastián del Oeste",5755,3008,2747
+14,"Jalisco",81,"Santa María de los Ángeles",3726,1758,1968
+14,"Jalisco",82,"Sayula",34829,16733,18096
+14,"Jalisco",83,"Tala",69031,34313,34718
+14,"Jalisco",84,"Talpa de Allende",14410,7215,7195
+14,"Jalisco",85,"Tamazula de Gordiano",37986,18512,19474
+14,"Jalisco",86,"Tapalpa",18096,8848,9248
+14,"Jalisco",87,"Tecalitlán",16847,8220,8627
+14,"Jalisco",88,"Tecolotlán",16573,8292,8281
+14,"Jalisco",89,"Techaluta de Montenegro",3511,1722,1789
+14,"Jalisco",90,"Tenamaxtlán",7051,3495,3556
+14,"Jalisco",91,"Teocaltiche",40105,18973,21132
+14,"Jalisco",92,"Teocuitatlán de Corona",10837,5307,5530
+14,"Jalisco",93,"Tepatitlán de Morelos",136123,66244,69879
+14,"Jalisco",94,"Tequila",40697,20148,20549
+14,"Jalisco",95,"Teuchitlán",9088,4425,4663
+14,"Jalisco",96,"Tizapán el Alto",20857,10163,10694
+14,"Jalisco",97,"Tlajomulco de Zúñiga",416626,206958,209668
+14,"Jalisco",98,"Tlaquepaque",608114,299904,308210
+14,"Jalisco",99,"Tolimán",9591,4724,4867
+14,"Jalisco",100,"Tomatlán",35050,17822,17228
+14,"Jalisco",101,"Tonalá",478689,243241,235448
+14,"Jalisco",102,"Tonaya",5930,2874,3056
+14,"Jalisco",103,"Tonila",7256,3573,3683
+14,"Jalisco",104,"Totatiche",4435,2209,2226
+14,"Jalisco",105,"Tototlán",21871,10668,11203
+14,"Jalisco",106,"Tuxcacuesco",4234,2168,2066
+14,"Jalisco",107,"Tuxcueca",6316,3054,3262
+14,"Jalisco",108,"Tuxpan",34182,16442,17740
+14,"Jalisco",109,"Unión de San Antonio",17325,8306,9019
+14,"Jalisco",110,"Unión de Tula",13737,6620,7117
+14,"Jalisco",111,"Valle de Guadalupe",6705,3333,3372
+14,"Jalisco",112,"Valle de Juárez",5798,2806,2992
+14,"Jalisco",113,"San Gabriel",15310,7507,7803
+14,"Jalisco",114,"Villa Corona",16969,8357,8612
+14,"Jalisco",115,"Villa Guerrero",5638,2785,2853
+14,"Jalisco",116,"Villa Hidalgo",18711,9043,9668
+14,"Jalisco",117,"Cañadas de Obregón",4152,2015,2137
+14,"Jalisco",118,"Yahualica de González Gallo",22284,10586,11698
+14,"Jalisco",119,"Zacoalco de Torres",27901,13698,14203
+14,"Jalisco",120,"Zapopan",1243756,607907,635849
+14,"Jalisco",121,"Zapotiltic",29192,14181,15011
+14,"Jalisco",122,"Zapotitlán de Vadillo",6685,3328,3357
+14,"Jalisco",123,"Zapotlán del Rey",17585,8671,8914
+14,"Jalisco",124,"Zapotlanejo",63636,31114,32522
+14,"Jalisco",125,"San Ignacio Cerro Gordo",17626,8501,9125
+15,"México",0,"Total de la entidad México",15175862,7396986,7778876
+15,"México",1,"Acambay",60918,29449,31469
+15,"México",2,"Acolman",136558,68392,68166
+15,"México",3,"Aculco",44823,22043,22780
+15,"México",4,"Almoloya de Alquisiras",14856,7091,7765
+15,"México",5,"Almoloya de Juárez",147653,73783,73870
+15,"México",6,"Almoloya del Río",10886,5199,5687
+15,"México",7,"Amanalco",22868,11224,11644
+15,"México",8,"Amatepec",26334,12799,13535
+15,"México",9,"Amecameca",48421,23240,25181
+15,"México",10,"Apaxco",27521,13576,13945
+15,"México",11,"Atenco",56243,27933,28310
+15,"México",12,"Atizapán",10299,4967,5332
+15,"México",13,"Atizapán de Zaragoza",489937,238124,251813
+15,"México",14,"Atlacomulco",93718,44905,48813
+15,"México",15,"Atlautla",27663,13396,14267
+15,"México",16,"Axapusco",25559,12666,12893
+15,"México",17,"Ayapango",8864,4353,4511
+15,"México",18,"Calimaya",47033,23061,23972
+15,"México",19,"Capulhuac",34101,16541,17560
+15,"México",20,"Coacalco de Berriozábal",278064,134141,143923
+15,"México",21,"Coatepec Harinas",36174,17472,18702
+15,"México",22,"Cocotitlán",12142,5976,6166
+15,"México",23,"Coyotepec",39030,19282,19748
+15,"México",24,"Cuautitlán",140059,69079,70980
+15,"México",25,"Chalco",310130,151403,158727
+15,"México",26,"Chapa de Mota",27551,13532,14019
+15,"México",27,"Chapultepec",9676,4738,4938
+15,"México",28,"Chiautla",26191,12759,13432
+15,"México",29,"Chicoloapan",175053,85377,89676
+15,"México",30,"Chiconcuac",22819,11138,11681
+15,"México",31,"Chimalhuacán",614453,302297,312156
+15,"México",32,"Donato Guerra",33455,16484,16971
+15,"México",33,"Ecatepec de Morelos",1656107,806443,849664
+15,"México",34,"Ecatzingo",9369,4582,4787
+15,"México",35,"Huehuetoca",100023,49372,50651
+15,"México",36,"Hueypoxtla",39864,19860,20004
+15,"México",37,"Huixquilucan",242167,116502,125665
+15,"México",38,"Isidro Fabela",10308,5097,5211
+15,"México",39,"Ixtapaluca",467361,227846,239515
+15,"México",40,"Ixtapan de la Sal",33541,16082,17459
+15,"México",41,"Ixtapan del Oro",6629,3326,3303
+15,"México",42,"Ixtlahuaca",141482,68388,73094
+15,"México",43,"Xalatlaco",26865,13058,13807
+15,"México",44,"Jaltenco",26328,12844,13484
+15,"México",45,"Jilotepec",83755,41088,42667
+15,"México",46,"Jilotzingo",17970,8864,9106
+15,"México",47,"Jiquipilco",69031,33299,35732
+15,"México",48,"Jocotitlán",61204,29503,31701
+15,"México",49,"Joquicingo",12840,6201,6639
+15,"México",50,"Juchitepec",23497,11503,11994
+15,"México",51,"Lerma",134799,66669,68130
+15,"México",52,"Malinalco",25624,12585,13039
+15,"México",53,"Melchor Ocampo",50240,24570,25670
+15,"México",54,"Metepec",214162,103059,111103
+15,"México",55,"Mexicaltzingo",11712,5658,6054
+15,"México",56,"Morelos",28426,13617,14809
+15,"México",57,"Naucalpan de Juárez",833779,404974,428805
+15,"México",58,"Nezahualcóyotl",1110565,536943,573622
+15,"México",59,"Nextlalpan",34374,16984,17390
+15,"México",60,"Nicolás Romero",366602,180139,186463
+15,"México",61,"Nopaltepec",8895,4427,4468
+15,"México",62,"Ocoyoacac",61805,30365,31440
+15,"México",63,"Ocuilan",31803,15540,16263
+15,"México",64,"El Oro",34446,16829,17617
+15,"México",65,"Otumba",34232,17330,16902
+15,"México",66,"Otzoloapan",4864,2464,2400
+15,"México",67,"Otzolotepec",78146,38318,39828
+15,"México",68,"Ozumba",27207,13077,14130
+15,"México",69,"Papalotla",4147,2012,2135
+15,"México",70,"La Paz",253845,123956,129889
+15,"México",71,"Polotitlán",13002,6364,6638
+15,"México",72,"Rayón",12748,6252,6496
+15,"México",73,"San Antonio la Isla",22152,10886,11266
+15,"México",74,"San Felipe del Progreso",121396,58173,63223
+15,"México",75,"San Martín de las Pirámides",24851,12278,12573
+15,"México",76,"San Mateo Atenco",72579,35597,36982
+15,"México",77,"San Simón de Guerrero",6272,3026,3246
+15,"México",78,"Santo Tomás",9111,4458,4653
+15,"México",79,"Soyaniquilpan de Juárez",11798,5778,6020
+15,"México",80,"Sultepec",25809,12267,13542
+15,"México",81,"Tecámac",364579,177713,186866
+15,"México",82,"Tejupilco",71077,34411,36666
+15,"México",83,"Temamatla",11206,5447,5759
+15,"México",84,"Temascalapa",35987,17916,18071
+15,"México",85,"Temascalcingo",62695,30220,32475
+15,"México",86,"Temascaltepec",32870,16142,16728
+15,"México",87,"Temoaya",90010,43963,46047
+15,"México",88,"Tenancingo",90946,44239,46707
+15,"México",89,"Tenango del Aire",10578,5164,5414
+15,"México",90,"Tenango del Valle",77965,38072,39893
+15,"México",91,"TEOLOYUCAN",63115,31240,31875
+15,"México",92,"Teotihuacán",53010,26000,27010
+15,"México",93,"Tepetlaoxtoc",27944,13714,14230
+15,"México",94,"Tepetlixpa",18327,9003,9324
+15,"México",95,"Tepotzotlán",88559,43521,45038
+15,"México",96,"Tequixquiac",33907,16794,17113
+15,"México",97,"Texcaltitlán",17390,8366,9024
+15,"México",98,"Texcalyacac",5111,2506,2605
+15,"México",99,"Texcoco",235151,115648,119503
+15,"México",100,"Tezoyuca",35199,17404,17795
+15,"México",101,"Tianguistenco",70682,34277,36405
+15,"México",102,"Timilpan",15391,7389,8002
+15,"México",103,"Tlalmanalco",46130,22333,23797
+15,"México",104,"Tlalnepantla de Baz",664225,321747,342478
+15,"México",105,"Tlatlaya",32997,16074,16923
+15,"México",106,"Toluca",819561,394836,424725
+15,"México",107,"Tonatico",12099,5799,6300
+15,"México",108,"Tultepec",91808,44841,46967
+15,"México",109,"Tultitlán",524074,256439,267635
+15,"México",110,"Valle de Bravo",61599,30296,31303
+15,"México",111,"Villa de Allende",47709,23413,24296
+15,"México",112,"Villa del Carbón",44881,22433,22448
+15,"México",113,"Villa Guerrero",59991,29293,30698
+15,"México",114,"Villa Victoria",94369,46657,47712
+15,"México",115,"Xonacatlán",46331,22871,23460
+15,"México",116,"Zacazonapan",4051,2033,2018
+15,"México",117,"Zacualpan",15121,7217,7904
+15,"México",118,"Zinacantepec",167759,82109,85650
+15,"México",119,"Zumpahuacán",16365,7780,8585
+15,"México",120,"Zumpango",159647,78608,81039
+15,"México",121,"Cuautitlán Izcalli",511675,248552,263123
+15,"México",122,"Valle de Chalco Solidaridad",357645,175772,181873
+15,"México",123,"Luvianos",27781,13719,14062
+15,"México",124,"San José del Rincón",91345,45084,46261
+15,"México",125,"Tonanitla",10216,5058,5158
+16,"Michoacán de Ocampo",0,"Total de la entidad Michoacán de Ocampo",4351037,2102109,2248928
+16,"Michoacán de Ocampo",1,"Acuitzio",10987,5259,5728
+16,"Michoacán de Ocampo",2,"Aguililla",16214,8174,8040
+16,"Michoacán de Ocampo",3,"Álvaro Obregón",20913,9984,10929
+16,"Michoacán de Ocampo",4,"Angamacutiro",14684,6936,7748
+16,"Michoacán de Ocampo",5,"Angangueo",10768,5201,5567
+16,"Michoacán de Ocampo",6,"Apatzingán",123649,60907,62742
+16,"Michoacán de Ocampo",7,"Aporo",3218,1537,1681
+16,"Michoacán de Ocampo",8,"Aquila",23536,11917,11619
+16,"Michoacán de Ocampo",9,"Ario",34848,16925,17923
+16,"Michoacán de Ocampo",10,"Arteaga",21790,10846,10944
+16,"Michoacán de Ocampo",11,"Briseñas",10653,5138,5515
+16,"Michoacán de Ocampo",12,"Buenavista",42234,21308,20926
+16,"Michoacán de Ocampo",13,"Carácuaro",9212,4617,4595
+16,"Michoacán de Ocampo",14,"Coahuayana",14136,7256,6880
+16,"Michoacán de Ocampo",15,"Coalcomán de Vázquez Pallares",17615,8601,9014
+16,"Michoacán de Ocampo",16,"Coeneo",20492,9360,11132
+16,"Michoacán de Ocampo",17,"Contepec",32954,16007,16947
+16,"Michoacán de Ocampo",18,"Copándaro",8952,4191,4761
+16,"Michoacán de Ocampo",19,"Cotija",19644,9259,10385
+16,"Michoacán de Ocampo",20,"Cuitzeo",28227,13253,14974
+16,"Michoacán de Ocampo",21,"Charapan",12163,5649,6514
+16,"Michoacán de Ocampo",22,"Charo",21723,11463,10260
+16,"Michoacán de Ocampo",23,"Chavinda",9975,4847,5128
+16,"Michoacán de Ocampo",24,"Cherán",18141,8701,9440
+16,"Michoacán de Ocampo",25,"Chilchota",36293,17360,18933
+16,"Michoacán de Ocampo",26,"Chinicuila",5271,2696,2575
+16,"Michoacán de Ocampo",27,"Chucándiro",5166,2320,2846
+16,"Michoacán de Ocampo",28,"Churintzio",5564,2599,2965
+16,"Michoacán de Ocampo",29,"Churumuco",14366,7167,7199
+16,"Michoacán de Ocampo",30,"Ecuandureo",12855,5855,7000
+16,"Michoacán de Ocampo",31,"Epitacio Huerta",16218,7785,8433
+16,"Michoacán de Ocampo",32,"Erongarícuaro",14555,7005,7550
+16,"Michoacán de Ocampo",33,"Gabriel Zamora",21294,10500,10794
+16,"Michoacán de Ocampo",34,"Hidalgo",117620,56532,61088
+16,"Michoacán de Ocampo",35,"La Huacana",32757,16176,16581
+16,"Michoacán de Ocampo",36,"Huandacareo",11592,5399,6193
+16,"Michoacán de Ocampo",37,"Huaniqueo",7983,3639,4344
+16,"Michoacán de Ocampo",38,"Huetamo",41937,20531,21406
+16,"Michoacán de Ocampo",39,"Huiramba",7925,3883,4042
+16,"Michoacán de Ocampo",40,"Indaparapeo",16427,7886,8541
+16,"Michoacán de Ocampo",41,"Irimbo",14766,6983,7783
+16,"Michoacán de Ocampo",42,"Ixtlán",13584,6621,6963
+16,"Michoacán de Ocampo",43,"Jacona",64011,30951,33060
+16,"Michoacán de Ocampo",44,"Jiménez",13275,6285,6990
+16,"Michoacán de Ocampo",45,"Jiquilpan",34199,16134,18065
+16,"Michoacán de Ocampo",46,"Juárez",13604,6592,7012
+16,"Michoacán de Ocampo",47,"Jungapeo",19986,9762,10224
+16,"Michoacán de Ocampo",48,"Lagunillas",5506,2665,2841
+16,"Michoacán de Ocampo",49,"Madero",17427,8700,8727
+16,"Michoacán de Ocampo",50,"Maravatío",80258,38228,42030
+16,"Michoacán de Ocampo",51,"Marcos Castellanos",13031,6309,6722
+16,"Michoacán de Ocampo",52,"Lázaro Cárdenas",178817,89221,89596
+16,"Michoacán de Ocampo",53,"Morelia",729279,348994,380285
+16,"Michoacán de Ocampo",54,"Morelos",8091,3630,4461
+16,"Michoacán de Ocampo",55,"Múgica",44963,22135,22828
+16,"Michoacán de Ocampo",56,"Nahuatzen",27174,13090,14084
+16,"Michoacán de Ocampo",57,"Nocupétaro",7799,3835,3964
+16,"Michoacán de Ocampo",58,"Nuevo Parangaricutiro",18834,9108,9726
+16,"Michoacán de Ocampo",59,"Nuevo Urecho",8240,4101,4139
+16,"Michoacán de Ocampo",60,"Numarán",9599,4557,5042
+16,"Michoacán de Ocampo",61,"Ocampo",22628,11242,11386
+16,"Michoacán de Ocampo",62,"Pajacuarán",19450,9430,10020
+16,"Michoacán de Ocampo",63,"Panindícuaro",16064,7514,8550
+16,"Michoacán de Ocampo",64,"Parácuaro",25343,12681,12662
+16,"Michoacán de Ocampo",65,"Paracho",34721,16422,18299
+16,"Michoacán de Ocampo",66,"Pátzcuaro",87794,41827,45967
+16,"Michoacán de Ocampo",67,"Penjamillo",17159,7986,9173
+16,"Michoacán de Ocampo",68,"Peribán",25296,12566,12730
+16,"Michoacán de Ocampo",69,"La Piedad",99576,47492,52084
+16,"Michoacán de Ocampo",70,"Purépero",15306,7423,7883
+16,"Michoacán de Ocampo",71,"Puruándiro",67837,31746,36091
+16,"Michoacán de Ocampo",72,"Queréndaro",13550,6546,7004
+16,"Michoacán de Ocampo",73,"Quiroga",25592,12109,13483
+16,"Michoacán de Ocampo",74,"Cojumatlán de Régules",9980,4863,5117
+16,"Michoacán de Ocampo",75,"Los Reyes",64141,31265,32876
+16,"Michoacán de Ocampo",76,"Sahuayo",72841,35298,37543
+16,"Michoacán de Ocampo",77,"San Lucas",18461,9044,9417
+16,"Michoacán de Ocampo",78,"Santa Ana Maya",12618,5767,6851
+16,"Michoacán de Ocampo",79,"Salvador Escalante",45217,21796,23421
+16,"Michoacán de Ocampo",80,"Senguio",18427,8829,9598
+16,"Michoacán de Ocampo",81,"Susupuato",8704,4310,4394
+16,"Michoacán de Ocampo",82,"Tacámbaro",69955,34010,35945
+16,"Michoacán de Ocampo",83,"Tancítaro",29414,14727,14687
+16,"Michoacán de Ocampo",84,"Tangamandapio",27822,13277,14545
+16,"Michoacán de Ocampo",85,"Tangancícuaro",32677,15740,16937
+16,"Michoacán de Ocampo",86,"Tanhuato",15176,7354,7822
+16,"Michoacán de Ocampo",87,"Taretan",13558,6636,6922
+16,"Michoacán de Ocampo",88,"Tarímbaro",78623,37951,40672
+16,"Michoacán de Ocampo",89,"Tepalcatepec",22987,11559,11428
+16,"Michoacán de Ocampo",90,"Tingambato",13950,6731,7219
+16,"Michoacán de Ocampo",91,"Tingüindín",13511,6448,7063
+16,"Michoacán de Ocampo",92,"Tiquicheo de Nicolás Romero",14274,7143,7131
+16,"Michoacán de Ocampo",93,"Tlalpujahua",27587,13104,14483
+16,"Michoacán de Ocampo",94,"Tlazazalca",6890,3344,3546
+16,"Michoacán de Ocampo",95,"Tocumbo",11504,5674,5830
+16,"Michoacán de Ocampo",96,"Tumbiscatío",7890,3972,3918
+16,"Michoacán de Ocampo",97,"Turicato",31877,15364,16513
+16,"Michoacán de Ocampo",98,"Tuxpan",26026,12502,13524
+16,"Michoacán de Ocampo",99,"Tuzantla",16305,8060,8245
+16,"Michoacán de Ocampo",100,"Tzintzuntzan",13556,6344,7212
+16,"Michoacán de Ocampo",101,"Tzitzio",9166,4633,4533
+16,"Michoacán de Ocampo",102,"Uruapan",315350,152442,162908
+16,"Michoacán de Ocampo",103,"Venustiano Carranza",23457,11527,11930
+16,"Michoacán de Ocampo",104,"Villamar",16991,8063,8928
+16,"Michoacán de Ocampo",105,"Vista Hermosa",18995,9288,9707
+16,"Michoacán de Ocampo",106,"Yurécuaro",29995,14505,15490
+16,"Michoacán de Ocampo",107,"Zacapu",73455,35300,38155
+16,"Michoacán de Ocampo",108,"Zamora",186102,89746,96356
+16,"Michoacán de Ocampo",109,"Zináparo",3247,1479,1768
+16,"Michoacán de Ocampo",110,"Zinapécuaro",46666,22275,24391
+16,"Michoacán de Ocampo",111,"Ziracuaretiro",15222,7441,7781
+16,"Michoacán de Ocampo",112,"Zitácuaro",155534,74715,80819
+16,"Michoacán de Ocampo",113,"José Sixto Verduzco",25576,12029,13547
+17,"Morelos",0,"Total de la entidad Morelos",1777227,858588,918639
+17,"Morelos",1,"Amacuzac",17021,8223,8798
+17,"Morelos",2,"Atlatlahucan",18895,9240,9655
+17,"Morelos",3,"Axochiapan",33695,16458,17237
+17,"Morelos",4,"Ayala",78866,38186,40680
+17,"Morelos",5,"Coatlán del Río",9471,4684,4787
+17,"Morelos",6,"Cuautla",175207,83676,91531
+17,"Morelos",7,"Cuernavaca",365168,172901,192267
+17,"Morelos",8,"Emiliano Zapata",83485,40761,42724
+17,"Morelos",9,"Huitzilac",17340,8527,8813
+17,"Morelos",10,"Jantetelco",15646,7629,8017
+17,"Morelos",11,"Jiutepec",196953,94766,102187
+17,"Morelos",12,"Jojutla",55115,26430,28685
+17,"Morelos",13,"Jonacatepec",14604,7002,7602
+17,"Morelos",14,"Mazatepec",9456,4578,4878
+17,"Morelos",15,"Miacatlán",24990,12107,12883
+17,"Morelos",16,"Ocuituco",16858,8273,8585
+17,"Morelos",17,"Puente de Ixtla",61585,30152,31433
+17,"Morelos",18,"Temixco",108126,52374,55752
+17,"Morelos",19,"Tepalcingo",25346,12280,13066
+17,"Morelos",20,"Tepoztlán",41629,20291,21338
+17,"Morelos",21,"Tetecala",7441,3680,3761
+17,"Morelos",22,"Tetela del Volcán",19138,9207,9931
+17,"Morelos",23,"Tlalnepantla",6636,3330,3306
+17,"Morelos",24,"Tlaltizapán",48881,23865,25016
+17,"Morelos",25,"Tlaquiltenango",31534,15608,15926
+17,"Morelos",26,"Tlayacapan",16543,8102,8441
+17,"Morelos",27,"Totolapan",10789,5247,5542
+17,"Morelos",28,"Xochitepec",63382,32161,31221
+17,"Morelos",29,"Yautepec",97827,47581,50246
+17,"Morelos",30,"Yecapixtla",46809,22967,23842
+17,"Morelos",31,"ZACATEPEC",35063,16934,18129
+17,"Morelos",32,"ZACUALPAN",9087,4452,4635
+17,"Morelos",33,"Temoac",14641,6916,7725
+18,"Nayarit",0,"Total de la entidad Nayarit",1084979,541007,543972
+18,"Nayarit",1,"Acaponeta",36572,18289,18283
+18,"Nayarit",2,"Ahuacatlán",15229,7621,7608
+18,"Nayarit",3,"Amatlán de Cañas",11188,5665,5523
+18,"Nayarit",4,"Compostela",70399,35413,34986
+18,"Nayarit",5,"Huajicori",11400,5818,5582
+18,"Nayarit",6,"Ixtlán del Río",27273,13181,14092
+18,"Nayarit",7,"Jala",17698,8740,8958
+18,"Nayarit",8,"Xalisco",49102,24037,25065
+18,"Nayarit",9,"Del Nayar",34300,17268,17032
+18,"Nayarit",10,"Rosamorada",34393,17466,16927
+18,"Nayarit",11,"Ruíz",23469,11861,11608
+18,"Nayarit",12,"San Blas",43120,23123,19997
+18,"Nayarit",13,"San Pedro Lagunillas",7510,3778,3732
+18,"Nayarit",14,"Santa María del Oro",22412,11412,11000
+18,"Nayarit",15,"Santiago Ixcuintla",93074,47136,45938
+18,"Nayarit",16,"Tecuala",39756,20212,19544
+18,"Nayarit",17,"Tepic",380249,185167,195082
+18,"Nayarit",18,"Tuxpan",30030,14923,15107
+18,"Nayarit",19,"La Yesca",13600,6898,6702
+18,"Nayarit",20,"Bahía de Banderas",124205,62999,61206
+19,"Nuevo León",0,"Total de la entidad Nuevo León",4653458,2320185,2333273
+19,"Nuevo León",1,"Abasolo",2791,1406,1385
+19,"Nuevo León",2,"Agualeguas",3443,1777,1666
+19,"Nuevo León",3,"Los Aldamas",1374,708,666
+19,"Nuevo León",4,"Allende",32593,16440,16153
+19,"Nuevo León",5,"Anáhuac",18480,9219,9261
+19,"Nuevo León",6,"Apodaca",523370,263374,259996
+19,"Nuevo León",7,"Aramberri",15470,7869,7601
+19,"Nuevo León",8,"Bustamante",3773,1890,1883
+19,"Nuevo León",9,"Cadereyta Jiménez",86445,43939,42506
+19,"Nuevo León",10,"Carmen",16092,8175,7917
+19,"Nuevo León",11,"Cerralvo",7855,4049,3806
+19,"Nuevo León",12,"Ciénega de Flores",24526,12476,12050
+19,"Nuevo León",13,"China",10864,5585,5279
+19,"Nuevo León",14,"Dr. Arroyo",35445,17849,17596
+19,"Nuevo León",15,"Dr. Coss",1716,889,827
+19,"Nuevo León",16,"Dr. González",3345,1713,1632
+19,"Nuevo León",17,"Galeana",39991,20237,19754
+19,"Nuevo León",18,"García",143668,72640,71028
+19,"Nuevo León",19,"San Pedro Garza García",122659,57622,65037
+19,"Nuevo León",20,"Gral. Bravo",5527,2876,2651
+19,"Nuevo León",21,"Gral. Escobedo",357937,180332,177605
+19,"Nuevo León",22,"Gral. Terán",14437,7234,7203
+19,"Nuevo León",23,"Gral. Treviño",1277,626,651
+19,"Nuevo León",24,"Gral. Zaragoza",5942,3052,2890
+19,"Nuevo León",25,"Gral. Zuazua",55213,27787,27426
+19,"Nuevo León",26,"Guadalupe",678006,336731,341275
+19,"Nuevo León",27,"Los Herreras",2030,1001,1029
+19,"Nuevo León",28,"Higueras",1594,829,765
+19,"Nuevo León",29,"Hualahuises",6914,3424,3490
+19,"Nuevo León",30,"Iturbide",3558,1844,1714
+19,"Nuevo León",31,"Juárez",256970,129324,127646
+19,"Nuevo León",32,"Lampazos de Naranjo",5349,2700,2649
+19,"Nuevo León",33,"Linares",78669,39104,39565
+19,"Nuevo León",34,"Marín",5488,2808,2680
+19,"Nuevo León",35,"Melchor Ocampo",862,433,429
+19,"Nuevo León",36,"Mier y Noriega",7095,3555,3540
+19,"Nuevo León",37,"Mina",5447,2774,2673
+19,"Nuevo León",38,"Montemorelos",59113,29370,29743
+19,"Nuevo León",39,"Monterrey",1135550,561656,573894
+19,"Nuevo León",40,"Parás",1034,512,522
+19,"Nuevo León",41,"Pesquería",20843,10737,10106
+19,"Nuevo León",42,"Los Ramones",5359,2720,2639
+19,"Nuevo León",43,"Rayones",2628,1363,1265
+19,"Nuevo León",44,"Sabinas Hidalgo",34671,17214,17457
+19,"Nuevo León",45,"Salinas Victoria",32660,16800,15860
+19,"Nuevo León",46,"San Nicolás de los Garza",443273,219337,223936
+19,"Nuevo León",47,"Hidalgo",16604,8318,8286
+19,"Nuevo León",48,"Santa Catarina",268955,134388,134567
+19,"Nuevo León",49,"Santiago",40469,20341,20128
+19,"Nuevo León",50,"Vallecillo",1971,1065,906
+19,"Nuevo León",51,"Villaldama",4113,2073,2040
+20,"Oaxaca",0,"Total de la entidad Oaxaca",3801962,1819008,1982954
+20,"Oaxaca",1,"Abejones",1084,483,601
+20,"Oaxaca",2,"Acatlán de Pérez Figueroa",44885,21866,23019
+20,"Oaxaca",3,"Asunción Cacalotepec",2495,1206,1289
+20,"Oaxaca",4,"Asunción Cuyotepeji",1012,469,543
+20,"Oaxaca",5,"Asunción Ixtaltepec",14751,7296,7455
+20,"Oaxaca",6,"Asunción Nochixtlán",17820,8437,9383
+20,"Oaxaca",7,"Asunción Ocotlán",2612,1165,1447
+20,"Oaxaca",8,"Asunción Tlacolulita",842,412,430
+20,"Oaxaca",9,"Ayotzintepec",6720,3314,3406
+20,"Oaxaca",10,"El Barrio de la Soledad",13608,6557,7051
+20,"Oaxaca",11,"Calihualá",1220,595,625
+20,"Oaxaca",12,"Candelaria Loxicha",9860,4730,5130
+20,"Oaxaca",13,"Ciénega de Zimatlán",2785,1319,1466
+20,"Oaxaca",14,"Ciudad Ixtepec",26450,12677,13773
+20,"Oaxaca",15,"Coatecas Altas",4712,2221,2491
+20,"Oaxaca",16,"Coicoyán de las Flores",8531,3990,4541
+20,"Oaxaca",17,"La Compañía",3302,1557,1745
+20,"Oaxaca",18,"Concepción Buenavista",834,397,437
+20,"Oaxaca",19,"Concepción Pápalo",3071,1537,1534
+20,"Oaxaca",20,"Constancia del Rosario",3860,1795,2065
+20,"Oaxaca",21,"Cosolapa",14667,7057,7610
+20,"Oaxaca",22,"Cosoltepec",866,394,472
+20,"Oaxaca",23,"Cuilápam de Guerrero",18428,8824,9604
+20,"Oaxaca",24,"Cuyamecalco Villa de Zaragoza",3846,1949,1897
+20,"Oaxaca",25,"Chahuites",11105,5498,5607
+20,"Oaxaca",26,"Chalcatongo de Hidalgo",8481,3923,4558
+20,"Oaxaca",27,"Chiquihuitlán de Benito Juárez",2458,1157,1301
+20,"Oaxaca",28,"Heroica Ciudad de Ejutla de Crespo",19679,9233,10446
+20,"Oaxaca",29,"Eloxochitlán de Flores Magón",4263,2024,2239
+20,"Oaxaca",30,"El Espinal",8310,4031,4279
+20,"Oaxaca",31,"Tamazulápam del Espíritu Santo",7362,3434,3928
+20,"Oaxaca",32,"Fresnillo de Trujano",1033,489,544
+20,"Oaxaca",33,"Guadalupe Etla",2433,1150,1283
+20,"Oaxaca",34,"Guadalupe de Ramírez",1425,689,736
+20,"Oaxaca",35,"Guelatao de Juárez",544,267,277
+20,"Oaxaca",36,"Guevea de Humboldt",5285,2581,2704
+20,"Oaxaca",37,"Mesones Hidalgo",4402,1984,2418
+20,"Oaxaca",38,"Villa Hidalgo",2112,1000,1112
+20,"Oaxaca",39,"Heroica Ciudad de Huajuapan de León",69839,32910,36929
+20,"Oaxaca",40,"Huautepec",5995,2824,3171
+20,"Oaxaca",41,"Huautla de Jiménez",30004,13952,16052
+20,"Oaxaca",42,"Ixtlán de Juárez",7674,3755,3919
+20,"Oaxaca",43,"HEROICA CIUDAD DE JUCHITÁN DE ZARAGOZA",93038,45210,47828
+20,"Oaxaca",44,"Loma Bonita",41535,19779,21756
+20,"Oaxaca",45,"Magdalena Apasco",7522,3576,3946
+20,"Oaxaca",46,"Magdalena Jaltepec",3313,1540,1773
+20,"Oaxaca",47,"Santa Magdalena Jicotlán",93,40,53
+20,"Oaxaca",48,"Magdalena Mixtepec",1304,642,662
+20,"Oaxaca",49,"Magdalena Ocotlán",1141,546,595
+20,"Oaxaca",50,"Magdalena Peñasco",3778,1755,2023
+20,"Oaxaca",51,"Magdalena Teitipac",4368,2059,2309
+20,"Oaxaca",52,"Magdalena Tequisistlán",6182,3026,3156
+20,"Oaxaca",53,"Magdalena Tlacotepec",1221,581,640
+20,"Oaxaca",54,"Magdalena Zahuatlán",409,194,215
+20,"Oaxaca",55,"Mariscala de Juárez",3530,1690,1840
+20,"Oaxaca",56,"Mártires de Tacubaya",1451,705,746
+20,"Oaxaca",57,"Matías Romero Avendaño",38019,18198,19821
+20,"Oaxaca",58,"Mazatlán Villa de Flores",13435,6634,6801
+20,"Oaxaca",59,"Miahuatlán de Porfirio Díaz",41387,19792,21595
+20,"Oaxaca",60,"Mixistlán de la Reforma",2770,1292,1478
+20,"Oaxaca",61,"Monjas",2568,1166,1402
+20,"Oaxaca",62,"Natividad",586,272,314
+20,"Oaxaca",63,"Nazareno Etla",3882,1825,2057
+20,"Oaxaca",64,"Nejapa de Madero",7390,3609,3781
+20,"Oaxaca",65,"Ixpantepec Nieves",1182,526,656
+20,"Oaxaca",66,"Santiago Niltepec",5353,2655,2698
+20,"Oaxaca",67,"Oaxaca de Juárez",263357,122446,140911
+20,"Oaxaca",68,"Ocotlán de Morelos",21341,10208,11133
+20,"Oaxaca",69,"La Pe",2446,1162,1284
+20,"Oaxaca",70,"Pinotepa de Don Luis",6629,3248,3381
+20,"Oaxaca",71,"Pluma Hidalgo",3060,1503,1557
+20,"Oaxaca",72,"San José del Progreso",6579,3168,3411
+20,"Oaxaca",73,"Putla Villa de Guerrero",31897,14982,16915
+20,"Oaxaca",74,"Santa Catarina Quioquitani",505,245,260
+20,"Oaxaca",75,"Reforma de Pineda",2671,1310,1361
+20,"Oaxaca",76,"La Reforma",3331,1574,1757
+20,"Oaxaca",77,"Reyes Etla",3568,1700,1868
+20,"Oaxaca",78,"Rojas de Cuauhtémoc",1092,515,577
+20,"Oaxaca",79,"Salina Cruz",82371,39508,42863
+20,"Oaxaca",80,"San Agustín Amatengo",1312,614,698
+20,"Oaxaca",81,"San Agustín Atenango",1914,897,1017
+20,"Oaxaca",82,"San Agustín Chayuco",3952,1846,2106
+20,"Oaxaca",83,"San Agustín de las Juntas",8089,3956,4133
+20,"Oaxaca",84,"San Agustín Etla",3893,1844,2049
+20,"Oaxaca",85,"San Agustín Loxicha",22565,11108,11457
+20,"Oaxaca",86,"San Agustín Tlacotepec",874,368,506
+20,"Oaxaca",87,"San Agustín Yatareni",4075,1916,2159
+20,"Oaxaca",88,"San Andrés Cabecera Nueva",2851,1396,1455
+20,"Oaxaca",89,"San Andrés Dinicuiti",2152,1034,1118
+20,"Oaxaca",90,"San Andrés Huaxpaltepec",5867,2850,3017
+20,"Oaxaca",91,"San Andrés Huayápam",4879,2296,2583
+20,"Oaxaca",92,"San Andrés Ixtlahuaca",1439,664,775
+20,"Oaxaca",93,"San Andrés Lagunas",505,239,266
+20,"Oaxaca",94,"San Andrés Nuxiño",1898,897,1001
+20,"Oaxaca",95,"San Andrés Paxtlán",3990,1970,2020
+20,"Oaxaca",96,"San Andrés Sinaxtla",772,364,408
+20,"Oaxaca",97,"San Andrés Solaga",1740,833,907
+20,"Oaxaca",98,"San Andrés Teotilálpam",4427,2106,2321
+20,"Oaxaca",99,"San Andrés Tepetlapa",475,225,250
+20,"Oaxaca",100,"San Andrés Yaá",497,228,269
+20,"Oaxaca",101,"San Andrés Zabache",726,317,409
+20,"Oaxaca",102,"San Andrés Zautla",4405,2135,2270
+20,"Oaxaca",103,"San Antonino Castillo Velasco",5651,2690,2961
+20,"Oaxaca",104,"San Antonino el Alto",2508,1228,1280
+20,"Oaxaca",105,"San Antonino Monte Verde",6650,3079,3571
+20,"Oaxaca",106,"San Antonio Acutla",297,126,171
+20,"Oaxaca",107,"San Antonio de la Cal",21456,10112,11344
+20,"Oaxaca",108,"San Antonio Huitepec",4289,2012,2277
+20,"Oaxaca",109,"San Antonio Nanahuatípam",1233,617,616
+20,"Oaxaca",110,"San Antonio Sinicahua",1603,738,865
+20,"Oaxaca",111,"San Antonio Tepetlapa",4394,2111,2283
+20,"Oaxaca",112,"San Baltazar Chichicápam",2439,1132,1307
+20,"Oaxaca",113,"San Baltazar Loxicha",2832,1381,1451
+20,"Oaxaca",114,"San Baltazar Yatzachi el Bajo",677,314,363
+20,"Oaxaca",115,"San Bartolo Coyotepec",8684,4141,4543
+20,"Oaxaca",116,"San Bartolomé Ayautla",4052,1941,2111
+20,"Oaxaca",117,"San Bartolomé Loxicha",2422,1173,1249
+20,"Oaxaca",118,"San Bartolomé Quialana",2470,1026,1444
+20,"Oaxaca",119,"San Bartolomé Yucuañe",399,163,236
+20,"Oaxaca",120,"San Bartolomé Zoogocho",368,160,208
+20,"Oaxaca",121,"San Bartolo Soyaltepec",655,291,364
+20,"Oaxaca",122,"San Bartolo Yautepec",677,333,344
+20,"Oaxaca",123,"San Bernardo Mixtepec",2705,1296,1409
+20,"Oaxaca",124,"San Blas Atempa",17094,8525,8569
+20,"Oaxaca",125,"San Carlos Yautepec",11813,5902,5911
+20,"Oaxaca",126,"San Cristóbal Amatlán",5024,2365,2659
+20,"Oaxaca",127,"San Cristóbal Amoltepec",1283,601,682
+20,"Oaxaca",128,"San Cristóbal Lachirioag",1230,591,639
+20,"Oaxaca",129,"San Cristóbal Suchixtlahuaca",334,161,173
+20,"Oaxaca",130,"San Dionisio del Mar",5098,2582,2516
+20,"Oaxaca",131,"San Dionisio Ocotepec",10500,4894,5606
+20,"Oaxaca",132,"San Dionisio Ocotlán",1245,609,636
+20,"Oaxaca",133,"San Esteban Atatlahuca",3974,1938,2036
+20,"Oaxaca",134,"San Felipe Jalapa de Díaz",26838,12997,13841
+20,"Oaxaca",135,"San Felipe Tejalápam",7187,3419,3768
+20,"Oaxaca",136,"San Felipe Usila",11575,5565,6010
+20,"Oaxaca",137,"San Francisco Cahuacuá",3427,1671,1756
+20,"Oaxaca",138,"San Francisco Cajonos",460,217,243
+20,"Oaxaca",139,"San Francisco Chapulapa",2136,1022,1114
+20,"Oaxaca",140,"San Francisco Chindúa",827,395,432
+20,"Oaxaca",141,"San Francisco del Mar",7232,3659,3573
+20,"Oaxaca",142,"San Francisco Huehuetlán",1160,516,644
+20,"Oaxaca",143,"San Francisco Ixhuatán",8959,4429,4530
+20,"Oaxaca",144,"San Francisco Jaltepetongo",1110,544,566
+20,"Oaxaca",145,"San Francisco Lachigoló",3474,1697,1777
+20,"Oaxaca",146,"San Francisco Logueche",2666,1256,1410
+20,"Oaxaca",147,"San Francisco Nuxaño",378,195,183
+20,"Oaxaca",148,"San Francisco Ozolotepec",1945,925,1020
+20,"Oaxaca",149,"San Francisco Sola",1509,726,783
+20,"Oaxaca",150,"San Francisco Telixtlahuaca",11893,5694,6199
+20,"Oaxaca",151,"San Francisco Teopan",394,205,189
+20,"Oaxaca",152,"San Francisco Tlapancingo",2152,981,1171
+20,"Oaxaca",153,"San Gabriel Mixtepec",4733,2263,2470
+20,"Oaxaca",154,"San Ildefonso Amatlán",2393,1124,1269
+20,"Oaxaca",155,"San Ildefonso Sola",940,470,470
+20,"Oaxaca",156,"San Ildefonso Villa Alta",3478,1691,1787
+20,"Oaxaca",157,"San Jacinto Amilpas",13860,6581,7279
+20,"Oaxaca",158,"San Jacinto Tlacotepec",2231,1094,1137
+20,"Oaxaca",159,"San Jerónimo Coatlán",5449,2636,2813
+20,"Oaxaca",160,"San Jerónimo Silacayoapilla",1449,710,739
+20,"Oaxaca",161,"San Jerónimo Sosola",2559,1205,1354
+20,"Oaxaca",162,"San Jerónimo Taviche",1848,869,979
+20,"Oaxaca",163,"San Jerónimo Tecóatl",1606,769,837
+20,"Oaxaca",164,"San Jorge Nuchita",3215,1486,1729
+20,"Oaxaca",165,"San José Ayuquila",1511,697,814
+20,"Oaxaca",166,"San José Chiltepec",11019,5279,5740
+20,"Oaxaca",167,"San José del Peñasco",2094,1038,1056
+20,"Oaxaca",168,"San José Estancia Grande",977,485,492
+20,"Oaxaca",169,"San José Independencia",3684,1779,1905
+20,"Oaxaca",170,"San José Lachiguiri",3849,1757,2092
+20,"Oaxaca",171,"San José Tenango",18478,8929,9549
+20,"Oaxaca",172,"San Juan Achiutla",430,213,217
+20,"Oaxaca",173,"San Juan Atepec",1517,722,795
+20,"Oaxaca",174,"Ánimas Trujano",3759,1786,1973
+20,"Oaxaca",175,"San Juan Bautista Atatlahuca",1724,833,891
+20,"Oaxaca",176,"San Juan Bautista Coixtlahuaca",2808,1334,1474
+20,"Oaxaca",177,"San Juan Bautista Cuicatlán",9441,4601,4840
+20,"Oaxaca",178,"San Juan Bautista Guelache",6287,2975,3312
+20,"Oaxaca",179,"San Juan Bautista Jayacatlán",1462,736,726
+20,"Oaxaca",180,"San Juan Bautista Lo de Soto",2325,1138,1187
+20,"Oaxaca",181,"San Juan Bautista Suchitepec",417,187,230
+20,"Oaxaca",182,"San Juan Bautista Tlacoatzintepec",2292,1088,1204
+20,"Oaxaca",183,"San Juan Bautista Tlachichilco",1447,681,766
+20,"Oaxaca",184,"San Juan Bautista Tuxtepec",155766,74788,80978
+20,"Oaxaca",185,"San Juan Cacahuatepec",8680,4216,4464
+20,"Oaxaca",186,"San Juan Cieneguilla",605,294,311
+20,"Oaxaca",187,"San Juan Coatzóspam",2535,1275,1260
+20,"Oaxaca",188,"San Juan Colorado",9494,4583,4911
+20,"Oaxaca",189,"San Juan Comaltepec",2517,1207,1310
+20,"Oaxaca",190,"San Juan Cotzocón",22356,10895,11461
+20,"Oaxaca",191,"San Juan Chicomezúchil",320,147,173
+20,"Oaxaca",192,"San Juan Chilateca",1442,667,775
+20,"Oaxaca",193,"San Juan del Estado",2546,1207,1339
+20,"Oaxaca",194,"San Juan del Río",1231,557,674
+20,"Oaxaca",195,"San Juan Diuxi",1256,627,629
+20,"Oaxaca",196,"San Juan Evangelista Analco",404,197,207
+20,"Oaxaca",197,"San Juan Guelavía",3047,1483,1564
+20,"Oaxaca",198,"San Juan Guichicovi",28142,13221,14921
+20,"Oaxaca",199,"San Juan Ihualtepec",713,328,385
+20,"Oaxaca",200,"San Juan Juquila Mixes",3924,1841,2083
+20,"Oaxaca",201,"San Juan Juquila Vijanos",1832,871,961
+20,"Oaxaca",202,"San Juan Lachao",4531,2159,2372
+20,"Oaxaca",203,"San Juan Lachigalla",3285,1580,1705
+20,"Oaxaca",204,"San Juan Lajarcia",715,324,391
+20,"Oaxaca",205,"San Juan Lalana",17398,8441,8957
+20,"Oaxaca",206,"San Juan de los Cués",2357,1166,1191
+20,"Oaxaca",207,"San Juan Mazatlán",17100,8432,8668
+20,"Oaxaca",208,"SAN JUAN MIXTEPEC -DTO. 08 -",7611,3572,4039
+20,"Oaxaca",209,"SAN JUAN MIXTEPEC -DTO. 26 -",711,277,434
+20,"Oaxaca",210,"San Juan Ñumí",6666,3196,3470
+20,"Oaxaca",211,"San Juan Ozolotepec",3168,1582,1586
+20,"Oaxaca",212,"San Juan Petlapa",2807,1344,1463
+20,"Oaxaca",213,"San Juan Quiahije",3628,1702,1926
+20,"Oaxaca",214,"San Juan Quiotepec",2313,1153,1160
+20,"Oaxaca",215,"San Juan Sayultepec",764,351,413
+20,"Oaxaca",216,"San Juan Tabaá",1331,633,698
+20,"Oaxaca",217,"San Juan Tamazola",3446,1678,1768
+20,"Oaxaca",218,"San Juan Teita",607,291,316
+20,"Oaxaca",219,"San Juan Teitipac",2565,1232,1333
+20,"Oaxaca",220,"San Juan Tepeuxila",2773,1429,1344
+20,"Oaxaca",221,"San Juan Teposcolula",1340,646,694
+20,"Oaxaca",222,"San Juan Yaeé",1530,718,812
+20,"Oaxaca",223,"San Juan Yatzona",452,195,257
+20,"Oaxaca",224,"San Juan Yucuita",684,314,370
+20,"Oaxaca",225,"San Lorenzo",5955,2842,3113
+20,"Oaxaca",226,"San Lorenzo Albarradas",2708,1359,1349
+20,"Oaxaca",227,"San Lorenzo Cacaotepec",13704,6548,7156
+20,"Oaxaca",228,"San Lorenzo Cuaunecuiltitla",771,404,367
+20,"Oaxaca",229,"San Lorenzo Texmelúcan",7048,3213,3835
+20,"Oaxaca",230,"San Lorenzo Victoria",1007,491,516
+20,"Oaxaca",231,"San Lucas Camotlán",3026,1493,1533
+20,"Oaxaca",232,"San Lucas Ojitlán",21514,10395,11119
+20,"Oaxaca",233,"San Lucas Quiaviní",1745,720,1025
+20,"Oaxaca",234,"San Lucas Zoquiápam",7554,3653,3901
+20,"Oaxaca",235,"San Luis Amatlán",3624,1657,1967
+20,"Oaxaca",236,"San Marcial Ozolotepec",1525,723,802
+20,"Oaxaca",237,"San Marcos Arteaga",1557,719,838
+20,"Oaxaca",238,"San Martín de los Cansecos",816,403,413
+20,"Oaxaca",239,"San Martín Huamelúlpam",1077,489,588
+20,"Oaxaca",240,"San Martín Itunyoso",2460,1077,1383
+20,"Oaxaca",241,"San Martín Lachilá",1084,480,604
+20,"Oaxaca",242,"San Martín Peras",11361,5473,5888
+20,"Oaxaca",243,"San Martín Tilcajete",1742,780,962
+20,"Oaxaca",244,"San Martín Toxpalan",3669,1774,1895
+20,"Oaxaca",245,"San Martín Zacatepec",1277,619,658
+20,"Oaxaca",246,"San Mateo Cajonos",620,280,340
+20,"Oaxaca",247,"Capulálpam de Méndez",1467,662,805
+20,"Oaxaca",248,"San Mateo del Mar",14252,7203,7049
+20,"Oaxaca",249,"San Mateo Yoloxochitlán",3475,1654,1821
+20,"Oaxaca",250,"San Mateo Etlatongo",1181,565,616
+20,"Oaxaca",251,"San Mateo Nejápam",1180,551,629
+20,"Oaxaca",252,"San Mateo Peñasco",2116,973,1143
+20,"Oaxaca",253,"San Mateo Piñas",2226,1110,1116
+20,"Oaxaca",254,"San Mateo Río Hondo",3308,1605,1703
+20,"Oaxaca",255,"San Mateo Sindihui",2086,993,1093
+20,"Oaxaca",256,"San Mateo Tlapiltepec",234,106,128
+20,"Oaxaca",257,"San Melchor Betaza",1091,503,588
+20,"Oaxaca",258,"San Miguel Achiutla",744,348,396
+20,"Oaxaca",259,"San Miguel Ahuehuetitlán",2465,1171,1294
+20,"Oaxaca",260,"San Miguel Aloápam",2488,1175,1313
+20,"Oaxaca",261,"San Miguel Amatitlán",7244,3421,3823
+20,"Oaxaca",262,"San Miguel Amatlán",1043,508,535
+20,"Oaxaca",263,"San Miguel Coatlán",3483,1638,1845
+20,"Oaxaca",264,"San Miguel Chicahua",2274,1016,1258
+20,"Oaxaca",265,"San Miguel Chimalapa",6608,3397,3211
+20,"Oaxaca",266,"San Miguel del Puerto",8481,4210,4271
+20,"Oaxaca",267,"San Miguel del Río",294,148,146
+20,"Oaxaca",268,"San Miguel Ejutla",916,418,498
+20,"Oaxaca",269,"San Miguel el Grande",4127,1904,2223
+20,"Oaxaca",270,"San Miguel Huautla",1399,659,740
+20,"Oaxaca",271,"San Miguel Mixtepec",3245,1571,1674
+20,"Oaxaca",272,"San Miguel Panixtlahuaca",6161,2852,3309
+20,"Oaxaca",273,"San Miguel Peras",3497,1672,1825
+20,"Oaxaca",274,"San Miguel Piedras",1296,638,658
+20,"Oaxaca",275,"San Miguel Quetzaltepec",7293,3652,3641
+20,"Oaxaca",276,"San Miguel Santa Flor",801,398,403
+20,"Oaxaca",277,"Villa Sola de Vega",12525,6176,6349
+20,"Oaxaca",278,"San Miguel Soyaltepec",36564,17715,18849
+20,"Oaxaca",279,"San Miguel Suchixtepec",2911,1402,1509
+20,"Oaxaca",280,"Villa Talea de Castro",2394,1152,1242
+20,"Oaxaca",281,"San Miguel Tecomatlán",308,159,149
+20,"Oaxaca",282,"San Miguel Tenango",794,410,384
+20,"Oaxaca",283,"San Miguel Tequixtepec",1042,511,531
+20,"Oaxaca",284,"San Miguel Tilquiápam",3160,1385,1775
+20,"Oaxaca",285,"San Miguel Tlacamama",3386,1654,1732
+20,"Oaxaca",286,"San Miguel Tlacotepec",3220,1483,1737
+20,"Oaxaca",287,"San Miguel Tulancingo",346,134,212
+20,"Oaxaca",288,"San Miguel Yotao",611,297,314
+20,"Oaxaca",289,"San Nicolás",1143,519,624
+20,"Oaxaca",290,"San Nicolás Hidalgo",1012,463,549
+20,"Oaxaca",291,"San Pablo Coatlán",4167,2029,2138
+20,"Oaxaca",292,"San Pablo Cuatro Venados",1388,640,748
+20,"Oaxaca",293,"San Pablo Etla",15535,7430,8105
+20,"Oaxaca",294,"San Pablo Huitzo",6307,2995,3312
+20,"Oaxaca",295,"San Pablo Huixtepec",9025,4256,4769
+20,"Oaxaca",296,"San Pablo Macuiltianguis",929,440,489
+20,"Oaxaca",297,"San Pablo Tijaltepec",2150,948,1202
+20,"Oaxaca",298,"San Pablo Villa de Mitla",11825,5614,6211
+20,"Oaxaca",299,"San Pablo Yaganiza",1108,518,590
+20,"Oaxaca",300,"San Pedro Amuzgos",6468,3032,3436
+20,"Oaxaca",301,"San Pedro Apóstol",1544,708,836
+20,"Oaxaca",302,"San Pedro Atoyac",4136,1953,2183
+20,"Oaxaca",303,"San Pedro Cajonos",1172,512,660
+20,"Oaxaca",304,"San Pedro Coxcaltepec Cántaros",851,407,444
+20,"Oaxaca",305,"San Pedro Comitancillo",3944,1867,2077
+20,"Oaxaca",306,"San Pedro el Alto",3903,1904,1999
+20,"Oaxaca",307,"San Pedro Huamelula",9594,4795,4799
+20,"Oaxaca",308,"San Pedro Huilotepec",2839,1397,1442
+20,"Oaxaca",309,"San Pedro Ixcatlán",10371,5113,5258
+20,"Oaxaca",310,"San Pedro Ixtlahuaca",6822,3322,3500
+20,"Oaxaca",311,"San Pedro Jaltepetongo",458,216,242
+20,"Oaxaca",312,"San Pedro Jicayán",11555,5544,6011
+20,"Oaxaca",313,"San Pedro Jocotipac",834,377,457
+20,"Oaxaca",314,"San Pedro Juchatengo",1693,807,886
+20,"Oaxaca",315,"San Pedro Mártir",1711,743,968
+20,"Oaxaca",316,"San Pedro Mártir Quiechapa",753,342,411
+20,"Oaxaca",317,"San Pedro Mártir Yucuxaco",1405,667,738
+20,"Oaxaca",318,"SAN PEDRO MIXTEPEC -DTO. 22 -",42860,20826,22034
+20,"Oaxaca",319,"SAN PEDRO MIXTEPEC -DTO. 26 -",1099,518,581
+20,"Oaxaca",320,"San Pedro Molinos",723,338,385
+20,"Oaxaca",321,"San Pedro Nopala",840,403,437
+20,"Oaxaca",322,"San Pedro Ocopetatillo",884,408,476
+20,"Oaxaca",323,"San Pedro Ocotepec",2135,1030,1105
+20,"Oaxaca",324,"San Pedro Pochutla",43860,21514,22346
+20,"Oaxaca",325,"San Pedro Quiatoni",10491,5052,5439
+20,"Oaxaca",326,"San Pedro Sochiápam",4957,2440,2517
+20,"Oaxaca",327,"San Pedro Tapanatepec",13992,6870,7122
+20,"Oaxaca",328,"San Pedro Taviche",1173,569,604
+20,"Oaxaca",329,"San Pedro Teozacoalco",1320,629,691
+20,"Oaxaca",330,"San Pedro Teutila",4277,2094,2183
+20,"Oaxaca",331,"San Pedro Tidaá",894,415,479
+20,"Oaxaca",332,"San Pedro Topiltepec",406,199,207
+20,"Oaxaca",333,"SAN PEDRO TOTOLÁPAM",2603,1227,1376
+20,"Oaxaca",334,"Villa de Tututepec de Melchor Ocampo",43913,21372,22541
+20,"Oaxaca",335,"San Pedro Yaneri",1002,485,517
+20,"Oaxaca",336,"San Pedro Yólox",2267,1059,1208
+20,"Oaxaca",337,"San Pedro y San Pablo Ayutla",5602,2597,3005
+20,"Oaxaca",338,"Villa de Etla",9280,4426,4854
+20,"Oaxaca",339,"San Pedro y San Pablo Teposcolula",3989,1907,2082
+20,"Oaxaca",340,"San Pedro y San Pablo Tequixtepec",1878,851,1027
+20,"Oaxaca",341,"San Pedro Yucunama",232,99,133
+20,"Oaxaca",342,"San Raymundo Jalpan",2079,953,1126
+20,"Oaxaca",343,"San Sebastián Abasolo",1849,882,967
+20,"Oaxaca",344,"San Sebastián Coatlán",2613,1261,1352
+20,"Oaxaca",345,"San Sebastián Ixcapa",3968,1954,2014
+20,"Oaxaca",346,"San Sebastián Nicananduta",1449,624,825
+20,"Oaxaca",347,"San Sebastián Río Hondo",3664,1803,1861
+20,"Oaxaca",348,"San Sebastián Tecomaxtlahuaca",8246,3929,4317
+20,"Oaxaca",349,"San Sebastián Teitipac",1976,906,1070
+20,"Oaxaca",350,"San Sebastián Tutla",16241,7515,8726
+20,"Oaxaca",351,"San Simón Almolongas",2623,1214,1409
+20,"Oaxaca",352,"San Simón Zahuatlán",3833,1903,1930
+20,"Oaxaca",353,"Santa Ana",1978,957,1021
+20,"Oaxaca",354,"Santa Ana Ateixtlahuaca",510,257,253
+20,"Oaxaca",355,"Santa Ana Cuauhtémoc",738,347,391
+20,"Oaxaca",356,"Santa Ana del Valle",1993,966,1027
+20,"Oaxaca",357,"Santa Ana Tavela",908,442,466
+20,"Oaxaca",358,"Santa Ana Tlapacoyan",1854,875,979
+20,"Oaxaca",359,"Santa Ana Yareni",809,347,462
+20,"Oaxaca",360,"Santa Ana Zegache",3592,1684,1908
+20,"Oaxaca",361,"Santa Catalina Quierí",922,415,507
+20,"Oaxaca",362,"Santa Catarina Cuixtla",1496,673,823
+20,"Oaxaca",363,"Santa Catarina Ixtepeji",2633,1267,1366
+20,"Oaxaca",364,"Santa Catarina Juquila",14710,7145,7565
+20,"Oaxaca",365,"Santa Catarina Lachatao",1307,636,671
+20,"Oaxaca",366,"Santa Catarina Loxicha",3986,1985,2001
+20,"Oaxaca",367,"Santa Catarina Mechoacán",4543,2232,2311
+20,"Oaxaca",368,"Santa Catarina Minas",1816,889,927
+20,"Oaxaca",369,"Santa Catarina Quiané",1847,887,960
+20,"Oaxaca",370,"Santa Catarina Tayata",679,312,367
+20,"Oaxaca",371,"Santa Catarina Ticuá",954,423,531
+20,"Oaxaca",372,"Santa Catarina Yosonotú",1886,845,1041
+20,"Oaxaca",373,"Santa Catarina Zapoquila",448,214,234
+20,"Oaxaca",374,"Santa Cruz Acatepec",1470,710,760
+20,"Oaxaca",375,"Santa Cruz Amilpas",10120,4746,5374
+20,"Oaxaca",376,"Santa Cruz de Bravo",364,177,187
+20,"Oaxaca",377,"Santa Cruz Itundujia",10975,5278,5697
+20,"Oaxaca",378,"Santa Cruz Mixtepec",3615,1720,1895
+20,"Oaxaca",379,"Santa Cruz Nundaco",2958,1359,1599
+20,"Oaxaca",380,"Santa Cruz Papalutla",1972,950,1022
+20,"Oaxaca",381,"Santa Cruz Tacache de Mina",2606,1235,1371
+20,"Oaxaca",382,"Santa Cruz Tacahua",1170,551,619
+20,"Oaxaca",383,"Santa Cruz Tayata",608,294,314
+20,"Oaxaca",384,"Santa Cruz Xitla",4514,2153,2361
+20,"Oaxaca",385,"Santa Cruz Xoxocotlán",77833,36822,41011
+20,"Oaxaca",386,"Santa Cruz Zenzontepec",17897,8669,9228
+20,"Oaxaca",387,"Santa Gertrudis",2858,1368,1490
+20,"Oaxaca",388,"Santa Inés del Monte",2535,1233,1302
+20,"Oaxaca",389,"Santa Inés Yatzeche",921,389,532
+20,"Oaxaca",390,"Santa Lucía del Camino",47356,22857,24499
+20,"Oaxaca",391,"Santa Lucía Miahuatlán",3356,1634,1722
+20,"Oaxaca",392,"Santa Lucía Monteverde",6678,3184,3494
+20,"Oaxaca",393,"Santa Lucía Ocotlán",3604,1615,1989
+20,"Oaxaca",394,"Santa María Alotepec",2778,1381,1397
+20,"Oaxaca",395,"Santa María Apazco",1898,870,1028
+20,"Oaxaca",396,"Santa María la Asunción",3252,1440,1812
+20,"Oaxaca",397,"Heroica Ciudad de Tlaxiaco",38453,17987,20466
+20,"Oaxaca",398,"Ayoquezco de Aldama",4406,2053,2353
+20,"Oaxaca",399,"Santa María Atzompa",27465,13029,14436
+20,"Oaxaca",400,"Santa María Camotlán",1632,750,882
+20,"Oaxaca",401,"Santa María Colotepec",22562,11104,11458
+20,"Oaxaca",402,"Santa María Cortijo",1083,516,567
+20,"Oaxaca",403,"Santa María Coyotepec",2772,1316,1456
+20,"Oaxaca",404,"Santa María Chachoápam",766,355,411
+20,"Oaxaca",405,"Villa de Chilapa de Díaz",1932,844,1088
+20,"Oaxaca",406,"Santa María Chilchotla",20584,10098,10486
+20,"Oaxaca",407,"Santa María Chimalapa",8506,4256,4250
+20,"Oaxaca",408,"Santa María del Rosario",480,249,231
+20,"Oaxaca",409,"Santa María del Tule",8165,3754,4411
+20,"Oaxaca",410,"Santa María Ecatepec",3461,1703,1758
+20,"Oaxaca",411,"Santa María Guelacé",816,360,456
+20,"Oaxaca",412,"Santa María Guienagati",3286,1639,1647
+20,"Oaxaca",413,"Santa María Huatulco",38629,18726,19903
+20,"Oaxaca",414,"Santa María Huazolotitlán",10794,5277,5517
+20,"Oaxaca",415,"Santa María Ipalapa",4888,2290,2598
+20,"Oaxaca",416,"Santa María Ixcatlán",516,243,273
+20,"Oaxaca",417,"Santa María Jacatepec",9240,4380,4860
+20,"Oaxaca",418,"Santa María Jalapa del Marqués",11888,5707,6181
+20,"Oaxaca",419,"Santa María Jaltianguis",575,257,318
+20,"Oaxaca",420,"Santa María Lachixío",1680,776,904
+20,"Oaxaca",421,"Santa María Mixtequilla",4442,2158,2284
+20,"Oaxaca",422,"Santa María Nativitas",681,308,373
+20,"Oaxaca",423,"Santa María Nduayaco",550,280,270
+20,"Oaxaca",424,"Santa María Ozolotepec",3992,1915,2077
+20,"Oaxaca",425,"Santa María Pápalo",2209,1104,1105
+20,"Oaxaca",426,"Santa María Peñoles",7865,3799,4066
+20,"Oaxaca",427,"Santa María Petapa",15387,7439,7948
+20,"Oaxaca",428,"Santa María Quiegolani",1770,886,884
+20,"Oaxaca",429,"Santa María Sola",1524,719,805
+20,"Oaxaca",430,"Santa María Tataltepec",253,122,131
+20,"Oaxaca",431,"Santa María Tecomavaca",1774,847,927
+20,"Oaxaca",432,"Santa María Temaxcalapa",968,465,503
+20,"Oaxaca",433,"Santa María Temaxcaltepec",2595,1204,1391
+20,"Oaxaca",434,"Santa María Teopoxco",4651,2208,2443
+20,"Oaxaca",435,"Santa María Tepantlali",3505,1714,1791
+20,"Oaxaca",436,"Santa María Texcatitlán",1113,539,574
+20,"Oaxaca",437,"Santa María Tlahuitoltepec",9663,4680,4983
+20,"Oaxaca",438,"Santa María Tlalixtac",1754,841,913
+20,"Oaxaca",439,"Santa María Tonameca",24318,12000,12318
+20,"Oaxaca",440,"Santa María Totolapilla",896,425,471
+20,"Oaxaca",441,"Santa María Xadani",7781,3929,3852
+20,"Oaxaca",442,"Santa María Yalina",354,162,192
+20,"Oaxaca",443,"Santa María Yavesía",448,200,248
+20,"Oaxaca",444,"Santa María Yolotepec",461,228,233
+20,"Oaxaca",445,"Santa María Yosoyúa",1642,805,837
+20,"Oaxaca",446,"Santa María Yucuhiti",6551,3119,3432
+20,"Oaxaca",447,"Santa María Zacatepec",15076,7021,8055
+20,"Oaxaca",448,"Santa María Zaniza",2009,964,1045
+20,"Oaxaca",449,"Santa María Zoquitlán",3359,1666,1693
+20,"Oaxaca",450,"Santiago Amoltepec",12313,5930,6383
+20,"Oaxaca",451,"Santiago Apoala",1053,495,558
+20,"Oaxaca",452,"Santiago Apóstol",4220,1879,2341
+20,"Oaxaca",453,"Santiago Astata",3915,1941,1974
+20,"Oaxaca",454,"Santiago Atitlán",3180,1618,1562
+20,"Oaxaca",455,"Santiago Ayuquililla",2748,1284,1464
+20,"Oaxaca",456,"Santiago Cacaloxtepec",1686,808,878
+20,"Oaxaca",457,"Santiago Camotlán",3395,1704,1691
+20,"Oaxaca",458,"Santiago Comaltepec",1115,528,587
+20,"Oaxaca",459,"Santiago Chazumba",4479,2040,2439
+20,"Oaxaca",460,"Santiago Choápam",5413,2620,2793
+20,"Oaxaca",461,"Santiago del Río",614,306,308
+20,"Oaxaca",462,"Santiago Huajolotitlán",4350,1972,2378
+20,"Oaxaca",463,"Santiago Huauclilla",663,317,346
+20,"Oaxaca",464,"Santiago Ihuitlán Plumas",480,217,263
+20,"Oaxaca",465,"Santiago Ixcuintepec",1568,773,795
+20,"Oaxaca",466,"Santiago Ixtayutla",11917,5749,6168
+20,"Oaxaca",467,"Santiago Jamiltepec",18383,8815,9568
+20,"Oaxaca",468,"Santiago Jocotepec",13568,6682,6886
+20,"Oaxaca",469,"Santiago Juxtlahuaca",32927,15475,17452
+20,"Oaxaca",470,"Santiago Lachiguiri",4693,2302,2391
+20,"Oaxaca",471,"Santiago Lalopa",496,225,271
+20,"Oaxaca",472,"Santiago Laollaga",3198,1594,1604
+20,"Oaxaca",473,"Santiago Laxopa",1394,660,734
+20,"Oaxaca",474,"Santiago Llano Grande",3260,1609,1651
+20,"Oaxaca",475,"Santiago Matatlán",9653,4547,5106
+20,"Oaxaca",476,"Santiago Miltepec",409,197,212
+20,"Oaxaca",477,"Santiago Minas",1430,701,729
+20,"Oaxaca",478,"Santiago Nacaltepec",1913,919,994
+20,"Oaxaca",479,"Santiago Nejapilla",219,118,101
+20,"Oaxaca",480,"Santiago Nundiche",967,469,498
+20,"Oaxaca",481,"Santiago Nuyoó",1966,926,1040
+20,"Oaxaca",482,"Santiago Pinotepa Nacional",50309,24328,25981
+20,"Oaxaca",483,"Santiago Suchilquitongo",9542,4555,4987
+20,"Oaxaca",484,"Santiago Tamazola",4207,1922,2285
+20,"Oaxaca",485,"Santiago Tapextla",3031,1539,1492
+20,"Oaxaca",486,"Villa Tejúpam de la Unión",2469,1194,1275
+20,"Oaxaca",487,"Santiago Tenango",1945,973,972
+20,"Oaxaca",488,"Santiago Tepetlapa",131,62,69
+20,"Oaxaca",489,"Santiago Tetepec",4953,2403,2550
+20,"Oaxaca",490,"Santiago Texcalcingo",3076,1473,1603
+20,"Oaxaca",491,"Santiago Textitlán",4170,2048,2122
+20,"Oaxaca",492,"Santiago Tilantongo",3210,1495,1715
+20,"Oaxaca",493,"Santiago Tillo",553,258,295
+20,"Oaxaca",494,"Santiago Tlazoyaltepec",4894,2244,2650
+20,"Oaxaca",495,"Santiago Xanica",2884,1428,1456
+20,"Oaxaca",496,"Santiago Xiacuí",2171,1023,1148
+20,"Oaxaca",497,"Santiago Yaitepec",4122,1893,2229
+20,"Oaxaca",498,"Santiago Yaveo",6665,3326,3339
+20,"Oaxaca",499,"Santiago Yolomécatl",2021,932,1089
+20,"Oaxaca",500,"Santiago Yosondúa",7883,3723,4160
+20,"Oaxaca",501,"Santiago Yucuyachi",940,446,494
+20,"Oaxaca",502,"Santiago Zacatepec",5515,2730,2785
+20,"Oaxaca",503,"Santiago Zoochila",374,175,199
+20,"Oaxaca",504,"Nuevo Zoquiápam",1652,788,864
+20,"Oaxaca",505,"Santo Domingo Ingenio",7554,3781,3773
+20,"Oaxaca",506,"Santo Domingo Albarradas",782,361,421
+20,"Oaxaca",507,"Santo Domingo Armenta",3224,1601,1623
+20,"Oaxaca",508,"Santo Domingo Chihuitán",1521,754,767
+20,"Oaxaca",509,"Santo Domingo de Morelos",10547,5065,5482
+20,"Oaxaca",510,"Santo Domingo Ixcatlán",877,405,472
+20,"Oaxaca",511,"Santo Domingo Nuxaá",3610,1742,1868
+20,"Oaxaca",512,"Santo Domingo Ozolotepec",913,432,481
+20,"Oaxaca",513,"Santo Domingo Petapa",8394,4192,4202
+20,"Oaxaca",514,"Santo Domingo Roayaga",997,472,525
+20,"Oaxaca",515,"Santo Domingo Tehuantepec",61872,30124,31748
+20,"Oaxaca",516,"Santo Domingo Teojomulco",4571,2198,2373
+20,"Oaxaca",517,"Santo Domingo Tepuxtepec",5194,2454,2740
+20,"Oaxaca",518,"Santo Domingo Tlatayápam",153,74,79
+20,"Oaxaca",519,"Santo Domingo Tomaltepec",2790,1367,1423
+20,"Oaxaca",520,"Santo Domingo Tonalá",7153,3339,3814
+20,"Oaxaca",521,"Santo Domingo Tonaltepec",276,111,165
+20,"Oaxaca",522,"Santo Domingo Xagacía",1213,564,649
+20,"Oaxaca",523,"Santo Domingo Yanhuitlán",1609,760,849
+20,"Oaxaca",524,"Santo Domingo Yodohino",369,173,196
+20,"Oaxaca",525,"Santo Domingo Zanatepec",11218,5541,5677
+20,"Oaxaca",526,"Santos Reyes Nopala",15986,7759,8227
+20,"Oaxaca",527,"Santos Reyes Pápalo",2829,1375,1454
+20,"Oaxaca",528,"Santos Reyes Tepejillo",1213,520,693
+20,"Oaxaca",529,"Santos Reyes Yucuná",1332,658,674
+20,"Oaxaca",530,"Santo Tomás Jalieza",3385,1605,1780
+20,"Oaxaca",531,"Santo Tomás Mazaltepec",2333,1094,1239
+20,"Oaxaca",532,"Santo Tomás Ocotepec",4076,1900,2176
+20,"Oaxaca",533,"Santo Tomás Tamazulapan",2191,1052,1139
+20,"Oaxaca",534,"San Vicente Coatlán",3964,1839,2125
+20,"Oaxaca",535,"San Vicente Lachixío",2976,1364,1612
+20,"Oaxaca",536,"San Vicente Nuñú",493,225,268
+20,"Oaxaca",537,"Silacayoápam",6747,3159,3588
+20,"Oaxaca",538,"Sitio de Xitlapehua",705,339,366
+20,"Oaxaca",539,"Soledad Etla",5025,2431,2594
+20,"Oaxaca",540,"Villa de Tamazulápam del Progreso",7059,3288,3771
+20,"Oaxaca",541,"Tanetze de Zaragoza",1707,825,882
+20,"Oaxaca",542,"Taniche",746,332,414
+20,"Oaxaca",543,"Tataltepec de Valdés",5561,2709,2852
+20,"Oaxaca",544,"Teococuilco de Marcos Pérez",1106,497,609
+20,"Oaxaca",545,"Teotitlán de Flores Magón",8966,4275,4691
+20,"Oaxaca",546,"Teotitlán del Valle",5638,2657,2981
+20,"Oaxaca",547,"Teotongo",951,433,518
+20,"Oaxaca",548,"Tepelmeme Villa de Morelos",1734,796,938
+20,"Oaxaca",549,"Tezoatlán de Segura y Luna",11319,5158,6161
+20,"Oaxaca",550,"San Jerónimo Tlacochahuaya",5076,2368,2708
+20,"Oaxaca",551,"Tlacolula de Matamoros",19625,9151,10474
+20,"Oaxaca",552,"Tlacotepec Plumas",510,240,270
+20,"Oaxaca",553,"Tlalixtac de Cabrera",9417,4453,4964
+20,"Oaxaca",554,"Totontepec Villa de Morelos",5598,2685,2913
+20,"Oaxaca",555,"Trinidad Zaachila",2653,1246,1407
+20,"Oaxaca",556,"La Trinidad Vista Hermosa",249,110,139
+20,"Oaxaca",557,"Unión Hidalgo",13970,6749,7221
+20,"Oaxaca",558,"Valerio Trujano",1543,685,858
+20,"Oaxaca",559,"San Juan Bautista Valle Nacional",22446,10688,11758
+20,"Oaxaca",560,"Villa Díaz Ordaz",6174,2797,3377
+20,"Oaxaca",561,"Yaxe",2683,1269,1414
+20,"Oaxaca",562,"Magdalena Yodocono de Porfirio Díaz",1458,691,767
+20,"Oaxaca",563,"Yogana",1308,602,706
+20,"Oaxaca",564,"Yutanduchi de Guerrero",1292,617,675
+20,"Oaxaca",565,"Villa de Zaachila",34101,16240,17861
+20,"Oaxaca",566,"SAN MATEO YUCUTINDÓ",3034,1473,1561
+20,"Oaxaca",567,"Zapotitlán Lagunas",3133,1436,1697
+20,"Oaxaca",568,"Zapotitlán Palmas",1514,669,845
+20,"Oaxaca",569,"Santa Inés de Zaragoza",1707,804,903
+20,"Oaxaca",570,"Zimatlán de Álvarez",19215,8935,10280
+21,"Puebla",0,"Total de la entidad Puebla",5779829,2769855,3009974
+21,"Puebla",1,"Acajete",60353,29225,31128
+21,"Puebla",2,"Acateno",8916,4484,4432
+21,"Puebla",3,"Acatlán",33865,15545,18320
+21,"Puebla",4,"Acatzingo",52078,25298,26780
+21,"Puebla",5,"Acteopan",2881,1340,1541
+21,"Puebla",6,"Ahuacatlán",14754,7087,7667
+21,"Puebla",7,"Ahuatlán",3403,1662,1741
+21,"Puebla",8,"Ahuazotepec",10457,5127,5330
+21,"Puebla",9,"Ahuehuetitla",2008,935,1073
+21,"Puebla",10,"Ajalpan",60621,29304,31317
+21,"Puebla",11,"Albino Zertuche",1770,811,959
+21,"Puebla",12,"Aljojuca",6288,2934,3354
+21,"Puebla",13,"Altepexi",18920,9109,9811
+21,"Puebla",14,"Amixtlán",5004,2370,2634
+21,"Puebla",15,"Amozoc",100964,49098,51866
+21,"Puebla",16,"Aquixtla",7848,3900,3948
+21,"Puebla",17,"Atempan",25386,12278,13108
+21,"Puebla",18,"Atexcal",3734,1790,1944
+21,"Puebla",19,"Atlixco",127062,59360,67702
+21,"Puebla",20,"Atoyatempan",6426,3099,3327
+21,"Puebla",21,"Atzala",1228,585,643
+21,"Puebla",22,"Atzitzihuacán",11684,5329,6355
+21,"Puebla",23,"Atzitzintla",8408,4118,4290
+21,"Puebla",24,"Axutla",947,439,508
+21,"Puebla",25,"Ayotoxco de Guerrero",8153,3993,4160
+21,"Puebla",26,"Calpan",13730,6464,7266
+21,"Puebla",27,"Caltepec",4177,1953,2224
+21,"Puebla",28,"Camocuautla",2476,1214,1262
+21,"Puebla",29,"Caxhuacan",3791,1810,1981
+21,"Puebla",30,"Coatepec",758,359,399
+21,"Puebla",31,"Coatzingo",2964,1403,1561
+21,"Puebla",32,"Cohetzala",1283,646,637
+21,"Puebla",33,"Cohuecan",4763,2258,2505
+21,"Puebla",34,"Coronango",34596,16758,17838
+21,"Puebla",35,"Coxcatlán",19639,9368,10271
+21,"Puebla",36,"Coyomeapan",14205,6801,7404
+21,"Puebla",37,"Coyotepec",2339,1081,1258
+21,"Puebla",38,"Cuapiaxtla de Madero",8709,4286,4423
+21,"Puebla",39,"Cuautempan",9212,4408,4804
+21,"Puebla",40,"Cuautinchán",9538,4697,4841
+21,"Puebla",41,"Cuautlancingo",79153,38477,40676
+21,"Puebla",42,"Cuayuca de Andrade",3062,1457,1605
+21,"Puebla",43,"Cuetzalan del Progreso",47433,23240,24193
+21,"Puebla",44,"Cuyoaco",15367,7412,7955
+21,"Puebla",45,"Chalchicomula de Sesma",43882,21092,22790
+21,"Puebla",46,"Chapulco",6992,3343,3649
+21,"Puebla",47,"Chiautla",19037,9191,9846
+21,"Puebla",48,"Chiautzingo",18762,8846,9916
+21,"Puebla",49,"Chiconcuautla",15767,7696,8071
+21,"Puebla",50,"Chichiquila",24148,11918,12230
+21,"Puebla",51,"Chietla",33935,16288,17647
+21,"Puebla",52,"Chigmecatitlán",1227,581,646
+21,"Puebla",53,"Chignahuapan",57909,28228,29681
+21,"Puebla",54,"Chignautla",30254,14669,15585
+21,"Puebla",55,"Chila",4699,2169,2530
+21,"Puebla",56,"Chila de la Sal",1237,571,666
+21,"Puebla",57,"Honey",7463,3552,3911
+21,"Puebla",58,"Chilchotla",19257,9682,9575
+21,"Puebla",59,"Chinantla",2468,1151,1317
+21,"Puebla",60,"Domingo Arenas",6946,3296,3650
+21,"Puebla",61,"Eloxochitlán",12575,6181,6394
+21,"Puebla",62,"Epatlán",4594,2216,2378
+21,"Puebla",63,"Esperanza",13785,6593,7192
+21,"Puebla",64,"Francisco Z. Mena",16270,8154,8116
+21,"Puebla",65,"General Felipe Ángeles",19040,9125,9915
+21,"Puebla",66,"Guadalupe",6276,2919,3357
+21,"Puebla",67,"Guadalupe Victoria",16551,8006,8545
+21,"Puebla",68,"Hermenegildo Galeana",7718,3849,3869
+21,"Puebla",69,"Huaquechula",25373,11681,13692
+21,"Puebla",70,"Huatlatlauca",6643,3051,3592
+21,"Puebla",71,"Huauchinango",97753,46336,51417
+21,"Puebla",72,"Huehuetla",15689,7706,7983
+21,"Puebla",73,"Huehuetlán el Chico",8679,4179,4500
+21,"Puebla",74,"Huejotzingo",63457,30723,32734
+21,"Puebla",75,"Hueyapan",11868,5787,6081
+21,"Puebla",76,"Hueytamalco",26689,13208,13481
+21,"Puebla",77,"Hueytlalpan",5734,2827,2907
+21,"Puebla",78,"Huitzilan de Serdán",13982,7049,6933
+21,"Puebla",79,"Huitziltepec",5306,2534,2772
+21,"Puebla",80,"Atlequizayan",2833,1328,1505
+21,"Puebla",81,"Ixcamilpa de Guerrero",3695,1756,1939
+21,"Puebla",82,"Ixcaquixtla",8093,3857,4236
+21,"Puebla",83,"Ixtacamaxtitlán",25326,12524,12802
+21,"Puebla",84,"Ixtepec",6811,3285,3526
+21,"Puebla",85,"Izúcar de Matamoros",72799,34451,38348
+21,"Puebla",86,"Jalpan",12547,6067,6480
+21,"Puebla",87,"Jolalpan",12662,6006,6656
+21,"Puebla",88,"Jonotla",4598,2237,2361
+21,"Puebla",89,"Jopala",12997,6327,6670
+21,"Puebla",90,"Juan C. Bonilla",18540,8881,9659
+21,"Puebla",91,"Juan Galindo",10213,4800,5413
+21,"Puebla",92,"Juan N. Méndez",5223,2562,2661
+21,"Puebla",93,"Lafragua",7767,3806,3961
+21,"Puebla",94,"Libres",31532,15224,16308
+21,"Puebla",95,"La Magdalena Tlatlauquitepec",484,242,242
+21,"Puebla",96,"Mazapiltepec de Juárez",2633,1303,1330
+21,"Puebla",97,"Mixtla",2216,1032,1184
+21,"Puebla",98,"Molcaxac",6218,2902,3316
+21,"Puebla",99,"Cañada Morelos",18954,9132,9822
+21,"Puebla",100,"Naupan",9707,4610,5097
+21,"Puebla",101,"Nauzontla",3598,1695,1903
+21,"Puebla",102,"Nealtican",12011,5746,6265
+21,"Puebla",103,"Nicolás Bravo",6009,2915,3094
+21,"Puebla",104,"Nopalucan",27292,13259,14033
+21,"Puebla",105,"Ocotepec",4825,2329,2496
+21,"Puebla",106,"Ocoyucan",25720,12128,13592
+21,"Puebla",107,"Olintla",11641,5681,5960
+21,"Puebla",108,"Oriental",16575,8009,8566
+21,"Puebla",109,"Pahuatlán",20618,9905,10713
+21,"Puebla",110,"Palmar de Bravo",42887,20914,21973
+21,"Puebla",111,"Pantepec",18435,8947,9488
+21,"Puebla",112,"Petlalcingo",9382,4356,5026
+21,"Puebla",113,"Piaxtla",4585,2187,2398
+21,"Puebla",114,"Puebla",1539819,734352,805467
+21,"Puebla",115,"Quecholac",47281,23041,24240
+21,"Puebla",116,"Quimixtlán",21275,10572,10703
+21,"Puebla",117,"Rafael Lara Grajales",14052,6679,7373
+21,"Puebla",118,"Los Reyes de Juárez",25553,12390,13163
+21,"Puebla",119,"San Andrés Cholula",100439,48650,51789
+21,"Puebla",120,"San Antonio Cañada",5110,2393,2717
+21,"Puebla",121,"San Diego la Mesa Tochimiltzingo",1132,549,583
+21,"Puebla",122,"San Felipe Teotlalcingo",9426,4564,4862
+21,"Puebla",123,"San Felipe Tepatlán",4120,2022,2098
+21,"Puebla",124,"San Gabriel Chilac",14454,6818,7636
+21,"Puebla",125,"San Gregorio Atzompa",8170,3864,4306
+21,"Puebla",126,"San Jerónimo Tecuanipan",5826,2762,3064
+21,"Puebla",127,"San Jerónimo Xayacatlán",3777,1757,2020
+21,"Puebla",128,"San José Chiapa",8087,3966,4121
+21,"Puebla",129,"San José Miahuatlán",12699,5941,6758
+21,"Puebla",130,"San Juan Atenco",3416,1582,1834
+21,"Puebla",131,"San Juan Atzompa",872,442,430
+21,"Puebla",132,"San Martín Texmelucan",141112,67505,73607
+21,"Puebla",133,"San Martín Totoltepec",651,313,338
+21,"Puebla",134,"San Matías Tlalancaleca",19310,9406,9904
+21,"Puebla",135,"San Miguel Ixitlán",586,282,304
+21,"Puebla",136,"San Miguel Xoxtla",11598,5624,5974
+21,"Puebla",137,"San Nicolás Buenos Aires",9185,4471,4714
+21,"Puebla",138,"San Nicolás de los Ranchos",10777,5190,5587
+21,"Puebla",139,"San Pablo Anicano",3554,1690,1864
+21,"Puebla",140,"San Pedro Cholula",120459,57578,62881
+21,"Puebla",141,"San Pedro Yeloixtlahuaca",3395,1628,1767
+21,"Puebla",142,"San Salvador el Seco",27622,13391,14231
+21,"Puebla",143,"San Salvador el Verde",28419,13816,14603
+21,"Puebla",144,"San Salvador Huixcolotla",13541,6663,6878
+21,"Puebla",145,"San Sebastián Tlacotepec",13534,6668,6866
+21,"Puebla",146,"Santa Catarina Tlaltempan",874,439,435
+21,"Puebla",147,"Santa Inés Ahuatempan",5944,2861,3083
+21,"Puebla",148,"Santa Isabel Cholula",8040,3853,4187
+21,"Puebla",149,"Santiago Miahuatlán",21993,10595,11398
+21,"Puebla",150,"Huehuetlán el Grande",7060,3418,3642
+21,"Puebla",151,"Santo Tomás Hueyotlipan",8016,3822,4194
+21,"Puebla",152,"Soltepec",11706,5702,6004
+21,"Puebla",153,"Tecali de Herrera",20267,9770,10497
+21,"Puebla",154,"Tecamachalco",71571,34365,37206
+21,"Puebla",155,"Tecomatlán",5420,2578,2842
+21,"Puebla",156,"Tehuacán",274906,129484,145422
+21,"Puebla",157,"Tehuitzingo",11328,5360,5968
+21,"Puebla",158,"Tenampulco",6772,3327,3445
+21,"Puebla",159,"Teopantlán",4024,1807,2217
+21,"Puebla",160,"Teotlalco",3121,1514,1607
+21,"Puebla",161,"Tepanco de López",19002,8916,10086
+21,"Puebla",162,"Tepango de Rodríguez",4244,2003,2241
+21,"Puebla",163,"Tepatlaxco de Hidalgo",16275,7831,8444
+21,"Puebla",164,"Tepeaca",74708,35672,39036
+21,"Puebla",165,"Tepemaxalco",1141,547,594
+21,"Puebla",166,"Tepeojuma",8056,3655,4401
+21,"Puebla",167,"Tepetzintla",10240,4944,5296
+21,"Puebla",168,"Tepexco",6580,3160,3420
+21,"Puebla",169,"Tepexi de Rodríguez",20478,10400,10078
+21,"Puebla",170,"Tepeyahualco",16390,8087,8303
+21,"Puebla",171,"Tepeyahualco de Cuauhtémoc",3365,1601,1764
+21,"Puebla",172,"Tetela de Ocampo",25793,12341,13452
+21,"Puebla",173,"Teteles de Avila Castillo",5689,2633,3056
+21,"Puebla",174,"Teziutlán",92246,43462,48784
+21,"Puebla",175,"Tianguismanalco",9807,4626,5181
+21,"Puebla",176,"Tilapa",8401,4016,4385
+21,"Puebla",177,"Tlacotepec de Benito Juárez",48268,22926,25342
+21,"Puebla",178,"Tlacuilotepec",17115,8406,8709
+21,"Puebla",179,"Tlachichuca",28568,13950,14618
+21,"Puebla",180,"Tlahuapan",36518,17975,18543
+21,"Puebla",181,"Tlaltenango",6269,3103,3166
+21,"Puebla",182,"Tlanepantla",4833,2325,2508
+21,"Puebla",183,"Tlaola",19826,9672,10154
+21,"Puebla",184,"Tlapacoya",6406,3128,3278
+21,"Puebla",185,"Tlapanalá",8404,3930,4474
+21,"Puebla",186,"Tlatlauquitepec",51495,24722,26773
+21,"Puebla",187,"Tlaxco",5415,2663,2752
+21,"Puebla",188,"Tochimilco",17028,7916,9112
+21,"Puebla",189,"Tochtepec",19701,9439,10262
+21,"Puebla",190,"Totoltepec de Guerrero",1155,526,629
+21,"Puebla",191,"Tulcingo",9245,4275,4970
+21,"Puebla",192,"Tuzamapan de Galeana",5983,2892,3091
+21,"Puebla",193,"Tzicatlacoyan",6242,3062,3180
+21,"Puebla",194,"Venustiano Carranza",27890,13474,14416
+21,"Puebla",195,"Vicente Guerrero",24217,11592,12625
+21,"Puebla",196,"Xayacatlán de Bravo",1649,752,897
+21,"Puebla",197,"Xicotepec",75601,36390,39211
+21,"Puebla",198,"Xicotlán",1241,583,658
+21,"Puebla",199,"Xiutetelco",37910,18326,19584
+21,"Puebla",200,"Xochiapulco",3911,1906,2005
+21,"Puebla",201,"Xochiltepec",3187,1437,1750
+21,"Puebla",202,"Xochitlán de Vicente Suárez",12249,5977,6272
+21,"Puebla",203,"Xochitlán Todos Santos",6049,2872,3177
+21,"Puebla",204,"Yaonáhuac",7514,3613,3901
+21,"Puebla",205,"Yehualtepec",22976,11113,11863
+21,"Puebla",206,"Zacapala",4224,1962,2262
+21,"Puebla",207,"Zacapoaxtla",53295,25534,27761
+21,"Puebla",208,"Zacatlán",76296,36133,40163
+21,"Puebla",209,"Zapotitlán",8220,3712,4508
+21,"Puebla",210,"Zapotitlán de Méndez",5608,2779,2829
+21,"Puebla",211,"Zaragoza",15444,7152,8292
+21,"Puebla",212,"Zautla",19438,9186,10252
+21,"Puebla",213,"Zihuateutla",12530,6112,6418
+21,"Puebla",214,"Zinacatepec",15690,7374,8316
+21,"Puebla",215,"Zongozotla",4599,2258,2341
+21,"Puebla",216,"Zoquiapan",2639,1251,1388
+21,"Puebla",217,"Zoquitlán",20529,9987,10542
+22,"Querétaro",0,"Total de la entidad Querétaro",1827937,887188,940749
+22,"Querétaro",1,"Amealco de Bonfil",62197,29842,32355
+22,"Querétaro",2,"Pinal de Amoles",27093,12859,14234
+22,"Querétaro",3,"Arroyo Seco",12910,6122,6788
+22,"Querétaro",4,"Cadereyta de Montes",64183,30585,33598
+22,"Querétaro",5,"Colón",58171,28975,29196
+22,"Querétaro",6,"Corregidora",143073,69373,73700
+22,"Querétaro",7,"Ezequiel Montes",38123,18213,19910
+22,"Querétaro",8,"Huimilpan",35554,16930,18624
+22,"Querétaro",9,"Jalpan de Serra",25550,12192,13358
+22,"Querétaro",10,"Landa de Matamoros",19929,9501,10428
+22,"Querétaro",11,"El Marqués",116458,57547,58911
+22,"Querétaro",12,"Pedro Escobedo",63966,31387,32579
+22,"Querétaro",13,"Peñamiller",18441,9013,9428
+22,"Querétaro",14,"Querétaro",801940,389403,412537
+22,"Querétaro",15,"San Joaquín",8865,4109,4756
+22,"Querétaro",16,"San Juan del Río",241699,117628,124071
+22,"Querétaro",17,"Tequisquiapan",63413,30752,32661
+22,"Querétaro",18,"Tolimán",26372,12757,13615
+23,"Quintana Roo",0,"Total de la entidad Quintana Roo",1325578,673220,652358
+23,"Quintana Roo",1,"Cozumel",79535,40357,39178
+23,"Quintana Roo",2,"Felipe Carrillo Puerto",75026,37994,37032
+23,"Quintana Roo",3,"Isla Mujeres",16203,8358,7845
+23,"Quintana Roo",4,"Othón P. Blanco",244553,121906,122647
+23,"Quintana Roo",5,"Benito Juárez",661176,334945,326231
+23,"Quintana Roo",6,"José María Morelos",36179,18506,17673
+23,"Quintana Roo",7,"Lázaro Cárdenas",25333,12972,12361
+23,"Quintana Roo",8,"Solidaridad",159310,83468,75842
+23,"Quintana Roo",9,"Tulum",28263,14714,13549
+24,"San Luis Potosí",0,"Total de la entidad San Luis Potosí",2585518,1260366,1325152
+24,"San Luis Potosí",1,"Ahualulco",18644,8775,9869
+24,"San Luis Potosí",2,"Alaquines",8186,4068,4118
+24,"San Luis Potosí",3,"Aquismón",47423,23894,23529
+24,"San Luis Potosí",4,"Armadillo de los Infante",4436,2182,2254
+24,"San Luis Potosí",5,"Cárdenas",18937,9103,9834
+24,"San Luis Potosí",6,"Catorce",9716,4932,4784
+24,"San Luis Potosí",7,"Cedral",18485,9048,9437
+24,"San Luis Potosí",8,"Cerritos",21394,10373,11021
+24,"San Luis Potosí",9,"Cerro de San Pedro",4021,2031,1990
+24,"San Luis Potosí",10,"Ciudad del Maíz",31323,15523,15800
+24,"San Luis Potosí",11,"Ciudad Fernández",43528,21258,22270
+24,"San Luis Potosí",12,"Tancanhuitz",21039,10406,10633
+24,"San Luis Potosí",13,"Ciudad Valles",167713,81226,86487
+24,"San Luis Potosí",14,"Coxcatlán",17015,8544,8471
+24,"San Luis Potosí",15,"Charcas",21138,10328,10810
+24,"San Luis Potosí",16,"Ebano",41529,20347,21182
+24,"San Luis Potosí",17,"Guadalcázar",25985,13158,12827
+24,"San Luis Potosí",18,"Huehuetlán",15311,7554,7757
+24,"San Luis Potosí",19,"Lagunillas",5774,2839,2935
+24,"San Luis Potosí",20,"Matehuala",91522,44343,47179
+24,"San Luis Potosí",21,"Mexquitic de Carmona",53442,25449,27993
+24,"San Luis Potosí",22,"Moctezuma",19327,9298,10029
+24,"San Luis Potosí",23,"Rayón",15707,7739,7968
+24,"San Luis Potosí",24,"Rioverde",91924,44574,47350
+24,"San Luis Potosí",25,"Salinas",30190,14548,15642
+24,"San Luis Potosí",26,"San Antonio",9390,4800,4590
+24,"San Luis Potosí",27,"San Ciro de Acosta",10171,4875,5296
+24,"San Luis Potosí",28,"San Luis Potosí",772604,372083,400521
+24,"San Luis Potosí",29,"San Martín Chalchicuautla",21347,10686,10661
+24,"San Luis Potosí",30,"San Nicolás Tolentino",5466,2587,2879
+24,"San Luis Potosí",31,"Santa Catarina",11835,5805,6030
+24,"San Luis Potosí",32,"Santa María del Río",40326,19242,21084
+24,"San Luis Potosí",33,"Santo Domingo",12043,6022,6021
+24,"San Luis Potosí",34,"San Vicente Tancuayalab",14958,7451,7507
+24,"San Luis Potosí",35,"Soledad de Graciano Sánchez",267839,129814,138025
+24,"San Luis Potosí",36,"Tamasopo",28848,14563,14285
+24,"San Luis Potosí",37,"Tamazunchale",96820,47951,48869
+24,"San Luis Potosí",38,"Tampacán",15838,7975,7863
+24,"San Luis Potosí",39,"Tampamolón Corona",14274,7081,7193
+24,"San Luis Potosí",40,"Tamuín",37956,18672,19284
+24,"San Luis Potosí",41,"Tanlajás",19312,9725,9587
+24,"San Luis Potosí",42,"Tanquián de Escobedo",14382,7077,7305
+24,"San Luis Potosí",43,"Tierra Nueva",9024,4268,4756
+24,"San Luis Potosí",44,"Vanegas",7902,3974,3928
+24,"San Luis Potosí",45,"Venado",14492,7149,7343
+24,"San Luis Potosí",46,"Villa de Arriaga",16316,8117,8199
+24,"San Luis Potosí",47,"Villa de Guadalupe",9779,4920,4859
+24,"San Luis Potosí",48,"Villa de la Paz",5350,2694,2656
+24,"San Luis Potosí",49,"Villa de Ramos",37928,18590,19338
+24,"San Luis Potosí",50,"Villa de Reyes",46898,23204,23694
+24,"San Luis Potosí",51,"Villa Hidalgo",14876,7361,7515
+24,"San Luis Potosí",52,"Villa Juárez",10174,4988,5186
+24,"San Luis Potosí",53,"Axtla de Terrazas",33245,16471,16774
+24,"San Luis Potosí",54,"Xilitla",51498,25484,26014
+24,"San Luis Potosí",55,"Zaragoza",24596,12105,12491
+24,"San Luis Potosí",56,"Villa de Arista",15528,7713,7815
+24,"San Luis Potosí",57,"Matlapa",30299,15053,15246
+24,"San Luis Potosí",58,"El Naranjo",20495,10326,10169
+25,"Sinaloa",0,"Total de la entidad  Sinaloa",2767761,1376201,1391560
+25,"Sinaloa",1,"Ahome",416299,205435,210864
+25,"Sinaloa",2,"Angostura",44993,22605,22388
+25,"Sinaloa",3,"Badiraguato",29999,15524,14475
+25,"Sinaloa",4,"Concordia",28493,14532,13961
+25,"Sinaloa",5,"Cosalá",16697,8542,8155
+25,"Sinaloa",6,"Culiacán",858638,422507,436131
+25,"Sinaloa",7,"Choix",32998,17116,15882
+25,"Sinaloa",8,"Elota",42907,22032,20875
+25,"Sinaloa",9,"Escuinapa",54131,27301,26830
+25,"Sinaloa",10,"El Fuerte",97536,49693,47843
+25,"Sinaloa",11,"Guasave",285912,142031,143881
+25,"Sinaloa",12,"Mazatlán",438434,216266,222168
+25,"Sinaloa",13,"Mocorito",45847,23647,22200
+25,"Sinaloa",14,"Rosario",49380,25152,24228
+25,"Sinaloa",15,"Salvador Alvarado",79085,38864,40221
+25,"Sinaloa",16,"San Ignacio",22527,11699,10828
+25,"Sinaloa",17,"Sinaloa",88282,44862,43420
+25,"Sinaloa",18,"Navolato",135603,68393,67210
+26,"Sonora",0,"Total de la entidad Sonora",2662480,1339612,1322868
+26,"Sonora",1,"Aconchi",2637,1405,1232
+26,"Sonora",2,"Agua Prieta",79138,40117,39021
+26,"Sonora",3,"Alamos",25848,13497,12351
+26,"Sonora",4,"Altar",9049,4624,4425
+26,"Sonora",5,"Arivechi",1253,650,603
+26,"Sonora",6,"Arizpe",3037,1571,1466
+26,"Sonora",7,"Atil",625,326,299
+26,"Sonora",8,"Bacadéhuachi",1252,667,585
+26,"Sonora",9,"Bacanora",784,417,367
+26,"Sonora",10,"Bacerac",1467,761,706
+26,"Sonora",11,"Bacoachi",1646,834,812
+26,"Sonora",12,"Bácum",22821,11581,11240
+26,"Sonora",13,"Banámichi",1646,841,805
+26,"Sonora",14,"Baviácora",3560,1833,1727
+26,"Sonora",15,"Bavispe",1454,774,680
+26,"Sonora",16,"Benjamín Hill",5275,2651,2624
+26,"Sonora",17,"Caborca",81309,41370,39939
+26,"Sonora",18,"Cajeme",409310,202700,206610
+26,"Sonora",19,"Cananea",32936,16415,16521
+26,"Sonora",20,"Carbó",5347,2854,2493
+26,"Sonora",21,"La Colorada",1663,922,741
+26,"Sonora",22,"Cucurpe",958,532,426
+26,"Sonora",23,"Cumpas",6362,3248,3114
+26,"Sonora",24,"Divisaderos",813,421,392
+26,"Sonora",25,"Empalme",54131,26996,27135
+26,"Sonora",26,"Etchojoa",60717,31131,29586
+26,"Sonora",27,"Fronteras",8639,4467,4172
+26,"Sonora",28,"Granados",1150,595,555
+26,"Sonora",29,"Guaymas",149299,74740,74559
+26,"Sonora",30,"Hermosillo",784342,392697,391645
+26,"Sonora",31,"Huachinera",1350,701,649
+26,"Sonora",32,"Huásabas",962,513,449
+26,"Sonora",33,"Huatabampo",79313,40128,39185
+26,"Sonora",34,"Huépac",1154,593,561
+26,"Sonora",35,"Imuris",12316,6248,6068
+26,"Sonora",36,"Magdalena",29707,14848,14859
+26,"Sonora",37,"Mazatán",1350,708,642
+26,"Sonora",38,"Moctezuma",4680,2351,2329
+26,"Sonora",39,"Naco",6401,3238,3163
+26,"Sonora",40,"Nácori Chico",2051,1080,971
+26,"Sonora",41,"Nacozari de García",12751,6575,6176
+26,"Sonora",42,"Navojoa",157729,78242,79487
+26,"Sonora",43,"Nogales",220292,111295,108997
+26,"Sonora",44,"Onavas",399,214,185
+26,"Sonora",45,"Opodepe",2878,1538,1340
+26,"Sonora",46,"Oquitoa",443,218,225
+26,"Sonora",47,"Pitiquito",9468,4936,4532
+26,"Sonora",48,"Puerto Peñasco",57342,29460,27882
+26,"Sonora",49,"Quiriego",3356,1797,1559
+26,"Sonora",50,"Rayón",1599,852,747
+26,"Sonora",51,"Rosario",5226,2737,2489
+26,"Sonora",52,"Sahuaripa",6020,3109,2911
+26,"Sonora",53,"San Felipe de Jesús",396,202,194
+26,"Sonora",54,"San Javier",492,277,215
+26,"Sonora",55,"San Luis Río Colorado",178380,90545,87835
+26,"Sonora",56,"San Miguel de Horcasitas",8382,4592,3790
+26,"Sonora",57,"San Pedro de la Cueva",1604,856,748
+26,"Sonora",58,"Santa Ana",16014,7961,8053
+26,"Sonora",59,"Santa Cruz",1998,1015,983
+26,"Sonora",60,"Sáric",2703,1423,1280
+26,"Sonora",61,"Soyopa",1284,716,568
+26,"Sonora",62,"Suaqui Grande",1121,604,517
+26,"Sonora",63,"Tepache",1365,716,649
+26,"Sonora",64,"Trincheras",1731,938,793
+26,"Sonora",65,"Tubutama",1735,904,831
+26,"Sonora",66,"Ures",9185,4711,4474
+26,"Sonora",67,"Villa Hidalgo",1738,893,845
+26,"Sonora",68,"Villa Pesqueira",1254,688,566
+26,"Sonora",69,"Yécora",6046,3064,2982
+26,"Sonora",70,"General Plutarco Elías Calles",15652,8104,7548
+26,"Sonora",71,"Benito Juárez",22009,11088,10921
+26,"Sonora",72,"San Ignacio Río Muerto",14136,7297,6839
+27,"Tabasco",0,"Total de la entidad Tabasco",2238603,1100758,1137845
+27,"Tabasco",1,"Balancán",56739,28318,28421
+27,"Tabasco",2,"Cárdenas",248481,122234,126247
+27,"Tabasco",3,"Centla",102110,50925,51185
+27,"Tabasco",4,"Centro",640359,311619,328740
+27,"Tabasco",5,"Comalcalco",192802,95084,97718
+27,"Tabasco",6,"Cunduacán",126416,62368,64048
+27,"Tabasco",7,"Emiliano Zapata",29518,14174,15344
+27,"Tabasco",8,"Huimanguillo",179285,88749,90536
+27,"Tabasco",9,"Jalapa",36391,18283,18108
+27,"Tabasco",10,"Jalpa de Méndez",83356,41362,41994
+27,"Tabasco",11,"Jonuta",29511,14812,14699
+27,"Tabasco",12,"Macuspana",153132,75220,77912
+27,"Tabasco",13,"Nacajuca",115066,56593,58473
+27,"Tabasco",14,"Paraíso",86620,42887,43733
+27,"Tabasco",15,"Tacotalpa",46302,23006,23296
+27,"Tabasco",16,"Teapa",53555,26314,27241
+27,"Tabasco",17,"Tenosique",58960,28810,30150
+28,"Tamaulipas",0,"Total de la entidad Tamaulipas",3268554,1616201,1652353
+28,"Tamaulipas",1,"Abasolo",12070,6041,6029
+28,"Tamaulipas",2,"Aldama",29470,14857,14613
+28,"Tamaulipas",3,"Altamira",212001,105619,106382
+28,"Tamaulipas",4,"Antiguo Morelos",9003,4494,4509
+28,"Tamaulipas",5,"Burgos",4589,2377,2212
+28,"Tamaulipas",6,"Bustamante",7636,3953,3683
+28,"Tamaulipas",7,"Camargo",14933,7567,7366
+28,"Tamaulipas",8,"Casas",4423,2326,2097
+28,"Tamaulipas",9,"Ciudad Madero",197216,94384,102832
+28,"Tamaulipas",10,"Cruillas",2011,1023,988
+28,"Tamaulipas",11,"Gómez Farías",8786,4507,4279
+28,"Tamaulipas",12,"González",43435,21554,21881
+28,"Tamaulipas",13,"Güémez",15659,8091,7568
+28,"Tamaulipas",14,"Guerrero",4477,2316,2161
+28,"Tamaulipas",15,"Gustavo Díaz Ordaz",15775,7979,7796
+28,"Tamaulipas",16,"Hidalgo",23793,12203,11590
+28,"Tamaulipas",17,"Jaumave",15105,7605,7500
+28,"Tamaulipas",18,"Jiménez",8338,4183,4155
+28,"Tamaulipas",19,"Llera",17333,8783,8550
+28,"Tamaulipas",20,"Mainero",2579,1313,1266
+28,"Tamaulipas",21,"El Mante",115792,56501,59291
+28,"Tamaulipas",22,"Matamoros",489193,242234,246959
+28,"Tamaulipas",23,"Méndez",4530,2359,2171
+28,"Tamaulipas",24,"Mier",4762,2350,2412
+28,"Tamaulipas",25,"Miguel Alemán",27015,13467,13548
+28,"Tamaulipas",26,"Miquihuana",3514,1850,1664
+28,"Tamaulipas",27,"Nuevo Laredo",384033,191001,193032
+28,"Tamaulipas",28,"Nuevo Morelos",3381,1753,1628
+28,"Tamaulipas",29,"Ocampo",12962,6603,6359
+28,"Tamaulipas",30,"Padilla",14020,7100,6920
+28,"Tamaulipas",31,"Palmillas",1795,901,894
+28,"Tamaulipas",32,"Reynosa",608891,303853,305038
+28,"Tamaulipas",33,"Río Bravo",118259,59174,59085
+28,"Tamaulipas",34,"San Carlos",9331,4897,4434
+28,"Tamaulipas",35,"San Fernando",57220,28800,28420
+28,"Tamaulipas",36,"San Nicolás",1031,535,496
+28,"Tamaulipas",37,"Soto la Marina",24764,12664,12100
+28,"Tamaulipas",38,"Tampico",297554,142334,155220
+28,"Tamaulipas",39,"Tula",27572,13717,13855
+28,"Tamaulipas",40,"Valle Hermoso",63170,31061,32109
+28,"Tamaulipas",41,"Victoria",321953,157152,164801
+28,"Tamaulipas",42,"Villagrán",6316,3276,3040
+28,"Tamaulipas",43,"Xicoténcatl",22864,11444,11420
+29,"Tlaxcala",0,"Total de la entidad Tlaxcala",1169936,565775,604161
+29,"Tlaxcala",1,"Amaxac de Guerrero",9875,4819,5056
+29,"Tlaxcala",2,"Apetatitlán de Antonio Carvajal",13361,6424,6937
+29,"Tlaxcala",3,"Atlangatepec",6018,2914,3104
+29,"Tlaxcala",4,"ATLTZAYANCA",15935,7904,8031
+29,"Tlaxcala",5,"Apizaco",76492,36269,40223
+29,"Tlaxcala",6,"Calpulalpan",44807,21730,23077
+29,"Tlaxcala",7,"El Carmen Tequexquitla",15368,7527,7841
+29,"Tlaxcala",8,"Cuapiaxtla",13671,6801,6870
+29,"Tlaxcala",9,"Cuaxomulco",5066,2504,2562
+29,"Tlaxcala",10,"Chiautempan",66149,31651,34498
+29,"Tlaxcala",11,"Muñoz de Domingo Arenas",4285,2156,2129
+29,"Tlaxcala",12,"Españita",8399,4151,4248
+29,"Tlaxcala",13,"Huamantla",84979,41296,43683
+29,"Tlaxcala",14,"Hueyotlipan",13879,6839,7040
+29,"Tlaxcala",15,"Ixtacuixtla de Mariano Matamoros",35162,16917,18245
+29,"Tlaxcala",16,"Ixtenco",6791,3245,3546
+29,"Tlaxcala",17,"Mazatecochco de José María Morelos",9740,4764,4976
+29,"Tlaxcala",18,"Contla de Juan Cuamatzi",35084,17162,17922
+29,"Tlaxcala",19,"Tepetitla de Lardizábal",18725,8990,9735
+29,"Tlaxcala",20,"Sanctórum de Lázaro Cárdenas",8474,4167,4307
+29,"Tlaxcala",21,"Nanacamilpa de Mariano Arista",16640,8127,8513
+29,"Tlaxcala",22,"Acuamanala de Miguel Hidalgo",5711,2846,2865
+29,"Tlaxcala",23,"Natívitas",23621,11330,12291
+29,"Tlaxcala",24,"Panotla",25128,12073,13055
+29,"Tlaxcala",25,"San Pablo del Monte",69615,34281,35334
+29,"Tlaxcala",26,"Santa Cruz Tlaxcala",17968,8832,9136
+29,"Tlaxcala",27,"Tenancingo",11763,5732,6031
+29,"Tlaxcala",28,"Teolocholco",21671,10426,11245
+29,"Tlaxcala",29,"Tepeyanco",11048,5233,5815
+29,"Tlaxcala",30,"Terrenate",13775,6838,6937
+29,"Tlaxcala",31,"Tetla de la Solidaridad",28760,14026,14734
+29,"Tlaxcala",32,"Tetlatlahuca",12410,5980,6430
+29,"Tlaxcala",33,"Tlaxcala",89795,42529,47266
+29,"Tlaxcala",34,"Tlaxco",39939,19507,20432
+29,"Tlaxcala",35,"Tocatlán",5589,2756,2833
+29,"Tlaxcala",36,"Totolac",20625,9854,10771
+29,"Tlaxcala",37,"ZILTLALTÉPEC DE TRINIDAD SÁNCHEZ SANTOS",8224,3935,4289
+29,"Tlaxcala",38,"Tzompantepec",14611,7083,7528
+29,"Tlaxcala",39,"Xaloztoc",21769,10847,10922
+29,"Tlaxcala",40,"Xaltocan",9777,4701,5076
+29,"Tlaxcala",41,"Papalotla de Xicohténcatl",26997,12969,14028
+29,"Tlaxcala",42,"Xicohtzinco",12255,5856,6399
+29,"Tlaxcala",43,"YAUHQUEMEHCAN",33081,15941,17140
+29,"Tlaxcala",44,"Zacatelco",38654,18499,20155
+29,"Tlaxcala",45,"Benito Juárez",5687,2757,2930
+29,"Tlaxcala",46,"Emiliano Zapata",4146,1999,2147
+29,"Tlaxcala",47,"Lázaro Cárdenas",2769,1349,1420
+29,"Tlaxcala",48,"La Magdalena Tlaltelulco",16834,8089,8745
+29,"Tlaxcala",49,"SAN DAMIÁN TEXÓLOC",5064,2508,2556
+29,"Tlaxcala",50,"San Francisco Tetlanohcan",9880,4780,5100
+29,"Tlaxcala",51,"San Jerónimo Zacualpan",3581,1681,1900
+29,"Tlaxcala",52,"San José Teacalco",5660,2744,2916
+29,"Tlaxcala",53,"San Juan Huactzinco",6821,3221,3600
+29,"Tlaxcala",54,"San Lorenzo Axocomanitla",5045,2405,2640
+29,"Tlaxcala",55,"San Lucas Tecopilco",2833,1342,1491
+29,"Tlaxcala",56,"Santa Ana Nopalucan",6857,3348,3509
+29,"Tlaxcala",57,"Santa Apolonia Teacalco",4349,2034,2315
+29,"Tlaxcala",58,"Santa Catarina Ayometla",7992,3840,4152
+29,"Tlaxcala",59,"Santa Cruz Quilehtla",6296,3109,3187
+29,"Tlaxcala",60,"Santa Isabel Xiloxoxtla",4436,2138,2298
+30,"Veracruz de Ignacio de la Llave",0,"Total de la entidad Veracruz",7643194,3695679,3947515
+30,"Veracruz de Ignacio de la Llave",1,"Acajete",8223,4203,4020
+30,"Veracruz de Ignacio de la Llave",2,"Acatlán",3085,1501,1584
+30,"Veracruz de Ignacio de la Llave",3,"Acayucan",83817,40242,43575
+30,"Veracruz de Ignacio de la Llave",4,"Actopan",40994,20142,20852
+30,"Veracruz de Ignacio de la Llave",5,"Acula",5129,2556,2573
+30,"Veracruz de Ignacio de la Llave",6,"Acultzingo",20973,10254,10719
+30,"Veracruz de Ignacio de la Llave",7,"Camarón de Tejeda",6224,3103,3121
+30,"Veracruz de Ignacio de la Llave",8,"Alpatláhuac",9691,4809,4882
+30,"Veracruz de Ignacio de la Llave",9,"Alto Lucero de Gutiérrez Barrios",28017,14066,13951
+30,"Veracruz de Ignacio de la Llave",10,"Altotonga",60396,29014,31382
+30,"Veracruz de Ignacio de la Llave",11,"Alvarado",51955,25615,26340
+30,"Veracruz de Ignacio de la Llave",12,"Amatitlán",7487,3650,3837
+30,"Veracruz de Ignacio de la Llave",13,"Naranjos Amatlán",27548,13076,14472
+30,"Veracruz de Ignacio de la Llave",14,"Amatlán de los Reyes",42268,20591,21677
+30,"Veracruz de Ignacio de la Llave",15,"Angel R. Cabada",33528,16270,17258
+30,"Veracruz de Ignacio de la Llave",16,"La Antigua",25500,12286,13214
+30,"Veracruz de Ignacio de la Llave",17,"Apazapan",4027,1996,2031
+30,"Veracruz de Ignacio de la Llave",18,"Aquila",1797,866,931
+30,"Veracruz de Ignacio de la Llave",19,"Astacinga",5995,2781,3214
+30,"Veracruz de Ignacio de la Llave",20,"Atlahuilco",9824,4711,5113
+30,"Veracruz de Ignacio de la Llave",21,"Atoyac",22986,11078,11908
+30,"Veracruz de Ignacio de la Llave",22,"Atzacan",20063,9865,10198
+30,"Veracruz de Ignacio de la Llave",23,"Atzalan",48397,24140,24257
+30,"Veracruz de Ignacio de la Llave",24,"Tlaltetela",14613,7315,7298
+30,"Veracruz de Ignacio de la Llave",25,"Ayahualulco",25456,12693,12763
+30,"Veracruz de Ignacio de la Llave",26,"Banderilla",21546,10158,11388
+30,"Veracruz de Ignacio de la Llave",27,"Benito Juárez",16692,8142,8550
+30,"Veracruz de Ignacio de la Llave",28,"Boca del Río",138058,64656,73402
+30,"Veracruz de Ignacio de la Llave",29,"Calcahualco",12929,6433,6496
+30,"Veracruz de Ignacio de la Llave",30,"Camerino Z. Mendoza",41778,19778,22000
+30,"Veracruz de Ignacio de la Llave",31,"Carrillo Puerto",16313,7940,8373
+30,"Veracruz de Ignacio de la Llave",32,"Catemaco",48593,23457,25136
+30,"Veracruz de Ignacio de la Llave",33,"CAZONES DE HERRERA",23483,11378,12105
+30,"Veracruz de Ignacio de la Llave",34,"Cerro Azul",25801,12260,13541
+30,"Veracruz de Ignacio de la Llave",35,"Citlaltépetl",11081,5418,5663
+30,"Veracruz de Ignacio de la Llave",36,"Coacoatzintla",9416,4578,4838
+30,"Veracruz de Ignacio de la Llave",37,"Coahuitlán",7810,3861,3949
+30,"Veracruz de Ignacio de la Llave",38,"Coatepec",86696,41788,44908
+30,"Veracruz de Ignacio de la Llave",39,"Coatzacoalcos",305260,147962,157298
+30,"Veracruz de Ignacio de la Llave",40,"Coatzintla",48351,23449,24902
+30,"Veracruz de Ignacio de la Llave",41,"Coetzala",2144,1053,1091
+30,"Veracruz de Ignacio de la Llave",42,"Colipa",5728,2804,2924
+30,"Veracruz de Ignacio de la Llave",43,"Comapa",18713,9527,9186
+30,"Veracruz de Ignacio de la Llave",44,"Córdoba",196541,91805,104736
+30,"Veracruz de Ignacio de la Llave",45,"Cosamaloapan de Carpio",57366,27634,29732
+30,"Veracruz de Ignacio de la Llave",46,"Cosautlán de Carvajal",15668,7756,7912
+30,"Veracruz de Ignacio de la Llave",47,"Coscomatepec",52510,25561,26949
+30,"Veracruz de Ignacio de la Llave",48,"Cosoleacaque",117725,56945,60780
+30,"Veracruz de Ignacio de la Llave",49,"Cotaxtla",19710,9770,9940
+30,"Veracruz de Ignacio de la Llave",50,"Coxquihui",15492,7571,7921
+30,"Veracruz de Ignacio de la Llave",51,"Coyutla",21822,10516,11306
+30,"Veracruz de Ignacio de la Llave",52,"Cuichapa",11645,5527,6118
+30,"Veracruz de Ignacio de la Llave",53,"Cuitláhuac",26265,12469,13796
+30,"Veracruz de Ignacio de la Llave",54,"Chacaltianguis",11683,5686,5997
+30,"Veracruz de Ignacio de la Llave",55,"Chalma",12626,6221,6405
+30,"Veracruz de Ignacio de la Llave",56,"Chiconamel",6752,3276,3476
+30,"Veracruz de Ignacio de la Llave",57,"Chiconquiaco",13190,6529,6661
+30,"Veracruz de Ignacio de la Llave",58,"Chicontepec",54982,26729,28253
+30,"Veracruz de Ignacio de la Llave",59,"Chinameca",15214,7404,7810
+30,"Veracruz de Ignacio de la Llave",60,"Chinampa de Gorostiza",15286,7477,7809
+30,"Veracruz de Ignacio de la Llave",61,"Las Choapas",77426,38042,39384
+30,"Veracruz de Ignacio de la Llave",62,"Chocamán",18601,9173,9428
+30,"Veracruz de Ignacio de la Llave",63,"Chontla",14688,7349,7339
+30,"Veracruz de Ignacio de la Llave",64,"Chumatlán",3889,1899,1990
+30,"Veracruz de Ignacio de la Llave",65,"Emiliano Zapata",61718,30300,31418
+30,"Veracruz de Ignacio de la Llave",66,"Espinal",25548,12407,13141
+30,"Veracruz de Ignacio de la Llave",67,"Filomeno Mata",16418,8180,8238
+30,"Veracruz de Ignacio de la Llave",68,"Fortín",59761,28261,31500
+30,"Veracruz de Ignacio de la Llave",69,"Gutiérrez Zamora",24353,11436,12917
+30,"Veracruz de Ignacio de la Llave",70,"Hidalgotitlán",18277,9220,9057
+30,"Veracruz de Ignacio de la Llave",71,"Huatusco",54561,26216,28345
+30,"Veracruz de Ignacio de la Llave",72,"Huayacocotla",20765,10014,10751
+30,"Veracruz de Ignacio de la Llave",73,"Hueyapan de Ocampo",41649,20276,21373
+30,"Veracruz de Ignacio de la Llave",74,"HUILOAPAN DE CUAUHTÉMOC",6750,3253,3497
+30,"Veracruz de Ignacio de la Llave",75,"Ignacio de la Llave",17121,8293,8828
+30,"Veracruz de Ignacio de la Llave",76,"Ilamatlán",13575,6423,7152
+30,"Veracruz de Ignacio de la Llave",77,"Isla",42205,20520,21685
+30,"Veracruz de Ignacio de la Llave",78,"Ixcatepec",12713,6340,6373
+30,"Veracruz de Ignacio de la Llave",79,"Ixhuacán de los Reyes",10724,5400,5324
+30,"Veracruz de Ignacio de la Llave",80,"Ixhuatlán del Café",21407,10541,10866
+30,"Veracruz de Ignacio de la Llave",81,"Ixhuatlancillo",21150,10121,11029
+30,"Veracruz de Ignacio de la Llave",82,"Ixhuatlán del Sureste",14903,7361,7542
+30,"Veracruz de Ignacio de la Llave",83,"Ixhuatlán de Madero",49820,24351,25469
+30,"Veracruz de Ignacio de la Llave",84,"Ixmatlahuacan",5727,2856,2871
+30,"Veracruz de Ignacio de la Llave",85,"Ixtaczoquitlán",65385,31521,33864
+30,"Veracruz de Ignacio de la Llave",86,"Jalacingo",40747,19969,20778
+30,"Veracruz de Ignacio de la Llave",87,"Xalapa",457928,213571,244357
+30,"Veracruz de Ignacio de la Llave",88,"Jalcomulco",4940,2480,2460
+30,"Veracruz de Ignacio de la Llave",89,"Jáltipan",39673,18929,20744
+30,"Veracruz de Ignacio de la Llave",90,"Jamapa",10376,5085,5291
+30,"Veracruz de Ignacio de la Llave",91,"Jesús Carranza",27080,13394,13686
+30,"Veracruz de Ignacio de la Llave",92,"Xico",35188,17276,17912
+30,"Veracruz de Ignacio de la Llave",93,"Jilotepec",15313,7401,7912
+30,"Veracruz de Ignacio de la Llave",94,"Juan Rodríguez Clara",37193,18326,18867
+30,"Veracruz de Ignacio de la Llave",95,"Juchique de Ferrer",16387,8067,8320
+30,"Veracruz de Ignacio de la Llave",96,"Landero y Coss",1546,746,800
+30,"Veracruz de Ignacio de la Llave",97,"Lerdo de Tejada",20141,9468,10673
+30,"Veracruz de Ignacio de la Llave",98,"Magdalena",2920,1443,1477
+30,"Veracruz de Ignacio de la Llave",99,"Maltrata",16898,8098,8800
+30,"Veracruz de Ignacio de la Llave",100,"Manlio Fabio Altamirano",22585,11171,11414
+30,"Veracruz de Ignacio de la Llave",101,"Mariano Escobedo",33941,16253,17688
+30,"Veracruz de Ignacio de la Llave",102,"Martínez de la Torre",101358,48561,52797
+30,"Veracruz de Ignacio de la Llave",103,"Mecatlán",11808,5787,6021
+30,"Veracruz de Ignacio de la Llave",104,"Mecayapan",17333,8501,8832
+30,"Veracruz de Ignacio de la Llave",105,"Medellín",59126,28431,30695
+30,"Veracruz de Ignacio de la Llave",106,"Miahuatlán",4429,2154,2275
+30,"Veracruz de Ignacio de la Llave",107,"Las Minas",2897,1468,1429
+30,"Veracruz de Ignacio de la Llave",108,"Minatitlán",157840,76222,81618
+30,"Veracruz de Ignacio de la Llave",109,"Misantla",62919,30771,32148
+30,"Veracruz de Ignacio de la Llave",110,"Mixtla de Altamirano",10387,5221,5166
+30,"Veracruz de Ignacio de la Llave",111,"Moloacán",16120,7851,8269
+30,"Veracruz de Ignacio de la Llave",112,"Naolinco",20255,9861,10394
+30,"Veracruz de Ignacio de la Llave",113,"Naranjal",4507,2163,2344
+30,"Veracruz de Ignacio de la Llave",114,"Nautla",9974,4873,5101
+30,"Veracruz de Ignacio de la Llave",115,"Nogales",34688,16604,18084
+30,"Veracruz de Ignacio de la Llave",116,"Oluta",14784,7097,7687
+30,"Veracruz de Ignacio de la Llave",117,"Omealca",22561,10850,11711
+30,"Veracruz de Ignacio de la Llave",118,"Orizaba",120995,55845,65150
+30,"Veracruz de Ignacio de la Llave",119,"Otatitlán",5250,2511,2739
+30,"Veracruz de Ignacio de la Llave",120,"Oteapan",14965,7289,7676
+30,"Veracruz de Ignacio de la Llave",121,"Ozuluama de Mascareñas",23276,11937,11339
+30,"Veracruz de Ignacio de la Llave",122,"Pajapan",15909,7923,7986
+30,"Veracruz de Ignacio de la Llave",123,"Pánuco",97290,48357,48933
+30,"Veracruz de Ignacio de la Llave",124,"Papantla",158599,77291,81308
+30,"Veracruz de Ignacio de la Llave",125,"Paso del Macho",29165,14390,14775
+30,"Veracruz de Ignacio de la Llave",126,"Paso de Ovejas",32576,16252,16324
+30,"Veracruz de Ignacio de la Llave",127,"La Perla",23648,11498,12150
+30,"Veracruz de Ignacio de la Llave",128,"Perote",68982,34642,34340
+30,"Veracruz de Ignacio de la Llave",129,"Platón Sánchez",17888,8780,9108
+30,"Veracruz de Ignacio de la Llave",130,"Playa Vicente",40984,19660,21324
+30,"Veracruz de Ignacio de la Llave",131,"Poza Rica de Hidalgo",193311,91390,101921
+30,"Veracruz de Ignacio de la Llave",132,"Las Vigas de Ramírez",17958,8889,9069
+30,"Veracruz de Ignacio de la Llave",133,"Pueblo Viejo",55358,27668,27690
+30,"Veracruz de Ignacio de la Llave",134,"Puente Nacional",21603,10628,10975
+30,"Veracruz de Ignacio de la Llave",135,"Rafael Delgado",20245,9978,10267
+30,"Veracruz de Ignacio de la Llave",136,"Rafael Lucio",7023,3405,3618
+30,"Veracruz de Ignacio de la Llave",137,"Los Reyes",5484,2696,2788
+30,"Veracruz de Ignacio de la Llave",138,"Río Blanco",40634,19042,21592
+30,"Veracruz de Ignacio de la Llave",139,"Saltabarranca",5908,2864,3044
+30,"Veracruz de Ignacio de la Llave",140,"San Andrés Tenejapan",2715,1311,1404
+30,"Veracruz de Ignacio de la Llave",141,"San Andrés Tuxtla",157364,75604,81760
+30,"Veracruz de Ignacio de la Llave",142,"San Juan Evangelista",33435,16442,16993
+30,"Veracruz de Ignacio de la Llave",143,"Santiago Tuxtla",56427,27099,29328
+30,"Veracruz de Ignacio de la Llave",144,"Sayula de Alemán",31974,15604,16370
+30,"Veracruz de Ignacio de la Llave",145,"Soconusco",14395,6994,7401
+30,"Veracruz de Ignacio de la Llave",146,"Sochiapa",3502,1749,1753
+30,"Veracruz de Ignacio de la Llave",147,"Soledad Atzompa",21380,10496,10884
+30,"Veracruz de Ignacio de la Llave",148,"Soledad de Doblado",27008,13339,13669
+30,"Veracruz de Ignacio de la Llave",149,"Soteapan",32596,15964,16632
+30,"Veracruz de Ignacio de la Llave",150,"Tamalín",11211,5599,5612
+30,"Veracruz de Ignacio de la Llave",151,"Tamiahua",23588,11841,11747
+30,"Veracruz de Ignacio de la Llave",152,"Tampico Alto",12242,6329,5913
+30,"Veracruz de Ignacio de la Llave",153,"Tancoco",5873,2867,3006
+30,"Veracruz de Ignacio de la Llave",154,"Tantima",12814,6483,6331
+30,"Veracruz de Ignacio de la Llave",155,"Tantoyuca",101743,50432,51311
+30,"Veracruz de Ignacio de la Llave",156,"Tatatila",5584,2903,2681
+30,"Veracruz de Ignacio de la Llave",157,"Castillo de Teayo",18663,9334,9329
+30,"Veracruz de Ignacio de la Llave",158,"Tecolutla",25126,12351,12775
+30,"Veracruz de Ignacio de la Llave",159,"Tehuipango",23479,11298,12181
+30,"Veracruz de Ignacio de la Llave",160,"ÁLAMO TEMAPACHE",104499,51618,52881
+30,"Veracruz de Ignacio de la Llave",161,"Tempoal",34956,17311,17645
+30,"Veracruz de Ignacio de la Llave",162,"Tenampa",6247,3053,3194
+30,"Veracruz de Ignacio de la Llave",163,"Tenochtitlán",5222,2486,2736
+30,"Veracruz de Ignacio de la Llave",164,"Teocelo",16327,7982,8345
+30,"Veracruz de Ignacio de la Llave",165,"Tepatlaxco",8249,4207,4042
+30,"Veracruz de Ignacio de la Llave",166,"Tepetlán",9004,4545,4459
+30,"Veracruz de Ignacio de la Llave",167,"Tepetzintla",13949,6918,7031
+30,"Veracruz de Ignacio de la Llave",168,"Tequila",14648,7202,7446
+30,"Veracruz de Ignacio de la Llave",169,"José Azueta",23999,11727,12272
+30,"Veracruz de Ignacio de la Llave",170,"Texcatepec",10627,5149,5478
+30,"Veracruz de Ignacio de la Llave",171,"Texhuacán",5292,2492,2800
+30,"Veracruz de Ignacio de la Llave",172,"Texistepec",20199,10063,10136
+30,"Veracruz de Ignacio de la Llave",173,"Tezonapa",52584,25931,26653
+30,"Veracruz de Ignacio de la Llave",174,"Tierra Blanca",94087,45203,48884
+30,"Veracruz de Ignacio de la Llave",175,"Tihuatlán",89774,43978,45796
+30,"Veracruz de Ignacio de la Llave",176,"Tlacojalpan",4632,2285,2347
+30,"Veracruz de Ignacio de la Llave",177,"Tlacolulan",10299,5189,5110
+30,"Veracruz de Ignacio de la Llave",178,"Tlacotalpan",13284,6415,6869
+30,"Veracruz de Ignacio de la Llave",179,"Tlacotepec de Mejía",3965,1944,2021
+30,"Veracruz de Ignacio de la Llave",180,"Tlachichilco",11276,5563,5713
+30,"Veracruz de Ignacio de la Llave",181,"Tlalixcoyan",37037,18181,18856
+30,"Veracruz de Ignacio de la Llave",182,"Tlalnelhuayocan",16311,7940,8371
+30,"Veracruz de Ignacio de la Llave",183,"Tlapacoyan",58084,28079,30005
+30,"Veracruz de Ignacio de la Llave",184,"Tlaquilpa",7151,3333,3818
+30,"Veracruz de Ignacio de la Llave",185,"Tlilapan",4879,2358,2521
+30,"Veracruz de Ignacio de la Llave",186,"Tomatlán",6763,3330,3433
+30,"Veracruz de Ignacio de la Llave",187,"Tonayán",5696,2752,2944
+30,"Veracruz de Ignacio de la Llave",188,"Totutla",16403,8176,8227
+30,"Veracruz de Ignacio de la Llave",189,"TUXPAN",143362,69764,73598
+30,"Veracruz de Ignacio de la Llave",190,"Tuxtilla",2177,1078,1099
+30,"Veracruz de Ignacio de la Llave",191,"Ursulo Galván",29005,14077,14928
+30,"Veracruz de Ignacio de la Llave",192,"Vega de Alatorre",19541,9477,10064
+30,"Veracruz de Ignacio de la Llave",193,"Veracruz",552156,261537,290619
+30,"Veracruz de Ignacio de la Llave",194,"Villa Aldama",10851,5333,5518
+30,"Veracruz de Ignacio de la Llave",195,"Xoxocotla",5163,2611,2552
+30,"Veracruz de Ignacio de la Llave",196,"Yanga",17462,8204,9258
+30,"Veracruz de Ignacio de la Llave",197,"Yecuatla",11357,5580,5777
+30,"Veracruz de Ignacio de la Llave",198,"Zacualpan",6784,3262,3522
+30,"Veracruz de Ignacio de la Llave",199,"Zaragoza",10720,5190,5530
+30,"Veracruz de Ignacio de la Llave",200,"Zentla",12379,6205,6174
+30,"Veracruz de Ignacio de la Llave",201,"Zongolica",41923,20699,21224
+30,"Veracruz de Ignacio de la Llave",202,"Zontecomatlán de López y Fuentes",13866,6868,6998
+30,"Veracruz de Ignacio de la Llave",203,"Zozocolco de Hidalgo",13434,6599,6835
+30,"Veracruz de Ignacio de la Llave",204,"Agua Dulce",46010,22329,23681
+30,"Veracruz de Ignacio de la Llave",205,"El Higo",19128,9512,9616
+30,"Veracruz de Ignacio de la Llave",206,"Nanchital de Lázaro Cárdenas del Río",27094,12978,14116
+30,"Veracruz de Ignacio de la Llave",207,"Tres Valles",45095,21938,23157
+30,"Veracruz de Ignacio de la Llave",208,"Carlos A. Carrillo",22907,10921,11986
+30,"Veracruz de Ignacio de la Llave",209,"Tatahuicapan de Juárez",14297,7061,7236
+30,"Veracruz de Ignacio de la Llave",210,"Uxpanapa",27346,13681,13665
+30,"Veracruz de Ignacio de la Llave",211,"San Rafael",29277,14219,15058
+30,"Veracruz de Ignacio de la Llave",212,"Santiago Sochiapan",12409,5986,6423
+31,"Yucatán",0,"Total de la entidad Yucatán",1955577,963333,992244
+31,"Yucatán",1,"Abalá",6356,3254,3102
+31,"Yucatán",2,"Acanceh",15337,7599,7738
+31,"Yucatán",3,"Akil",10362,5104,5258
+31,"Yucatán",4,"Baca",5701,2819,2882
+31,"Yucatán",5,"Bokobá",2053,1053,1000
+31,"Yucatán",6,"Buctzotz",8637,4336,4301
+31,"Yucatán",7,"Cacalchén",6811,3483,3328
+31,"Yucatán",8,"Calotmul",4095,2080,2015
+31,"Yucatán",9,"Cansahcab",4696,2327,2369
+31,"Yucatán",10,"Cantamayec",2407,1255,1152
+31,"Yucatán",11,"Celestún",6831,3493,3338
+31,"Yucatán",12,"Cenotillo",3701,1765,1936
+31,"Yucatán",13,"Conkal",9143,4584,4559
+31,"Yucatán",14,"Cuncunul",1595,815,780
+31,"Yucatán",15,"Cuzamá",4966,2493,2473
+31,"Yucatán",16,"Chacsinkín",2818,1417,1401
+31,"Yucatán",17,"Chankom",4464,2276,2188
+31,"Yucatán",18,"Chapab",3035,1509,1526
+31,"Yucatán",19,"Chemax",33490,16797,16693
+31,"Yucatán",20,"Chicxulub Pueblo",4113,2123,1990
+31,"Yucatán",21,"Chichimilá",7952,3982,3970
+31,"Yucatán",22,"Chikindzonot",4162,2103,2059
+31,"Yucatán",23,"Chocholá",4530,2318,2212
+31,"Yucatán",24,"Chumayel",3148,1552,1596
+31,"Yucatán",25,"Dzán",4941,2399,2542
+31,"Yucatán",26,"Dzemul",3489,1777,1712
+31,"Yucatán",27,"Dzidzantún",8133,4115,4018
+31,"Yucatán",28,"Dzilam de Bravo",2463,1262,1201
+31,"Yucatán",29,"Dzilam González",5905,3027,2878
+31,"Yucatán",30,"Dzitás",3540,1813,1727
+31,"Yucatán",31,"Dzoncauich",2772,1401,1371
+31,"Yucatán",32,"Espita",15571,7928,7643
+31,"Yucatán",33,"Halachó",19072,9609,9463
+31,"Yucatán",34,"Hocabá",6061,3033,3028
+31,"Yucatán",35,"Hoctún",5697,2816,2881
+31,"Yucatán",36,"Homún",7257,3688,3569
+31,"Yucatán",37,"Huhí",4841,2471,2370
+31,"Yucatán",38,"Hunucmá",30731,15330,15401
+31,"Yucatán",39,"Ixil",3803,1946,1857
+31,"Yucatán",40,"Izamal",25980,12887,13093
+31,"Yucatán",41,"Kanasín",78709,39102,39607
+31,"Yucatán",42,"Kantunil",5502,2764,2738
+31,"Yucatán",43,"Kaua",2761,1419,1342
+31,"Yucatán",44,"Kinchil",6571,3301,3270
+31,"Yucatán",45,"Kopomá",2449,1255,1194
+31,"Yucatán",46,"Mama",2888,1366,1522
+31,"Yucatán",47,"Maní",5250,2560,2690
+31,"Yucatán",48,"Maxcanú",21704,10860,10844
+31,"Yucatán",49,"Mayapán",3269,1676,1593
+31,"Yucatán",50,"Mérida",830732,401340,429392
+31,"Yucatán",51,"Mocochá",3071,1548,1523
+31,"Yucatán",52,"Motul",33978,16817,17161
+31,"Yucatán",53,"Muna",12336,6061,6275
+31,"Yucatán",54,"Muxupip",2755,1341,1414
+31,"Yucatán",55,"Opichén",6285,3201,3084
+31,"Yucatán",56,"Oxkutzcab",29325,13947,15378
+31,"Yucatán",57,"Panabá",7461,3718,3743
+31,"Yucatán",58,"Peto",24159,12025,12134
+31,"Yucatán",59,"Progreso",53958,26925,27033
+31,"Yucatán",60,"Quintana Roo",942,470,472
+31,"Yucatán",61,"Río Lagartos",3438,1749,1689
+31,"Yucatán",62,"Sacalum",4589,2368,2221
+31,"Yucatán",63,"Samahil",5008,2532,2476
+31,"Yucatán",64,"Sanahcat",1619,813,806
+31,"Yucatán",65,"San Felipe",1839,956,883
+31,"Yucatán",66,"Santa Elena",3833,1855,1978
+31,"Yucatán",67,"Seyé",9276,4733,4543
+31,"Yucatán",68,"Sinanché",3126,1622,1504
+31,"Yucatán",69,"Sotuta",8449,4336,4113
+31,"Yucatán",70,"Sucilá",3930,1994,1936
+31,"Yucatán",71,"Sudzal",1689,890,799
+31,"Yucatán",72,"Suma",1876,946,930
+31,"Yucatán",73,"Tahdziú",4447,2281,2166
+31,"Yucatán",74,"Tahmek",3609,1841,1768
+31,"Yucatán",75,"Teabo",6205,3071,3134
+31,"Yucatán",76,"Tecoh",16200,8160,8040
+31,"Yucatán",77,"Tekal de Venegas",2606,1313,1293
+31,"Yucatán",78,"Tekantó",3683,1830,1853
+31,"Yucatán",79,"Tekax",40547,19975,20572
+31,"Yucatán",80,"Tekit",9884,4965,4919
+31,"Yucatán",81,"Tekom",3100,1553,1547
+31,"Yucatán",82,"Telchac Pueblo",3557,1803,1754
+31,"Yucatán",83,"Telchac Puerto",1726,906,820
+31,"Yucatán",84,"Temax",6817,3425,3392
+31,"Yucatán",85,"Temozón",14801,7494,7307
+31,"Yucatán",86,"Tepakán",2226,1141,1085
+31,"Yucatán",87,"Tetiz",4725,2313,2412
+31,"Yucatán",88,"Teya",1977,972,1005
+31,"Yucatán",89,"Ticul",37685,18593,19092
+31,"Yucatán",90,"Timucuy",6833,3496,3337
+31,"Yucatán",91,"Tinum",11421,5788,5633
+31,"Yucatán",92,"Tixcacalcupul",6665,3362,3303
+31,"Yucatán",93,"Tixkokob",17176,8500,8676
+31,"Yucatán",94,"Tixmehuac",4746,2411,2335
+31,"Yucatán",95,"Tixpéhual",5388,2660,2728
+31,"Yucatán",96,"Tizimín",73138,36468,36670
+31,"Yucatán",97,"Tunkás",3464,1774,1690
+31,"Yucatán",98,"Tzucacab",14011,7102,6909
+31,"Yucatán",99,"Uayma",3782,1944,1838
+31,"Yucatán",100,"Ucú",3469,1744,1725
+31,"Yucatán",101,"Umán",50993,25443,25550
+31,"Yucatán",102,"Valladolid",74217,36624,37593
+31,"Yucatán",103,"Xocchel",3236,1660,1576
+31,"Yucatán",104,"Yaxcabá",14802,7646,7156
+31,"Yucatán",105,"Yaxkukul",2868,1443,1425
+31,"Yucatán",106,"Yobaín",2137,1103,1034
+32,"Zacatecas",0,"Total de la entidad Zacatecas",1490668,726897,763771
+32,"Zacatecas",1,"Apozol",6314,3067,3247
+32,"Zacatecas",2,"Apulco",5005,2347,2658
+32,"Zacatecas",3,"Atolinga",2692,1287,1405
+32,"Zacatecas",4,"Benito Juárez",4372,2221,2151
+32,"Zacatecas",5,"Calera",39917,19726,20191
+32,"Zacatecas",6,"Cañitas de Felipe Pescador",8239,4039,4200
+32,"Zacatecas",7,"Concepción del Oro",12803,6448,6355
+32,"Zacatecas",8,"Cuauhtémoc",11915,5818,6097
+32,"Zacatecas",9,"Chalchihuites",10565,5103,5462
+32,"Zacatecas",10,"Fresnillo",213139,104348,108791
+32,"Zacatecas",11,"Trinidad García de la Cadena",3013,1472,1541
+32,"Zacatecas",12,"Genaro Codina",8104,3984,4120
+32,"Zacatecas",13,"General Enrique Estrada",5894,2905,2989
+32,"Zacatecas",14,"General Francisco R. Murguía",21974,10568,11406
+32,"Zacatecas",15,"El Plateado de Joaquín Amaro",1609,795,814
+32,"Zacatecas",16,"General Pánfilo Natera",22346,10976,11370
+32,"Zacatecas",17,"Guadalupe",159991,77843,82148
+32,"Zacatecas",18,"Huanusco",4306,2096,2210
+32,"Zacatecas",19,"Jalpa",23557,11380,12177
+32,"Zacatecas",20,"Jerez",57610,27792,29818
+32,"Zacatecas",21,"Jiménez del Teul",4584,2238,2346
+32,"Zacatecas",22,"Juan Aldama",20543,9947,10596
+32,"Zacatecas",23,"Juchipila",12284,5863,6421
+32,"Zacatecas",24,"Loreto",48365,23746,24619
+32,"Zacatecas",25,"Luis Moya",12234,6075,6159
+32,"Zacatecas",26,"Mazapil",17813,9331,8482
+32,"Zacatecas",27,"Melchor Ocampo",2662,1414,1248
+32,"Zacatecas",28,"Mezquital del Oro",2584,1219,1365
+32,"Zacatecas",29,"Miguel Auza",22296,10853,11443
+32,"Zacatecas",30,"Momax",2529,1216,1313
+32,"Zacatecas",31,"Monte Escobedo",8929,4352,4577
+32,"Zacatecas",32,"Morelos",11493,5690,5803
+32,"Zacatecas",33,"Moyahua de Estrada",4563,2155,2408
+32,"Zacatecas",34,"Nochistlán de Mejía",27932,13157,14775
+32,"Zacatecas",35,"Noria de Ángeles",15607,7663,7944
+32,"Zacatecas",36,"Ojocaliente",40740,19749,20991
+32,"Zacatecas",37,"Pánuco",16875,8407,8468
+32,"Zacatecas",38,"Pinos",69844,33973,35871
+32,"Zacatecas",39,"Río Grande",62693,30198,32495
+32,"Zacatecas",40,"Sain Alto",21533,10433,11100
+32,"Zacatecas",41,"El Salvador",2710,1378,1332
+32,"Zacatecas",42,"Sombrerete",61188,30159,31029
+32,"Zacatecas",43,"Susticacán",1360,636,724
+32,"Zacatecas",44,"Tabasco",15656,7603,8053
+32,"Zacatecas",45,"Tepechitlán",8215,3934,4281
+32,"Zacatecas",46,"Tepetongo",7090,3401,3689
+32,"Zacatecas",47,"TEÚL DE GONZÁLEZ ORTEGA",5506,2656,2850
+32,"Zacatecas",48,"Tlaltenango de Sánchez Román",25493,12470,13023
+32,"Zacatecas",49,"Valparaíso",33323,16349,16974
+32,"Zacatecas",50,"Vetagrande",9353,4561,4792
+32,"Zacatecas",51,"Villa de Cos",34328,17164,17164
+32,"Zacatecas",52,"Villa García",18269,9035,9234
+32,"Zacatecas",53,"Villa González Ortega",12893,6177,6716
+32,"Zacatecas",54,"Villa Hidalgo",18490,9120,9370
+32,"Zacatecas",55,"Villanueva",29395,14303,15092
+32,"Zacatecas",56,"Zacatecas",138176,66297,71879
+32,"Zacatecas",57,"Trancoso",16934,8358,8576
+32,"Zacatecas",58,"Santa María de la Paz",2821,1402,1419
