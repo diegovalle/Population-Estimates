@@ -115,7 +115,7 @@ makePopEstimates <- function(pop, census10, sex) {
         a85plus = round(na.spline(a85plus, method = "monoH.FC"))
                )
   
-  
+  pop$MunName <- rep(pop$MunName[which(index(pop$MunName) %% 23 == 0)], each = 23)
   names(pop) <- colnames
   pop
 }
