@@ -3,7 +3,7 @@ Population Estimates
 
 This program creates population estimates at the county level by age group for the country of Mexico. The counties match those in the mortality database.
 
-First download the excel files from the [sinais](http://www.sinais.salud.gob.mx/descargas/xls/) website and place them in the colmex directory. Then run the file pop-estimates.r. You'll get the estimates in the _clean-data_ directory
+First download the excel files from the [sinais](http://www.sinais.salud.gob.mx/demograficos/poblacion.html) website and place them in the colmex directory. Then run the file pop-estimates.r. You'll get the estimates in the _clean-data_ directory
 
 * pop, popmen, popwomen - Total population by sex and age group according to the Colmex Conapao
 * pop-census, popmale-census, popfemale-census - Total population by sex and age group taking into account the 2010 census
