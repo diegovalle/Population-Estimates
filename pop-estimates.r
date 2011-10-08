@@ -121,7 +121,7 @@ makePopEstimates <- function(pop, census10, sex) {
   
   pop$MunName <- rep(pop$MunName[which(index(pop$MunName) %% 23 == 0)], each = 23)
   names(pop) <- colnames
-  pop[,3:(ncol(pop)-1]
+  pop[,3:(ncol(pop)-1)][pop[,3:(ncol(pop)-1)] < 0] <- 0
   pop
 }
 
@@ -165,7 +165,7 @@ simpleEstimates <- function(df, dfwomen, dfmen, censusfile) {
   pop <- ddply(pop, .(id), transform,
                Population = round(na.spline(Population, method = "monoH.FC")))
   pop <- ddply(pop, .(id), transform,
-               MalePop = round(na.spline(MalePop, method = "natural")))
+               MalePop = round(na.spline(MalePop, method = "monoH.FC")))
   pop <- ddply(pop, .(id), transform,
                FemalePop  = round(na.spline(FemalePop, method = "monoH.FC")))
   
@@ -282,5 +282,6 @@ popm.census <- makePopEstimates(popmen, c10m, "Males")
 #Check if there are crazy numbers
 ddply(popm.census, .(Year), summarise, sum(Population))
 write.csv(popm.census, "clean-data/popmale-census.csv", row.names = FALSE)
+
 
 
