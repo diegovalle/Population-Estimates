@@ -28,6 +28,9 @@ cleanCensusData <- function(filename, sex) {
   c10a$X2.Años <- NULL
   c10a$X3.Años <- NULL
   c10a$X4.Años <- NULL
+
+  #c10a$No.especificado[is.na(c10a$No.especificado)] <- 0
+  c10a[is.na(c10a)] <- 0
   
   coltoconv <- 4:ncol(c10a)
   adj <- c10a$Total
@@ -50,7 +53,7 @@ cleanCensusData <- function(filename, sex) {
   names(c10a) <- c("id", "MunName", "Population", colnames)
   head(c10a)
 
-
+  
   coltoconv <- 4:ncol(c10a)
   #Tulum was created from Solidaridad
   c10a[which(c10a$id == 23008),coltoconv] <- c10a[which(c10a$id == 23009), coltoconv] + c10a[which(c10a$id == 23008), coltoconv]
@@ -58,6 +61,7 @@ cleanCensusData <- function(filename, sex) {
   c10a[which(c10a$id == 14008), coltoconv] <- c10a[which(c10a$id == 14008), coltoconv] + c10a[which(c10a$id == 14125), coltoconv]
   c10a <- subset(c10a, !id %in% c(14125, 23009))
   c10a$Year <- 2010
+  
   c10a
 }
 
@@ -94,29 +98,30 @@ makePopEstimates <- function(pop, census10, sex) {
   pop <- pop[order(pop$Year, pop$id),]
 
   pop <- ddply(pop, .(id), transform,
-        Population = round(na.spline(Population, method = "monoH.FC")),
-        a0.4 = round(na.spline(a0.4, method = "monoH.FC")),
-        a5.9 = round(na.spline(a5.9, method = "monoH.FC")),
-        a10.14 = round(na.spline(a10.14, method = "monoH.FC")),
-        a15.19 = round(na.spline(a15.19, method = "monoH.FC")),
-        a20.24 = round(na.spline(a20.24, method = "monoH.FC")),
-        a25.29 = round(na.spline(a25.29, method = "monoH.FC")),
-        a30.34 = round(na.spline(a30.34, method = "monoH.FC")),
-        a35.39 = round(na.spline(a35.39, method = "monoH.FC")),
-        a40.44 = round(na.spline(a40.44, method = "monoH.FC")),
-        a45.49 = round(na.spline(a45.49, method = "monoH.FC")),
-        a50.54 = round(na.spline(a50.54, method = "monoH.FC")),
-        a55.59 = round(na.spline(a55.59, method = "monoH.FC")),
-        a60.64 = round(na.spline(a60.64, method = "monoH.FC")),
-        a65.69 = round(na.spline(a65.69, method = "monoH.FC")),
-        a70.74 = round(na.spline(a70.74, method = "monoH.FC")),
-        a75.79 = round(na.spline(a75.79, method = "monoH.FC")),
-        a80.84 = round(na.spline(a80.84, method = "monoH.FC")),
-        a85plus = round(na.spline(a85plus, method = "monoH.FC"))
-               )
+         Population = round(na.spline(Population, method = "monoH.FC")),
+         a0.4 = round(na.spline(a0.4, method = "monoH.FC")),
+         a5.9 = round(na.spline(a5.9, method = "monoH.FC")),
+         a10.14 = round(na.spline(a10.14, method = "monoH.FC")),
+         a15.19 = round(na.spline(a15.19, method = "monoH.FC")),
+         a20.24 = round(na.spline(a20.24, method = "monoH.FC")),
+         a25.29 = round(na.spline(a25.29, method = "monoH.FC")),
+         a30.34 = round(na.spline(a30.34, method = "monoH.FC")),
+         a35.39 = round(na.spline(a35.39, method = "monoH.FC")),
+         a40.44 = round(na.spline(a40.44, method = "monoH.FC")),
+         a45.49 = round(na.spline(a45.49, method = "monoH.FC")),
+         a50.54 = round(na.spline(a50.54, method = "monoH.FC")),
+         a55.59 = round(na.spline(a55.59, method = "monoH.FC")),
+         a60.64 = round(na.spline(a60.64, method = "monoH.FC")),
+         a65.69 = round(na.spline(a65.69, method = "monoH.FC")),
+         a70.74 = round(na.spline(a70.74, method = "monoH.FC")),
+         a75.79 = round(na.spline(a75.79, method = "monoH.FC")),
+         a80.84 = round(na.spline(a80.84, method = "monoH.FC")),
+         a85plus = round(na.spline(a85plus, method = "monoH.FC"))
+                )
   
   pop$MunName <- rep(pop$MunName[which(index(pop$MunName) %% 23 == 0)], each = 23)
   names(pop) <- colnames
+  pop[,3:(ncol(pop)-1]
   pop
 }
 
@@ -158,11 +163,11 @@ simpleEstimates <- function(df, dfwomen, dfmen, censusfile) {
   pop <- pop[order(pop$id, pop$Year), ]
 
   pop <- ddply(pop, .(id), transform,
-               Population = round(na.spline(Population)))
+               Population = round(na.spline(Population, method = "monoH.FC")))
   pop <- ddply(pop, .(id), transform,
-               MalePop = round(na.spline(MalePop)))
+               MalePop = round(na.spline(MalePop, method = "natural")))
   pop <- ddply(pop, .(id), transform,
-               FemalePop  = round(na.spline(FemalePop)))
+               FemalePop  = round(na.spline(FemalePop, method = "monoH.FC")))
   
   pop$MunName <- rep(pop$MunName[which(index(pop$MunName) %% 23 == 0)], each = 23)
   #make sure the municipalities match
@@ -277,4 +282,5 @@ popm.census <- makePopEstimates(popmen, c10m, "Males")
 #Check if there are crazy numbers
 ddply(popm.census, .(Year), summarise, sum(Population))
 write.csv(popm.census, "clean-data/popmale-census.csv", row.names = FALSE)
+
 
