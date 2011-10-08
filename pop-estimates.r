@@ -54,7 +54,7 @@ cleanCensusData <- function(filename, sex) {
   head(c10a)
 
   
-  coltoconv <- 4:ncol(c10a)
+  coltoconv <- 3:ncol(c10a)
   #Tulum was created from Solidaridad
   c10a[which(c10a$id == 23008),coltoconv] <- c10a[which(c10a$id == 23009), coltoconv] + c10a[which(c10a$id == 23008), coltoconv]
   #San Ignacio Cerro Gordo was created from Arandas
@@ -150,9 +150,9 @@ simpleEstimates <- function(df, dfwomen, dfmen, censusfile) {
                      "FemalePop", "Year", "id")
   ct2010$ENT <- NULL;ct2010$MUN <- NULL
 
-#Tulum was created from Solidaridad
+  ##Tulum was created from Solidaridad
   ct2010[which(ct2010$id == 23008), 2:4] <- ct2010[which(ct2010$id == 23009), 2:4] + ct2010[which(ct2010$id == 23008), 2:4]
-#San Ignacio Cerro Gordo was created from Arandas
+  ##San Ignacio Cerro Gordo was created from Arandas
   ct2010[which(ct2010$id == 14008), 2:4] <- ct2010[which(ct2010$id == 14008), 2:4] + ct2010[which(ct2010$id == 14125), 2:4]
   ct2010 <- subset(ct2010, !id %in% c(14125, 23009))
 
