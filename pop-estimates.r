@@ -11,6 +11,7 @@ library(stringr)
 library(ggplot2)
 library(zoo)
 library(gdata)
+library(car)
 options(stringsAsFactors=FALSE)
 
 cleanCensusData <- function(filename, sex) {
@@ -202,6 +203,29 @@ CleanXLS <- function(year, sex, sheet) {
   all
 }
 
+renameVariables <- function(df) {
+  df$variable <- car::recode(df$variable,
+            "'Population' = 'Total';
+             'a0.4' = '0-4';
+             'a5.9' = '5-9';
+             'a10.14' = '10-14';
+             'a15.19' = '15-19';
+             'a20.24' = '20-24'; 
+             'a25.29' = '25-29';
+             'a30.34' = '30-34';
+             'a35.39' = '35-39';
+             'a40.44' = '40-44';
+             'a45.49' = '45-49';
+             'a50.54' = '50-54';
+             'a55.59' = '55-59'; 
+             'a60.64' = '60-64';
+             'a65.69' = '65-69';
+             'a70.74' = '70-74';
+             'a75.79' = '75-79';
+             'a80.84' = '80-84';
+             'a85plus' = '85plus';")
+  df
+}
 
 ########################################################
 #Clean the CONAPO-Colmex pop estimates
@@ -270,17 +294,29 @@ all.equal(subset(pop, Year == 1990)$id, c10m$id)
 pop.census <- makePopEstimates(pop, c10a, "All")
 #Check if there are crazy numbers
 ddply(pop.census, .(Year), summarise, sum(Population))
+pop.census <- melt(pop.census, id = c("id", "MunName", "Year"))
+pop.census <- renameVariables(pop.census)
+pop.census$Sex <- "Total"
+names(pop.census) <- c("id", "MunName", "Year", "AgeGroup", "Population", "Sex")
 write.csv(pop.census, "clean-data/pop-census.csv", row.names = FALSE)
 
 
 popf.census <- makePopEstimates(popwomen, c10f, "Females")
 #Check if there are crazy numbers
 ddply(popf.census, .(Year), summarise, sum(Population))
+popf.census <- melt(popf.census, id = c("id", "MunName", "Year"))
+popf.census <- renameVariables(popf.census)
+popf.census$Sex <- "Female"
+names(popf.census) <- c("id", "MunName", "Year", "AgeGroup", "Population", "Sex")
 write.csv(popf.census, "clean-data/popfemale-census.csv", row.names = FALSE)
 
 popm.census <- makePopEstimates(popmen, c10m, "Males")
 #Check if there are crazy numbers
 ddply(popm.census, .(Year), summarise, sum(Population))
+popm.census <- melt(popm.census, id = c("id", "MunName", "Year"))
+popm.census <- renameVariables(popm.census)
+popm.census$Sex <- "Male"
+names(popm.census) <- c("id", "MunName", "Year", "AgeGroup", "Population", "Sex")
 write.csv(popm.census, "clean-data/popmale-census.csv", row.names = FALSE)
 
 
