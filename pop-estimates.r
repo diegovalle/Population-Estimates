@@ -24,11 +24,7 @@ cleanCensusData <- function(filename, sex) {
   c10a[,coltoconv] <- sapply(c10a[,coltoconv], function(x) as.numeric(gsub(",", "", x)))
   
                                         #c10a$De.0.a.4.años <- NULL
-  c10a$X0.Años <- NULL
-  c10a$X1.Año <- NULL
-  c10a$X2.Años <- NULL
-  c10a$X3.Años <- NULL
-  c10a$X4.Años <- NULL
+  c10a$X0.Años <- c10a$X1.Año <- c10a$X2.Años <- c10a$X3.Años <- c10a$X4.Años <- NULL
 
   #c10a$No.especificado[is.na(c10a$No.especificado)] <- 0
   c10a[is.na(c10a)] <- 0
@@ -74,15 +70,11 @@ makePopEstimates <- function(pop, census10, sex) {
   names(pop) <- funnames
 
   colnames <- names(census10)
-    
+  
+  pop$a.0 <- pop$a1.4 <- pop$a85.89 <- pop$a90.94 <- pop$a95.99 <- pop$a.100 <- NULL
   pop$a0.4 <- pop$a.0 + pop$a1.4
-  pop$a.0 <- NULL
-  pop$a1.4 <- NULL
-  pop$a85plus <-  pop$a85.89 + pop$a90.94 +  pop$a95.99 + pop$a.100
-  pop$a85.89 <- NULL
-  pop$a90.94 <- NULL
-  pop$a95.99 <- NULL
-  pop$a.100 <- NULL
+  pop$a85plus <- pop$a85.89 + pop$a90.94 +  pop$a95.99 + pop$a.100
+ 
   #funnames <- names(pop)
   pop <- pop[,c(1:3,21,4:19,22,20)]
   
@@ -136,10 +128,7 @@ simpleEstimates <- function(df, dfwomen, dfmen, censusfile) {
   ct2010 <- read.csv(censusfile)
   ct2010$Year <- 2010
 
-
-
-  ct2010$State <- NULL
-  ct2010$NOM_ENT <- NULL
+  ct2010$State <- ct2010$NOM_ENT <- NULL
   ct2010 <- subset(ct2010, MUN != 0 & ENTIDAD != 0)
   names(ct2010) <- c("ENTIDAD", "MUN", "County10", "Total10", "Hombres10",
                      "Mujeres10", "Year10")
@@ -149,14 +138,14 @@ simpleEstimates <- function(df, dfwomen, dfmen, censusfile) {
 
   names(ct2010) <- c("ENT", "MUN", "MunName", "Population", "MalePop",
                      "FemalePop", "Year", "id")
-  ct2010$ENT <- NULL;ct2010$MUN <- NULL
+
+  ct2010$ENT <- ct2010$MUN <- NULL
 
   ##Tulum was created from Solidaridad
   ct2010[which(ct2010$id == 23008), 2:4] <- ct2010[which(ct2010$id == 23009), 2:4] + ct2010[which(ct2010$id == 23008), 2:4]
   ##San Ignacio Cerro Gordo was created from Arandas
   ct2010[which(ct2010$id == 14008), 2:4] <- ct2010[which(ct2010$id == 14008), 2:4] + ct2010[which(ct2010$id == 14125), 2:4]
   ct2010 <- subset(ct2010, !id %in% c(14125, 23009))
-
 
   pop <- subset(pop, Year != 2010)
   pop[which(pop$Year %in% c(2001:2009, 2011:2012)), c("Population","MalePop","FemalePop")] <- NA
@@ -235,9 +224,7 @@ if(!file.exists("clean-data/pop.csv") |
    !file.exists("clean-data/popmen.csv") |
    !file.exists("clean-data/popwomen.csv")) {
   
-  pop <- data.frame()
-  popwomen <- data.frame()
-  popmen <- data.frame()
+  pop <- popwomen <- popmen <- data.frame()
 
   for(year in 1990:2012) {
     all <- CleanXLS(year, "All", 1)
@@ -318,6 +305,3 @@ popm.census <- renameVariables(popm.census)
 popm.census$Sex <- "Male"
 names(popm.census) <- c("id", "MunName", "Year", "AgeGroup", "Population", "Sex")
 write.csv(popm.census, "clean-data/popmale-census.csv", row.names = FALSE)
-
-
-
